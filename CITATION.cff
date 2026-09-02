@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: このデータセットを利用・引用する場合は、以下の情報を使ってください。
+title: 議会活動データベース（三神たかし・さいたま市議会）
+abstract: >-
+  さいたま市議会議員・三神たかし（三神尊志、見沼区選出）が2007年の初当選以降に
+  議会で行った質問・会派予算提案を構造化したデータセット。対応状況（result_level）の
+  判定は議員本人による自己申告であり、第三者による独立した検証は含まれない。
+type: dataset
+authors:
+  - family-names: 三神
+    given-names: 尊志
+    alias: 三神たかし
+    affiliation: さいたま市議会
+license: CC-BY-4.0
+repository-code: https://github.com/mikami-takashi-saitamacity/council-activity-db
+url: https://mikami-takashi.net/archive.html
+version: 1.1.0
+date-released: '2026-08-31'
+keywords:
+  - 地方議会
+  - 議会活動
+  - 議事録
+  - オープンデータ
+  - さいたま市
+  - local government
