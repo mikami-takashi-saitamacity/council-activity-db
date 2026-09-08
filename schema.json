@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "議員活動アーカイブ スキーマ",
+  "title": "議会活動データベース スキーマ",
   "description": "地方議員の議会活動（質問・質疑・政策提案）を構造化するためのJSONスキーマ。三神たかし（さいたま市議会議員）が実証・公開。他の議員・研究者による活用を歓迎します。",
   "version": "1.1.0",
   "author": "三神たかし（さいたま市議会議員 見沼区選出）",
@@ -114,6 +114,35 @@
       "follow_up": {
         "type": "string",
         "description": "その後の成果・実現状況（根拠となる出典を含む）"
+      },
+      "follow_up_evidence": {
+        "type": "object",
+        "description": "提案後の進展を裏付ける根拠の構造化データ。自由記述の follow_up を補完し、議会での確認（council_ref）と行政資料での確認（evidence_url）を事実として記録する。表示上の分類（議会で確認／行政資料で確認 等）は記入状況から導出し、本項目には分類を書かない。",
+        "properties": {
+          "council_ref": {
+            "type": "string",
+            "format": "uri",
+            "description": "実施状況を確認した質問の会議録URL。将来は当該記録の id による参照に置き換える予定"
+          },
+          "evidence_title": {
+            "type": "string",
+            "description": "実施を示す行政資料の名称"
+          },
+          "evidence_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "行政資料のURL（さいたま市公式サイト等）。kaigiroku.net のURLはここに入れず council_ref に置く"
+          },
+          "verified_date": {
+            "type": "string",
+            "format": "date",
+            "description": "evidence_url の存在を最後に確認した日（YYYY-MM-DD）"
+          }
+        },
+        "dependencies": {
+          "evidence_url": ["verified_date"]
+        },
+        "additionalProperties": false
       }
     }
   },
