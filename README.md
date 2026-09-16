@@ -7,7 +7,7 @@
 - 分野タグ：15分類（複数付与あり）
 - 対応状況：実施済 177件／改善・対応予定 204件／検討を引き出した 39件／研究段階 126件／提案のみ 92件／適正確認 28件
 - 公開サイト：https://mikami-takashi.net/archive.html
-- ライセンス：CC BY 4.0（出典表示のみで、商用を含め自由に利用できます）
+- ライセンス：CC BY 4.0（出典表示のみで、商用を含め自由に利用できます。`schema.json` および本 README を含みます）
 
 *Structured dataset of 666 (as of Aug 2026) council questions and budget proposals (2007–) by Takashi Mikami, member of the Saitama City Council, Japan. Licensed under CC BY 4.0.*
 
@@ -48,6 +48,27 @@
 ### 対応状況（result_level）の判定
 
 **判定は三神本人が行っています。** 行政の答弁や、その後の予算・事業の動きをもとに、「実施済」「検討・対応予定」「提案のみ」等に分類しています。第三者による判定ではないことを前提に、判断の根拠は各件の要約と、可能な限り整備している議事録原文へのリンクで確認してください。
+
+### follow_up_evidence（提案後の進展を裏付ける根拠）
+
+`follow_up` が自由記述であるのに対し、`follow_up_evidence` は根拠を構造化して記録します。分類を書くのではなく、確認できた事実だけを書きます。
+
+| 要素 | 内容 |
+|---|---|
+| `council_ref` | 議会で実施状況を確認した質問の会議録URL |
+| `evidence_title` / `evidence_url` | 実施を示す行政資料の名称とURL |
+| `verified_date` | 行政資料の存在を最後に確認した日（`evidence_url` 記入時は必須） |
+
+記入状況から、次のように表示が導かれます。
+
+| council_ref | evidence_url | 表示 |
+|---|---|---|
+| あり | あり | 議会・行政資料で確認 |
+| あり | なし | 議会で確認 |
+| なし | あり | 行政資料で確認 |
+| なし | なし | （表示なし。`follow_up` の自由記述のみ） |
+
+議会で確認した案件と、行政資料でのみ確認した案件を区別して見せるのは、両者の信頼度が異なるためです。
 
 ### 収録方針
 
