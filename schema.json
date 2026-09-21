@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "議会活動データベース スキーマ",
   "description": "地方議員の議会活動（質問・質疑・政策提案）を構造化するためのJSONスキーマ。三神たかし（さいたま市議会議員）が実証・公開。他の議員・研究者による活用を歓迎します。",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "三神たかし（さいたま市議会議員 見沼区選出）",
   "license": "CC BY 4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
@@ -14,9 +14,16 @@
       "date",
       "question_topic",
       "result_level",
-      "source_type"
+      "source_type",
+      "source_status",
+      "tags"
     ],
     "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^mikami-[0-9]{6}$",
+        "description": "レコードの恒久的な識別子（mikami-NNNNNN、NNNNNNは6桁数字）。意味を持たない代理キーで、年代・重要度・資料上の順序とは無関係。v1.2.0では必須ではない"
+      },
       "date": {
         "type": "string",
         "format": "date",
@@ -81,7 +88,8 @@
             "防災・消防"
           ]
         },
-        "description": "分野タグ（複数可）。15分類から選択"
+        "minItems": 1,
+        "description": "複数選択可能な政策分野の分類（15分類）。1個以上を選択する"
       },
       "answer_summary": {
         "type": "string",
@@ -106,6 +114,22 @@
           "予算提案"
         ],
         "description": "データソースの種別"
+      },
+      "source_status": {
+        "type": "string",
+        "enum": [
+          "official",
+          "provisional"
+        ],
+        "description": "出典の確定状態。official=正式な会議録または市の回答書（予算提案）／provisional=正式会議録公開前の速報版に基づく暫定要旨（この場合 source_url は空文字）"
+      },
+      "source_locator": {
+        "type": "string",
+        "description": "予算提案の正本上の自然キー（年度-大項目2桁-丸数字2桁）。idの生成には使わない。議事録には使用しない"
+      },
+      "fiscal_year": {
+        "type": "integer",
+        "description": "予算提案の対象予算年度。議事録には使用しない"
       },
       "source_url": {
         "type": "string",
@@ -144,7 +168,27 @@
         },
         "additionalProperties": false
       }
-    }
+    },
+    "allOf": [
+      {
+        "if": {
+          "properties": {
+            "source_status": {
+              "const": "provisional"
+            }
+          },
+          "required": ["source_status"]
+        },
+        "then": {
+          "required": ["source_url"],
+          "properties": {
+            "source_url": {
+              "maxLength": 0
+            }
+          }
+        }
+      }
+    ]
   },
   "notes": {
     "encoding": "UTF-8",

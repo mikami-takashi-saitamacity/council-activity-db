@@ -15,6 +15,7 @@
     "answer_summary": "表彰制度全体や式典の在り方の見直し（個人・団体ともに対象）を社会福祉協議会とも調整しながら検討していくと答弁。多段階表彰・市長特別感謝状等の運用も含めた全体見直しを確認。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -34,6 +35,7 @@
     "answer_summary": "現状は院外有識者等を交えた医療事故対策委員会で専門性・客観性を担保。完全独立型の第三者委員会設立については「真摯に検討したい」との答弁を引き出した。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -53,6 +55,7 @@
     "answer_summary": "議員おっしゃるとおり、法と条例の二重根拠になることを避けるため条例側を削除し準法定事務として一本化するもの。対象者の手続きに変更なしと答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -62,6 +65,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "子どもの権利救済のための第三者機関設置について",
     "issue": "子どもの権利侵害やいじめが深刻化・重大化する前に対応できる独立機関が存在しない。",
     "proposal": "子どもの当事者性を尊重した第三者機関を設置し、相談・調査・勧告ができる権利救済の仕組みを整えること。",
@@ -81,6 +85,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "小学校給食費無償化の実現について",
     "issue": "学校給食費の保護者負担が重く、物価高騰により食材費も上昇している。中学校を含む全校での無償化が求められている。",
     "proposal": "国の動向を注視しつつ、食材の量・質の低下を招かないよう差額補償など必要な予算措置を行うこと。",
@@ -100,6 +105,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "難病者への公共施設減免措置の拡大について",
     "issue": "公共施設利用時の減免措置が3障害（身体・知的・精神）に限られており、障害手帳を持たない難病患者が対象外となっている。",
     "proposal": "公共施設利用時の減免措置に難病者も含めること。また市職員採用において障害手帳を持たない難病者枠を設けること。",
@@ -120,6 +126,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "高齢者等の移動支援事業の予算拡充について",
     "issue": "超高齢化社会を迎え、外出が困難な高齢者の移動手段が不足している。予算規模が実態に追いついていない。",
     "proposal": "高齢者等の移動支援事業の予算額を大幅に引き上げ、コミュニティバス・グリーンスローモビリティ等の移動手段を充実させること。",
@@ -139,6 +146,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "共通投票所の設置によるアクセシビリティ改善について",
     "issue": "有権者が登録外投票所で投票できない現行制度が投票率向上の障壁となっている。",
     "proposal": "共通投票所の設置など投票環境のアクセシビリティを改善し、子ども・若者が主権者として学ぶ機会を設けること。",
@@ -158,6 +166,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "学校体育館へのエアコン設置方針の決定について",
     "issue": "市立中学校体育館のエアコン設置が未整備の学校があり、熱中症リスクが高い状況が続いている。",
     "proposal": "エアコンを全市立学校の特別教室・給食室・武道場へ速やかに設置し、断熱・換気設備の導入も進めること。",
@@ -176,6 +185,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "ケアマネージャーの処遇改善と研修費用補助について",
     "issue": "ケアマネージャーの法定研修受講料が高額で事業所負担となっており、処遇改善も不十分な現状がある。",
     "proposal": "ケアマネージャーの処遇改善と法定研修の受講料に対する補助を行うこと。",
@@ -194,6 +204,7 @@
     "meeting_type": "予算提案",
     "committee": "",
     "source_type": "予算提案",
+    "source_status": "official",
     "question_topic": "公民館全館へのWi-Fi設置について",
     "issue": "地区公民館のWi-Fi整備が拠点公民館10館のみで、デジタル活用推進（e公民館）に向けた全館整備が遅れている。",
     "proposal": "公民館全館へのWi-Fi設置はe公民館推進のためにも必須であり早急に進めること。",
@@ -221,6 +232,7 @@
     "answer_summary": "市長は組織トップとして責任を果たすため給与減額を決断したと答弁。再発防止策17項目の確実な実施と効果検証を継続的に行うと明言し、これで終わりではないと述べた。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1282&motions_id=1&hearing=True",
     "follow_up": ""
   },
@@ -239,6 +251,7 @@
     "answer_summary": "VR体験は市民から好評で理解促進に有効と確認。サポーター養成講座での定期的なVR活用を拡充するとともに、センターのホームページ・チラシを充実させ認知度を高めていくと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1278&motions_id=2&hearing=True",
     "follow_up": ""
   },
@@ -258,6 +271,7 @@
     "answer_summary": "2024年改定の整備基準マニュアルに認知症配慮の項目を新たに追加済み。認知症フレンドリー企業・団体登録制度を通じ認知症に配慮した環境整備を促進していくと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1278&motions_id=2&hearing=True",
     "follow_up": ""
   },
@@ -277,6 +291,7 @@
     "answer_summary": "認知症希望大使を設置し施策意見聴取に参画。経済産業省のオレンジイノベーション・プロジェクトにパートナー団体として参加し、1月には埼玉大学との共催シンポジウムを予定していると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1278&motions_id=2&hearing=True",
     "follow_up": ""
   },
@@ -296,6 +311,7 @@
     "answer_summary": "受託者変更時の丁寧な引継ぎと子供・保護者への事前面談を実施する。受託者との緊密なコミュニケーションと現場ニーズの把握を続けると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1278&motions_id=2&hearing=True",
     "follow_up": ""
   },
@@ -314,6 +330,7 @@
     "answer_summary": "審査委員変更・得点配分変更の影響はあるが大きな問題はないと判断。選定結果を踏まえ市民サービス向上を指定管理者に働きかけると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1277&motions_id=1&hearing=True",
     "follow_up": ""
   },
@@ -332,6 +349,7 @@
     "answer_summary": "当事者の特性上アウトカム指標化は困難だが、支援機関との連携強化こそが事業推進に重要との見解を示した。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1277&motions_id=1&hearing=True",
     "follow_up": ""
   },
@@ -351,6 +369,7 @@
     "answer_summary": "来場者数はアウトプット指標で、アウトカムは市民意識調査で補完する体制。アンケート結果を翌年度にフィードバックする仕組みを活用していくと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1277&motions_id=1&hearing=True",
     "follow_up": ""
   },
@@ -370,6 +389,7 @@
     "answer_summary": "試行導入の方向で検討を進める。手話通訳者の議場入室は議長権限で許可可能との見解が示された。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1061&sched_id=1274&motions_id=1&hearing=True",
     "follow_up": ""
   },
@@ -388,6 +408,7 @@
     "answer_summary": "利用料金は公の施設使用料の見直し方針の中で検討。集会室の用途転換・バスルートは指定管理者と検討を進める。石けん等の設置可能性も指定管理者と検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": ""
   },
@@ -406,6 +427,7 @@
     "answer_summary": "劣化箇所の修繕を今秋に実施。中規模修繕以前になるべく早い段階で空調設備を更新できるよう関係部署と協議を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": "2026年4月 大宮駅〜市立病院バス路線が新設された。"
   },
@@ -425,6 +447,7 @@
     "answer_summary": "公益通報は受理後調査に一定期間要するケースがある。診療ガイドラインは意思決定の判断材料の一つであり、これと異なる医療が直ちに法的注意義務違反とは言えないと答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": ""
   },
@@ -445,7 +468,8 @@
     "result_level": "実施済",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2025-09-12",
@@ -464,7 +488,8 @@
     "result_level": "適正確認",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2025-09-12",
@@ -483,7 +508,8 @@
     "result_level": "実施済",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1058&schedule_id=5&minute_id=7&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2025-09-12",
@@ -500,6 +526,7 @@
     "answer_summary": "受給者減少は景気動向・人口推移・他制度の活用など複合的要因によるものと分析。本市の広報・相談体制は適切に機能していると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": ""
   },
@@ -519,6 +546,7 @@
     "answer_summary": "価格のみによる一般競争入札で実施。仕様書により業務要件は担保されているとの認識を示した。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1054&schedule_id=3&minute_id=14&is_search=true",
     "follow_up": ""
   },
@@ -538,6 +566,7 @@
     "answer_summary": "指摘を踏まえ、行政が主体となって地域と協働する姿勢が分かるよう文章を改訂したと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1058&schedule_id=5&minute_id=7&is_search=true",
     "follow_up": ""
   },
@@ -557,6 +586,7 @@
     "answer_summary": "民生委員や包括連携協定企業と連携した啓発を既に実施。他自治体事例も踏まえ今後の取組を検討していくと答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -575,6 +605,7 @@
     "answer_summary": "2025年8月に実証事業者の公募を開始し9月下旬に選定予定。補助要件を満たす提案があれば事業者と連携して積極的に申請し国内初実装を目指すと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -594,6 +625,7 @@
     "answer_summary": "横浜市と同一業者のシステムを使用しており連絡を密にしている。横浜市の状況を確認しながらさいたま市での導入可能性を研究すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -612,6 +644,7 @@
     "answer_summary": "移動投票所は利便性と公平性のバランスが課題。他の大都市と情報交換を図りながら本市の実情に合った取組を調査研究すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -630,6 +663,7 @@
     "answer_summary": "投票事務要領にサインガイドという名称を併記し打合せ会で周知する。代理記入時の声の大きさに注意するよう周知すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -648,6 +682,7 @@
     "answer_summary": "コミュニティ・スクールを活用した好事例をホームページで広報。1月にシンポジウムを開催し保護者・地域の参画意識を高める予定と答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -666,6 +701,7 @@
     "answer_summary": "緊急支援チームを既に構築しているが複雑化・長期化が課題。保護者対応の新たな支援体制構築が喫緊の課題として先進事例の情報収集に努めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -685,6 +721,7 @@
     "answer_summary": "地域展開と一体的に推進し子供たちが地域でスポーツ・文化芸術に親しめる体制を整備する。学校をまたいだ指導も地域展開モデル校の検証と併せて検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -704,6 +741,7 @@
     "answer_summary": "自治会集会所補助については物価高騰が影響しており地域コミュニティを支援するための補助の在り方を検討すると答弁。各補助の見直しは各所管局と調整しながら進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1047&schedule_id=8&minute_id=206&is_search=true",
     "follow_up": ""
   },
@@ -724,6 +762,7 @@
     "answer_summary": "救急医確保に継続取組。バス事業者への要望を継続中。駐車場の適正利用方策を検討。コミュニティバスは都市局との協議再開を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1043&schedule_id=3&minute_id=7&is_search=true",
     "follow_up": "🎉 2026年4月 大宮駅〜市立病院バス路線が新設された。三神の提案から約10か月での実現。"
   },
@@ -743,6 +782,7 @@
     "answer_summary": "歴史的経緯から情報の差異が生じており仕方ない面もあるが、今後も土地の変動があれば正確に把握していくと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1040&schedule_id=1&minute_id=4&is_search=true",
     "follow_up": ""
   },
@@ -761,6 +801,7 @@
     "answer_summary": "第三者委員会が指摘した組織・人事上の問題を重く受け止め、17項目の再発防止策を全庁で着実に実施し継続的に効果検証していくと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -780,6 +821,7 @@
     "answer_summary": "一部学校では共用化が進んでいる。費用対効果・衛生管理・保管場所等の課題を踏まえながら共用化の推進を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1037&schedule_id=2&minute_id=8&is_search=true",
     "follow_up": ""
   },
@@ -799,6 +841,7 @@
     "answer_summary": "多様な特性を持つ子供を広く受け入れる方向で検討中。Growthのオンライン機能は教育支援センターに移行し継続する方針と答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1037&schedule_id=2&minute_id=8&is_search=true",
     "follow_up": ""
   },
@@ -818,6 +861,7 @@
     "answer_summary": "寄附者が目的を指定できる仕組みを検討し、活用状況を寄附者にフィードバックしていく方向で対応すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1037&schedule_id=2&minute_id=8&is_search=true",
     "follow_up": ""
   },
@@ -838,6 +882,7 @@
     "answer_summary": "グリーンインフラは市の重要政策であり配点の根拠を説明。スポーツ機能との総合的なバランスも審査委員が判断すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1037&schedule_id=2&minute_id=8&is_search=true",
     "follow_up": ""
   },
@@ -856,6 +901,7 @@
     "answer_summary": "地域・年代別分析を強化しながら取組を継続。5期目については現在熟慮中と答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -875,6 +921,7 @@
     "answer_summary": "県と協議の場を設置することで合意。市有地と隣接する県有地を含め、美園地区のまちづくりに資する利活用を県と連携して検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -893,6 +940,7 @@
     "answer_summary": "財政局・建設局が計画段階から連携して事業費を確認する仕組みを今年度から構築。中期財政収支試算を更新し事業の全体最適化を図ると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -912,6 +960,7 @@
     "answer_summary": "来年度に契約管理部を中心とした研究チームを設置。ステークホルダーとの意見交換を重ね、賃金条項型・理念型両面から丁寧に検討を進めると明言。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -931,6 +980,7 @@
     "answer_summary": "市南西部での設置を検討中。浦和工業高校跡地を候補地として県と協議中。県との人事交流は開校時の人材確保と児童の安心な学校生活に有効として積極的に推進すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -951,6 +1001,7 @@
     "answer_summary": "今年度内に代替機を再配布し年度当初に全員分確保。2025年度末更新では堅牢機種選定と迅速修繕を可能にする保守契約を締結すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -971,6 +1022,7 @@
     "answer_summary": "2025年10月の導入を目途に検討を進めると明言。多様化する学校課題への対応と持続可能な学校経営への貢献が期待されると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -990,6 +1042,7 @@
     "answer_summary": "啓発ポスター設置・対応マニュアル策定・研修強化を実施。他自治体の先進事例を研究し本市でも条例化について検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -1009,6 +1062,7 @@
     "answer_summary": "盆栽文化交流と中学生派遣事業の充実を推進。2025年度は姉妹都市への市長団訪問と市民訪問団の事業を拡大し、インバウンド誘客も積極的に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -1028,6 +1082,7 @@
     "answer_summary": "ワークショップ・オープンハウス等の手法を活用し市民意見を反映している。2025年度から子供・若者対象のワークショップも開催。全庁的なノウハウ共有も検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1027&schedule_id=7&minute_id=50&is_search=true",
     "follow_up": ""
   },
@@ -1047,6 +1102,7 @@
     "answer_summary": "人出の推移については把握している。学校の参加形態は各校の判断によるが、地域行事への参画を促すよう働きかけていくと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=1031&schedule_id=1&minute_id=4&is_search=true",
     "follow_up": ""
   },
@@ -1065,6 +1121,7 @@
     "answer_summary": "他市の条例制定状況を調査・研究しながら人権尊重社会・多文化共生社会の実現を目指すと回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1084,6 +1141,7 @@
     "answer_summary": "ネットリテラシー啓発と2024年11月開設相談窓口の充実に取り組むと回答（人権政策推進事業 15,851千円の内数）。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1103,6 +1161,7 @@
     "answer_summary": "相談員処遇改善・支援調整会議・アフターケア等で相談体制を強化すると回答（相談・DV防止事業 5,670千円の内数）。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1122,6 +1181,7 @@
     "answer_summary": "障害者スポーツ教室12競技18教室とアウトリーチ型レクリエーション教室を継続実施すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1141,6 +1201,7 @@
     "answer_summary": "市民・議会の気運を踏まえ必要性を検討するとの慎重な回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1160,6 +1221,7 @@
     "answer_summary": "子ども・若者ワークショップ開催（1,024千円）と高校生ファシリテーター養成を実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1179,6 +1241,7 @@
     "answer_summary": "対象年齢・オンライン申請時間の拡大について関係部局と協議すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1197,6 +1260,7 @@
     "answer_summary": "利用状況を踏まえて事業継続の可否を検討すると回答。廃止は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1216,6 +1280,7 @@
     "answer_summary": "他政令市事例を参考に見直しを検討。健康寿命延伸策の推進も継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1235,6 +1300,7 @@
     "answer_summary": "生活保護年金相談員による支援を継続し他市先進事例を調査研究すると回答。専門家委託の導入には慎重。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1254,6 +1320,7 @@
     "answer_summary": "SSW1名増員・SCの重点配置を実施済み。関係部局との連携強化を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1272,6 +1339,7 @@
     "answer_summary": "フリースクール認証制度については他自治体の情報収集を進めると回答。制度開始は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1291,6 +1359,7 @@
     "answer_summary": "特別教室は2025年度中に整備方針決定。給食室は設置可能性調査を実施すると回答（PFI等導入可能性調査結果を踏まえ判断）。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1309,6 +1378,7 @@
     "answer_summary": "中学校は速やかに設置。小学校は一部前倒し補正計上済み、残校の方針を2025年度中に決定すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1328,6 +1398,7 @@
     "answer_summary": "2023年度実施1校。各学校の実態に応じて実施を検討すると回答。全校展開は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1347,6 +1418,7 @@
     "answer_summary": "第3期プランに基づく施策展開と条例制定の必要性を含めた在り方研究を進めると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1366,6 +1438,7 @@
     "answer_summary": "2025年度からプレイパーク運営団体を居場所づくり事業に追加し、養成研修カリキュラムを充実させると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1384,6 +1457,7 @@
     "answer_summary": "2025年度からきょうだい児加算・施設整備補助・委託料増額を一括実施すると回答。提案がほぼ全面採用。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1402,6 +1476,7 @@
     "answer_summary": "2025年度末に放課後子ども居場所事業と放課後児童クラブの整備基本方針を策定し民設クラブへの支援策を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1420,6 +1495,7 @@
     "answer_summary": "いずれも国の動向を注視する段階。市独自の助成・導入は見送り。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1439,6 +1515,7 @@
     "answer_summary": "国の動向注視と国への働きかけ、他自治体の動向を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1458,6 +1535,7 @@
     "answer_summary": "国の医療DX工程表に基づく動向を注視する段階。市独自の実証実験は未実施。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1477,6 +1555,7 @@
     "answer_summary": "企業への聞き取り・マッチング照会によるモデル事業を実施すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1495,6 +1574,7 @@
     "answer_summary": "適正な給与水準確保と必要に応じた意識調査実施に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1514,6 +1594,7 @@
     "answer_summary": "盆栽・人形を中心としたインバウンド促進事業を継続。面的整備・倍増策の具体化は明示せず。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1533,6 +1614,7 @@
     "answer_summary": "地元との意見交換を継続しながら整備手法の検討を継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1552,6 +1634,7 @@
     "answer_summary": "社会教育主事講習受講を促進し資格取得を支援する方針を示したが50%目標の明示はなし。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1571,6 +1654,7 @@
     "answer_summary": "地区公民館への整備は利用状況を検証しながら検討すると回答。修繕時の整備義務化は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1589,6 +1673,7 @@
     "answer_summary": "さいたま水と生きものプラン見直しと緑地指定・公有地化による30by30推進に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1608,6 +1693,7 @@
     "answer_summary": "検討会での取りまとめを踏まえ事業実施の可能性を検討する段階。宣言は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1627,6 +1713,7 @@
     "answer_summary": "課題を認識しながら関係部局・団体と連携して検討を進めると回答。設置時期は未明示。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1646,6 +1733,7 @@
     "answer_summary": "校長会を通じた働きかけと研究委嘱校の実践事例共有で中学生の訓練参加を拡大すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1665,6 +1753,7 @@
     "answer_summary": "課題を認識しながら他自治体事例の調査と関係団体意見聴取により研究すると回答。指定は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1683,6 +1772,7 @@
     "answer_summary": "4者一丸でB/C向上策を検討中。中間駅周辺の緑地保全・岩槻駅周辺在り方検討を推進すると回答。フォレストアドベンチャーへの言及はなし。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1702,6 +1792,7 @@
     "answer_summary": "カーシェアリング活用周知と未展開地区への拡充に取り組む。政令市の制度動向を調査研究すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1720,6 +1811,7 @@
     "answer_summary": "推進本部・外部評価によるジェンダー平等施策推進を継続。宣言は明言せず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1738,6 +1830,7 @@
     "answer_summary": "市営住宅・墓地・税証明書等のサービス拡充済み。さらなる積極的拡充に取り組むと回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1756,6 +1849,7 @@
     "answer_summary": "手話言語条例の制定には言及せず、ノーマライゼーション条例の下での理解促進を継続すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1774,6 +1868,7 @@
     "answer_summary": "他都市事例調査継続中。整備時期・場所の具体的な決定は示されず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1793,6 +1888,7 @@
     "answer_summary": "各計画で地元説明・意見聴取を継続。具体的な計画策定に市民意見を反映すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1812,6 +1908,7 @@
     "answer_summary": "地域の方々への発表の場を設定するよう各学校に働きかけると回答。議員との懇談には言及なし。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1831,6 +1928,7 @@
     "answer_summary": "ハミルトン市との文化交流はこれまでなかったが、既存姉妹館との交流を進める中で連携の在り方を調査。誘客についても経済局と連携して対応すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1850,6 +1948,7 @@
     "answer_summary": "受入先と協議しながら派遣人数の拡大を継続検討。帰国報告会の参加対象拡大や学校行事・地域行事を活用した情報共有を工夫するとともに、コミュニティスクールと連携した発信を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1870,6 +1969,7 @@
     "answer_summary": "該当地区への追加説明会を予定。警察・道路部局と連携し信号設置等の交通安全対策を実施中。工事工程は12月時点で予定どおり進捗していると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1889,6 +1989,7 @@
     "answer_summary": "文化部と事業団は課長以上が毎月協議し事業進捗と方向性をすり合わせている。引き続き事業団の活動活性化を図るとともに、公募のあり方も含め改善に取り組むと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1909,6 +2010,7 @@
     "answer_summary": "可能な限り市民の声を生かして施設整備を進める方針。市長は自治会懇談等で施設の必要性を説明しているが、タウンミーティングのテーマには取り上げていないと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1928,6 +2030,7 @@
     "answer_summary": "ヒトラーを含む表現は未来志向のテーマの中で適正と判断。ナチズムの危険性と歴史的教訓を社会科・道徳の授業で児童生徒に正しく伝えることが重要と答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1949,6 +2052,7 @@
     "answer_summary": "アーバンスポーツは市主催事業のみカウント。主権者教育の指標は国の設問変更を受けて上方修正。コミュニティスクールの指標は児童生徒全体を対象とした平均値で設定していると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1968,6 +2072,7 @@
     "answer_summary": "漫画会館での常設展示や研究会との共催シンポジウムを実施中。今後渋沢栄一関連の展覧会企画時には映像活用を検討。浦和博物館の渋沢揮毫の額も映像と合わせた活用を研究すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -1987,6 +2092,7 @@
     "answer_summary": "浦和博物館・岩槻郷土資料館等でもボランティアの募集・体験学習指導補助等への活用を開始する方針。学芸員の個別対応も事前連絡で可能な範囲で対応すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2007,6 +2113,7 @@
     "answer_summary": "研究協力校2校での実践事例集を作成し好事例を全校で共有。コミ丸でも直接参画事例を取り上げ、管理職研修・映像研修等で理解を広めていくと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2025,6 +2132,7 @@
     "answer_summary": "防犯カメラは新設・契約更新時に広さ視点での増設を検討。AEDは設置場所の見える化と命の日での設置確認訓練を徹底。費用対効果を含め増設も研究すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2044,6 +2152,7 @@
     "answer_summary": "故障発生後に所管課・事業団・専門業者で協議し対応した。休日の連絡体制についても所管課と指定管理者間で明確化を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2062,6 +2171,7 @@
     "answer_summary": "手荷物オペレーションを改善。フィニッシャーズタオルを今年度から復活。ボランティアリーダーは経験者を中心に確保していると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2081,6 +2191,7 @@
     "answer_summary": "静岡市のみが旧市の会議録を電子化している事例を確認。さいたま市での整備については今後の検討課題となった。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2099,6 +2210,7 @@
     "answer_summary": "防球ネット再設置・築山修繕を予定。校庭の金属異物は目視除去完了。今後、金属探知機の導入も含めたさらなる安全確保策を検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2119,6 +2231,7 @@
     "answer_summary": "通学距離・児童数のバランスを考慮した特定地域設定を含む最終案を策定予定。PTA同行で通学路を確認し安全対策を実施。情報引継ぎは指導要録・健康診断票・教員間の共有で対応。通級は発達障害・情緒障害の指導教室を設置予定と答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2137,6 +2250,7 @@
     "answer_summary": "スクールアシスタント・ボランティアを活用し人員確保中。好事例を研修で周知。国のCOCOLOプランを参考に補助金活用も研究しながら人材拡充を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2156,6 +2270,7 @@
     "answer_summary": "アクセス権限は国の動向やセキュリティを踏まえ検討を継続。KPI設定を行い、子供・教員の姿を目標にダッシュボードの改善を常に図っていくと答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2175,6 +2290,7 @@
     "answer_summary": "判断が難しいケースは審議内容の詳細を学校に事前提供し保護者相談に活用する方向で対応を検討。通級情報の適切な提供と教員スキル向上のための研修・学校訪問指導を強化すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2194,6 +2310,7 @@
     "answer_summary": "現行スケジュールで2026年4月開校に対応可能。1者入札は近年の建設業の受注状況・資材高騰等が影響しており、今後の発注方法を検討すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2212,6 +2329,7 @@
     "answer_summary": "手荷物・動線・トイレ・給食・フィニッシャーズタオル・関門等について次大会に向けてランナー目線で改善検討。ボランティアには趣旨を丁寧に説明し自発的参加を促す。ランナー・ボランティアへのアンケートも実施して改善に活かすと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2230,6 +2348,7 @@
     "answer_summary": "他市の状況を研究しながら多文化共生社会の実現を目指すと回答。条例制定は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2249,6 +2368,7 @@
     "answer_summary": "支援調整会議・研修実施で相談体制を強化すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2268,6 +2388,7 @@
     "answer_summary": "庁内会議「こどもまんなか・少子化対策会議」等で検討すると回答。創設は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2287,6 +2408,7 @@
     "answer_summary": "外郭団体職員への文書管理研修を実施するが条例制定には言及せず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2306,6 +2428,7 @@
     "answer_summary": "他指定都市の動向を注視しながら研究すると回答。デジタル化への移行は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2324,6 +2447,7 @@
     "answer_summary": "利用状況を踏まえた継続可否を検討すると回答。廃止は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2343,6 +2467,7 @@
     "answer_summary": "他市事例を参考に見直しを検討。健康寿命延伸策も継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2362,6 +2487,7 @@
     "answer_summary": "関係部局と連携し未利用資産を活用したキッチンカー出店推進に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2381,6 +2507,7 @@
     "answer_summary": "専門性の高いSSW・SCの採用確保に努めると回答。即時増員は困難と説明。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2399,6 +2526,7 @@
     "answer_summary": "議事録公開を表明。出席扱いガイドラインの教職員への周知を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2417,6 +2545,7 @@
     "answer_summary": "2025年度までに整備方針を決定すると回答。PFI等も含めた整備手法を検討中。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2436,6 +2565,7 @@
     "answer_summary": "不登校特例校設置を含めた検討継続と川口市夜間中学との連携継続を回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2456,6 +2586,7 @@
     "answer_summary": "若者自立支援ルームでの性教育実施継続と放課後支援員研修への取り込みを検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2475,6 +2606,7 @@
     "answer_summary": "本市にふさわしい子どもの意見反映の仕組みを含めて研究を継続すると回答。条例制定は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2494,6 +2626,7 @@
     "answer_summary": "2024年度から一時保護所に意見表明支援員を設置。第三者委員会の設置は見送り。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2513,6 +2646,7 @@
     "answer_summary": "リーフレット・ポスターによる啓発活動を継続し周知を進めると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2531,6 +2665,7 @@
     "answer_summary": "施設整備費補助はアンケートで必要性を確認しながら検討すると回答。センター設置は見送り。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2549,6 +2684,7 @@
     "answer_summary": "公立保育所4園で実証実験中。効果検証後に導入を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2567,6 +2703,7 @@
     "answer_summary": "2023年度中に市主催の合同就職説明会を実施すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2586,6 +2723,7 @@
     "answer_summary": "埼玉県・川口市と連携し養成講習拡充と派遣事業創設を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2605,6 +2743,7 @@
     "answer_summary": "2024年度から電子申請を開始すると回答。提案が採用された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2623,6 +2762,7 @@
     "answer_summary": "いずれも国の動向注視。市独自の導入・助成は見送り。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2642,6 +2782,7 @@
     "answer_summary": "2024年1月に就労移行支援事業所向け講座を実施し導入の可能性を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2661,6 +2802,7 @@
     "answer_summary": "観光ルートパンフレット等を継続するが、面的整備・インバウンド倍増の具体策は示さず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2680,6 +2822,7 @@
     "answer_summary": "資格取得促進を継続。事業費増額は「適切に努める」との回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2699,6 +2842,7 @@
     "answer_summary": "地区公民館は利用状況を踏まえた検討と回答。修繕時の整備義務化は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2718,6 +2862,7 @@
     "answer_summary": "2024年度に与野本町公民館のエレベーター設置を実施。他館は施設状況を勘案すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2736,6 +2881,7 @@
     "answer_summary": "他自治体の動向を注視しながら研究すると回答。実施は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2754,6 +2900,7 @@
     "answer_summary": "市内主要河川でのマイクロプラスチック調査を実施すると回答。提案が採用された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2772,6 +2919,7 @@
     "answer_summary": "プラン中間見直しと緑地指定・公有地化による30by30推進に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2790,6 +2938,7 @@
     "answer_summary": "2024年度から救急自動車への自動心臓マッサージ器整備を実施すると回答。提案が採用された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2809,6 +2958,7 @@
     "answer_summary": "マニュアルへの具体的な情報提供手段の記載と、要配慮者も想定した避難所運営訓練を実施済みと回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2827,6 +2977,7 @@
     "answer_summary": "技術支援要請済み。速達性向上計画素案を作成し事業実施要請に向けて進めると回答。フォレストアドベンチャーへの言及はなし。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2846,6 +2997,7 @@
     "answer_summary": "部局横断検討会議を設置し未展開地区への拡充とバス運賃助成を含めた施策を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2865,6 +3017,7 @@
     "answer_summary": "2025年度までに全手続きオンライン化を目標。台帳Web閲覧化を所管課に働きかけると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2883,6 +3036,7 @@
     "answer_summary": "2023年8月に子の意思確認を見直し済み。提案が採用・実施された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2901,6 +3055,7 @@
     "answer_summary": "ノーマライゼーション条例での対応を継続。手話言語条例の制定は明言せず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2919,6 +3074,7 @@
     "answer_summary": "盆栽庭園の池回り改修を実施すると回答。提案が採用された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2937,6 +3093,7 @@
     "answer_summary": "他都市事例調査を継続しながら整備を検討すると回答。整備時期・場所の具体化は示されず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2956,6 +3113,7 @@
     "answer_summary": "障害者スポーツ教室12競技18教室とアウトリーチ型レクリエーション教室を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2974,6 +3132,7 @@
     "answer_summary": "既存の3機関（サポートセンター・ボランティアセンター・セカンドライフ支援センター）でのマッチング機能を強化すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -2993,6 +3152,7 @@
     "answer_summary": "学習指導要領に基づき市の証言映像を社会科・道徳で活用。中島飛行機大宮工場等も歴史授業に位置づけ。博物館展示との連携も学校に促していくと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3012,6 +3172,7 @@
     "answer_summary": "文化財3Dデータは保存・修復・公開に有効と認識。真福寺貝塚のデータ化を研究中。文化財保存活用地域計画にDX・メタバース活用を反映する方向で検討。瑛九アトリエも庁内連携で対応を検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3031,6 +3192,7 @@
     "answer_summary": "業者との定例打合せで継続的な改善を協議。PCリプレースは2026年8月までの契約期間満了後に課題を反映して検討。ヘルプデスクで現場の困りごとにも対応すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3050,6 +3212,7 @@
     "answer_summary": "全世代向け講座を基本としつつ若い世代も参加しやすい設計を検討。運営委員会に子育て世代・起業家等も参加しており、カリキュラム設定に多様な意見を反映していくと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3069,6 +3232,7 @@
     "answer_summary": "事前の研修・情報共有が不十分であったことを認め、適切なデータ処理方法の周知と再発防止に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3088,6 +3252,7 @@
     "answer_summary": "既存の文書規則・手引に基づく適正処理を継続。条例化には言及せず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3107,6 +3272,7 @@
     "answer_summary": "公文書館機能の整備は課題研究継続。デジタル化は他指定都市の動向を注視すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3126,6 +3292,7 @@
     "answer_summary": "既存窓口のオンライン化を優先して検討。ワンストップ窓口はDX推進本部で継続検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3145,6 +3312,7 @@
     "answer_summary": "現体制で全庁的取組を継続。より効果的な組織の在り方を検討すると回答。部新設は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3164,6 +3332,7 @@
     "answer_summary": "指導要領に基づく指導継続と関係部局連携会議の設置を回答。組織独立化・人員増は明言せず。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3183,6 +3352,7 @@
     "answer_summary": "PTA任意加入の周知通知を毎年継続。学校協力金禁止の明確化には言及せず。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3202,6 +3372,7 @@
     "answer_summary": "民間活力を導入したオンラインプログラムとボランティアとの連携で実施中。2023年度も継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3221,6 +3392,7 @@
     "answer_summary": "文科省への緊急提言の結果、オンライン特例授業の出席日数を指導要録に記載可能となり実施済み。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3240,6 +3412,7 @@
     "answer_summary": "リフレッシュ計画・改修・建替え時にバリアフリー化を実施。文科省整備目標に基づき推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3258,6 +3431,7 @@
     "answer_summary": "各学校での運用の違いを把握しており研究すると回答。全校統一は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3277,6 +3451,7 @@
     "answer_summary": "不具合発生時に随時修繕・屋上防水工事を実施。年度内修繕のための予算確保に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3297,6 +3472,7 @@
     "answer_summary": "中高生優先時間帯を設置済み。次回指定管理更新時にヤングケアラー支援の充実を図ると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3316,6 +3492,7 @@
     "answer_summary": "学習支援事業と比較検討しながら「子ども第三の居場所」の設置について方向性を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3335,6 +3512,7 @@
     "answer_summary": "支援ネットワーク・民間団体の意見を踏まえながら他自治体事例を参考に検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3354,6 +3532,7 @@
     "answer_summary": "Growth等の支援継続。不登校特例校のさいたま市らしい在り方を引き続き検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3373,6 +3552,7 @@
     "answer_summary": "定員拡充の必要性を認識。里親・ファミリーホーム等の活用で対応。一時保護所新設は「予定なし」と回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3392,6 +3572,7 @@
     "answer_summary": "要保護児童対策地域協議会と個別カンファレンスでの対応を継続すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3412,6 +3593,7 @@
     "answer_summary": "ひまわり特別支援学校に知的障害教育部門を設置済み。埼玉県と連携して検討継続と回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3432,6 +3614,7 @@
     "answer_summary": "側弯検査は毎年定期健診の検査項目として実施済み。機器を用いた検査の導入を検討すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3452,6 +3635,7 @@
     "answer_summary": "現行制度維持と国・他市の動向を参考にした研究継続と回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3472,6 +3656,7 @@
     "answer_summary": "補助制度活用と研修等で受け入れ拡大に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3491,6 +3676,7 @@
     "answer_summary": "2023年度中に通勤・職場等を対象に含む制度拡充を実施予定と回答。提案が採用された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3510,6 +3696,7 @@
     "answer_summary": "タクシープールまでの点字ブロック延長を実施済み。引き続き市民要望を踏まえ拡充すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3529,6 +3716,7 @@
     "answer_summary": "マニュアルでの推奨基準化済み。準拠するよう周知に努めると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3548,6 +3736,7 @@
     "answer_summary": "保健医療体制強化策の継続と保健所体制の安定維持に取り組むと回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3567,6 +3756,7 @@
     "answer_summary": "がん患者就労相談を実施継続。補装具補助より情報提供・相談体制整備を優先する方針と回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3585,6 +3775,7 @@
     "answer_summary": "ノーマライゼーション条例での対応を優先。コミュニケーション条例制定は明言せず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3603,6 +3794,7 @@
     "answer_summary": "他自治体事例を研究しながら本市の実情に即した取組を研究すると回答。条例制定は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3621,6 +3813,7 @@
     "answer_summary": "ファミリーシップ制度は2022年11月1日から実施済み。届出制への見直しは必要に応じて検討すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3640,6 +3833,7 @@
     "answer_summary": "民間シェルター等への補助継続と関係機関との連携強化を図ると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3658,6 +3852,7 @@
     "answer_summary": "犯罪被害者等支援条例に基づく支援を継続。性暴力加害者の採用禁止の仕組みは言及なし。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3676,6 +3871,7 @@
     "answer_summary": "総合的判断のうえ本市に見合う施策を検討継続。生ごみ処理容器補助制度での普及啓発を継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3694,6 +3890,7 @@
     "answer_summary": "市民環境会議は設置済み。市民気候会議は他自治体事例を研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3712,6 +3909,7 @@
     "answer_summary": "駐車場向け補助制度の創設は困難との回答。意識啓発での代替対応。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3730,6 +3928,7 @@
     "answer_summary": "市有未利用地活用の多目的広場整備を継続してサッカー練習できる場の確保に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3750,6 +3949,7 @@
     "answer_summary": "代替機を確保すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3769,6 +3969,7 @@
     "answer_summary": "免許取得支援と研究ネットワーク構築で専門性向上に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3788,6 +3989,7 @@
     "answer_summary": "学校余裕教室の改修整備を2023年度も継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3806,6 +4008,7 @@
     "answer_summary": "運営業務支援を拡充し保護者負担軽減に取り組むと回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3826,6 +4029,7 @@
     "answer_summary": "指定都市の状況を踏まえて研究すると回答。即時整備は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3844,6 +4048,7 @@
     "answer_summary": "適切な職員配置に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3862,6 +4067,7 @@
     "answer_summary": "国の適正規模方針に基づく制度。大規模クラブの適正規模化を推進すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3880,6 +4086,7 @@
     "answer_summary": "物価動向を踏まえて施設整備促進補助金の拡充を実施すると回答。提案採用。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3899,6 +4106,7 @@
     "answer_summary": "他市の条例等を研究しながら本市にふさわしい取組を研究すると回答。条例制定は未確約。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3918,6 +4126,7 @@
     "answer_summary": "防犯カメラ設置助成を継続し通学路の安全対策に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3937,6 +4146,7 @@
     "answer_summary": "「子どもの提案」制度を継続。子ども未来議会については今後研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3956,6 +4166,7 @@
     "answer_summary": "拠点公民館Wi-Fi整備完了。事業費・全職員端末・地区館Wi-Fiは各々検討・研究すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3975,6 +4186,7 @@
     "answer_summary": "2023年度にエレベーター設置の基本・実施設計を実施すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -3994,6 +4206,7 @@
     "answer_summary": "跡地利活用の際には地域の声を踏まえた対応を検討すると回答。新設の確約なし。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4013,6 +4226,7 @@
     "answer_summary": "指定管理者と協議継続。設備更新は必要性・緊急性を考慮して対応すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4031,6 +4245,7 @@
     "answer_summary": "養成講習会を継続実施し聴覚障害者の意思疎通支援者の確保に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4050,6 +4265,7 @@
     "answer_summary": "県の補助要件上2級は対象外。国・県への要望継続すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4069,6 +4285,7 @@
     "answer_summary": "2022年度から6区に拡大済み。2023年度以降も段階的拡充すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4087,6 +4304,7 @@
     "answer_summary": "精神科身体合併症病床で対応中。新規の総合心療科・精神科創設の予定はないと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4105,6 +4323,7 @@
     "answer_summary": "養成研修継続と法人後見充実・地域連携ネットワーク構築に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4124,6 +4343,7 @@
     "answer_summary": "既存調査で実態把握継続。アクションプラン策定は言及なし。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4143,6 +4363,7 @@
     "answer_summary": "各区役所で無償配布実施中。災害備蓄の活用も含め恒常的な実施を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4162,6 +4383,7 @@
     "answer_summary": "組織体制の在り方を検討し具体的支援策を実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4181,6 +4403,7 @@
     "answer_summary": "新設は予定なし。既存の男女共同参画相談室と関係機関連携で対応すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4200,6 +4423,7 @@
     "answer_summary": "弁護士法律相談等で対応中。センター新設より既存相談体制の充実で対応すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4219,6 +4443,7 @@
     "answer_summary": "再犯防止推進計画に基づき取組を推進。他自治体の条例も研究すると回答。条例制定は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4238,6 +4463,7 @@
     "answer_summary": "各事業継続。施設整備助成は事業者の声を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4256,6 +4482,7 @@
     "answer_summary": "産後ケアの見直し継続。子育て応援券の代替としてパパママ応援ギフト現金給付を案内すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4275,6 +4502,7 @@
     "answer_summary": "ネウボラの支援体制整備は継続。産前・産後ケアセンターとしての施設設置は検討していないと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4294,6 +4522,7 @@
     "answer_summary": "国の母子手帳見直し動向を踏まえながら研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4312,6 +4541,7 @@
     "answer_summary": "ふたご支援事業等の既存事業を継続しながら実態把握と支援拡充に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4331,6 +4561,7 @@
     "answer_summary": "既存相談体制で対応。ユースクリニックの創設は予定なしと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4349,6 +4580,7 @@
     "answer_summary": "事例調査と機能整理を行いながら拠点整備を検討すると回答。整備時期等の具体化は未明示。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4367,6 +4599,7 @@
     "answer_summary": "2023年度中1か所・2025年度中1か所のアーバンスポーツ施設整備を実施すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4386,6 +4619,7 @@
     "answer_summary": "スポーツ教室12競技18教室とアウトリーチ型レクリエーション教室を継続実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4405,6 +4639,7 @@
     "answer_summary": "ジェンダー平等推進のより効果的な組織の在り方を検討すると回答。課新設は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4424,6 +4659,7 @@
     "answer_summary": "サイクルパーク構想素案取りまとめに向けて民間連携等を検討。ソフト施策も実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4442,6 +4678,7 @@
     "answer_summary": "住民と協働した個別まちづくりを推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4461,6 +4698,7 @@
     "answer_summary": "高齢者等移動支援事業を実施中。バス無料券配布は予定なし。部局横断検討会議で移動施策を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4480,6 +4718,7 @@
     "answer_summary": "移動等円滑化方針に基づき鉄道事業者と連携してバリアフリー化を推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4499,6 +4738,7 @@
     "answer_summary": "大宮ルートのLRT化検討継続。自動運転実証実験・核都市幹線道路整備も国・県と連携して推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4518,6 +4758,7 @@
     "answer_summary": "案内板整備で回遊性向上。野外音楽堂・キャンプ場は調節池整備と合わせて国・県と検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4537,6 +4778,7 @@
     "answer_summary": "サイクルサポート施設の増設等でサイクリング環境を整備すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4556,6 +4798,7 @@
     "answer_summary": "樹林地を活かした土地利用を検討中。公園整備の可能性は地域の意向を踏まえて研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4575,6 +4818,7 @@
     "answer_summary": "国の基準に基づく移行ルールを説明。できる限り早期の収用申請に努めると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4594,6 +4838,7 @@
     "answer_summary": "西浦和駅周辺動向を注視しながら地元機運醸成を継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4613,6 +4858,7 @@
     "answer_summary": "県に取得方向性を示し2022年10月に基本計画策定済み。県との協議を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4632,6 +4878,7 @@
     "answer_summary": "神戸市・川崎市の事例を参考に就労移行支援事業所向け講座を2024年1月に実施予定と回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4651,6 +4898,7 @@
     "answer_summary": "公共施設再編の実施方針策定に向け調査・検討中。GCS構想はビジョンに基づき推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4670,6 +4918,7 @@
     "answer_summary": "調査の実施方法を含め今後研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4688,6 +4937,7 @@
     "answer_summary": "国の窓口を周知・案内し埼玉県とも連携して対応すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4707,6 +4957,7 @@
     "answer_summary": "適切な時期に必要な処分を実施。関係機関との情報共有で農地の適正化に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4726,6 +4977,7 @@
     "answer_summary": "議会改革の議論を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4745,6 +4997,7 @@
     "answer_summary": "議会広報編集委員会等の議論を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4764,6 +5017,7 @@
     "answer_summary": "議会棟内Wi-Fi整備済み。引き続き特別委員会での議論を踏まえて検討すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4782,6 +5036,7 @@
     "answer_summary": "委員会条例改正が必要。議論を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4801,6 +5056,7 @@
     "answer_summary": "三つの主要意見（国勢調査基準・住民台帳基準・現状維持）があり合意は未達。早急な合意に努めるとの姿勢を示した。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4819,6 +5075,7 @@
     "answer_summary": "国の安全装置補助対策を注視しながら、ブザー・センサー等の設備面での対策も市として研究・検討を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4838,6 +5095,7 @@
     "answer_summary": "居住区・関心分野登録によるプッシュ型発信の仕組みを新たに検討中。オンライン手続とSNSの連携についても前向きに検討すると市長が答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4857,6 +5115,7 @@
     "answer_summary": "アーツカウンシルさいたまを10月に設立し市民サポーター・アーツセンタープロジェクト等を支援。国際芸術祭では市民参加規模を拡大し、アウトリーチや子供向け広報も積極展開。事業検証も実施すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4875,6 +5134,7 @@
     "answer_summary": "ホームページ等での情報提供充実とフリーマーケット後援等を検討。世田谷区等の先行事例の成果を注視し費用対効果を検証しながら新たな事業展開を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4893,6 +5153,7 @@
     "answer_summary": "現行の産後ケア事業に同内容が含まれているため即時実施は予定しないが、他市の子育て応援券等の事例を研究すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4913,6 +5174,7 @@
     "answer_summary": "保育士には年額19.3万円の処遇改善補助と国の臨時特例事業を実施。幼稚園の事務効率改善は検討を進める。子育て応援券等の他市事例も含めニーズ把握の上で検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4932,6 +5194,7 @@
     "answer_summary": "優先検討区間のルート検討において見沼田圃等の自然環境に配慮しつつ、地域関係者への丁寧な説明と理解獲得に市が中心となって取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4950,6 +5213,7 @@
     "answer_summary": "感染状況が落ち着けば抗原検査に移行するが、感染増加時はPCR検査の継続を検討する。抗原検査と代替ではなく状況に応じた柔軟運用を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4969,6 +5233,7 @@
     "answer_summary": "日中一時支援は100人想定（生活介護利用者の11%推計）。相談員は社会福祉士3名を委託配置し福祉まるごと相談窓口等と連携。コーディネーターは今後の件数次第で検討。研修のオンデマンド化も検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -4989,6 +5254,7 @@
     "answer_summary": "母子健康手帳の様式は国が定め変更困難。潤いファイルを活用しているが周知は十分でない。リトルベビーハンドブックとの連動も含め、次の国の手帳改定時期も踏まえながら補完的なものを検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5009,6 +5275,7 @@
     "answer_summary": "第4条は民間事業者への規制を避けるため努力規定とした。市としては積極的に役割を果たす。第8条も市立・私立学校等が横断的に連携し、スクールソーシャルワーカーを活用してケアラーを支援につなぐ体制を構築すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5028,6 +5295,7 @@
     "answer_summary": "PPP・民間複合化・基金・市債活用で費用縮減を検討。市長は合併以来の思いを語り、市民と共にまちの未来を切り開くための必要不可欠な整備と答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5046,6 +5314,7 @@
     "answer_summary": "口座把握世帯は12月中に支給完了。残余世帯への通知・勧奨を継続し年度内給付完了を目指すと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5065,6 +5334,7 @@
     "answer_summary": "「未成年者」は民法上の定義を踏まえた意図的な表記。自立支援の業務については相談対応等が対象と答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5084,6 +5354,7 @@
     "answer_summary": "2023年度から介護保険料・保育料等5科目を追加し約95%をキャッシュレス化。残り1000種類についても最終的に全決済対応を目指し検討を継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5103,6 +5374,7 @@
     "answer_summary": "民間・NPO・大学と意見交換してオープンデータのニーズを把握しながら整備を推進する。GISとBIツールの長所を組み合わせて地図情報の充実に努めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5122,6 +5394,7 @@
     "answer_summary": "画像・音声も公文書として定義済み。操作履歴が残る仕組みも整備済み。歴史的文書のデジタルアーカイブと詳細なルールづくりに向けて研究を継続すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5140,6 +5413,7 @@
     "answer_summary": "宣誓者へのアンケートを実施中。関係団体との協働・連携の際に意見を聴取しており、ファミリーシップ制度・自治体間相互利用の導入に向けて検討を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5158,6 +5432,7 @@
     "answer_summary": "市営住宅は同性パートナーを含む資格改定を検討中。制服選択制は残13校も検討中で2022年4月からさらに17校追加。LGBTフレンドリー企業登録制度は札幌市等の事例を注視すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5177,6 +5452,7 @@
     "answer_summary": "複数の学校でオンライン面談を実施中。2022年度にGrowthを開設しオンライン授業・相談を実施する。自宅ICT学習の出席扱いも積極的に進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5196,6 +5472,7 @@
     "answer_summary": "プログラムディレクター・オフィサーを外部登用（文化振興事業団任期付職員・課長・主査級）。市民フラット関係・ワンストップ窓口・プロジェクトPDCAの仕組みを設立後速やかに検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5216,6 +5493,7 @@
     "answer_summary": "個別避難計画は危険度の高い地域から優先策定を進める。福祉避難所は拡充を検討。避難所では要配慮者優先スペースを確保し、女性・LGBTへの配慮も適切に対応すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5235,6 +5513,7 @@
     "answer_summary": "文書規則改正済み。条例化・公文書館機能整備は研究継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5254,6 +5533,7 @@
     "answer_summary": "他指定都市の動向を注視しながら研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5272,6 +5552,7 @@
     "answer_summary": "専門部会の責任のもとで資料収集・編さんを継続すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5291,6 +5572,7 @@
     "answer_summary": "既存窓口のオンライン化を優先検討。DX推進本部で継続検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5310,6 +5592,7 @@
     "answer_summary": "オープンデータ活用事例の公開とアプリ開発促進の仕組みを研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5329,6 +5612,7 @@
     "answer_summary": "全容調査と管理体制強化・再発防止策の徹底を回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5348,6 +5632,7 @@
     "answer_summary": "RPA・ノーコード等DX技術活用とテレワーク定着で業務効率化・見直しを推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5367,6 +5652,7 @@
     "answer_summary": "推進体制強化のより効果的な組織の在り方を検討すると回答。専管組織設置は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5386,6 +5672,7 @@
     "answer_summary": "文科省への緊急提言の結果、オンライン特例授業の出席日数を指導要録に記載可能となり実施済み。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5405,6 +5692,7 @@
     "answer_summary": "リフレッシュ計画に基づく大規模改修・建替えを計画的に実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5423,6 +5711,7 @@
     "answer_summary": "学校の必要性に応じた適切な配置と効果的活用方法を研究すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5442,6 +5731,7 @@
     "answer_summary": "リフレッシュ計画・改修・建替え時にバリアフリー化を実施。文科省目標に沿って推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5461,6 +5751,7 @@
     "answer_summary": "多言語支援継続と日本語指導コーディネーターの機能拡充に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5481,6 +5772,7 @@
     "answer_summary": "ひまわり特別支援学校に知的障害教育部門高等部を設置済み。さらなる検討を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5500,6 +5792,7 @@
     "answer_summary": "免許取得支援と研究ネットワーク構築で専門性向上に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5519,6 +5812,7 @@
     "answer_summary": "中学生向けを実施中。小学生への拡大・教室増加を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5538,6 +5832,7 @@
     "answer_summary": "Growth等の支援継続。不登校特例校のさいたま市らしい在り方を含めて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5558,6 +5853,7 @@
     "answer_summary": "思春期保健教室と若者自立支援ルームでの実施継続。支援員研修への取り込みも検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5577,6 +5873,7 @@
     "answer_summary": "小規模化の際に相互チェック体制と虐待防止対策を確実に整備しながら進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5596,6 +5893,7 @@
     "answer_summary": "東京都の標準を参考にしながら本市の学校運営費の在り方を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5615,6 +5913,7 @@
     "answer_summary": "学習支援事業と比較しながら方向性を研究・検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5635,6 +5934,7 @@
     "answer_summary": "現行制度維持と国・他市の動向を参考にした研究継続を回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5654,6 +5954,7 @@
     "answer_summary": "余裕教室の改修・活用を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5672,6 +5973,7 @@
     "answer_summary": "委託実施基準の見直しで支援拡充済み。引き続き適切に対応すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5692,6 +5994,7 @@
     "answer_summary": "指定都市の状況を踏まえて整備の必要性・時期を研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5711,6 +6014,7 @@
     "answer_summary": "他市事例を研究しながら本市にふさわしい子ども施策の在り方を研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5730,6 +6034,7 @@
     "answer_summary": "防犯カメラ設置助成の継続と通学路安全対策の推進を回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5749,6 +6054,7 @@
     "answer_summary": "拠点公民館Wi-Fi整備済み。事業費・全職員端末は各々適切に対応・検討すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5768,6 +6074,7 @@
     "answer_summary": "跡地利活用の際には地域の声を踏まえた対応を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5786,6 +6093,7 @@
     "answer_summary": "養成講習会を継続実施。登録手話通訳者の確保に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5805,6 +6113,7 @@
     "answer_summary": "2023年度中に通勤・職場等を対象に含む制度拡充を予定すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5824,6 +6133,7 @@
     "answer_summary": "保健医療体制強化策の継続と保健所体制の安定維持に取り組むと回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5842,6 +6152,7 @@
     "answer_summary": "自宅療養者への食料支援と訪問診療体制の確立を国・県と連携して推進すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5860,6 +6171,7 @@
     "answer_summary": "情報提供・相談体制整備を優先する方針を明確にした。補助制度より情報提供を重視すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5879,6 +6191,7 @@
     "answer_summary": "廃止を含めた科学的根拠・費用対効果に基づく検討を進めると回答。",
     "result_level": "検討を引き出した",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5898,6 +6211,7 @@
     "answer_summary": "県の補助要件上2級は対象外。国・県への要望継続すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5917,6 +6231,7 @@
     "answer_summary": "他自治体の動向を調査研究すると回答。即時実施は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5935,6 +6250,7 @@
     "answer_summary": "精神科身体合併症病床で対応中。新規創設の予定なしと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5953,6 +6269,7 @@
     "answer_summary": "ノーマライゼーション条例での対応を優先。コミュニケーション条例策定は明言せず。",
     "result_level": "適正確認",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5972,6 +6289,7 @@
     "answer_summary": "ケアラー支援条例施行済み。相談窓口設置済み。専門部署は研究継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -5990,6 +6308,7 @@
     "answer_summary": "市民後見人養成研修継続と地域連携ネットワーク構築に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6008,6 +6327,7 @@
     "answer_summary": "相談窓口の機能強化と相談員体制強化に努める。住宅問題は関係機関と連携して対応すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6027,6 +6347,7 @@
     "answer_summary": "生活状況調査で実態把握継続。アクションプラン策定を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6046,6 +6367,7 @@
     "answer_summary": "福祉事務所相談と生活保護申請のオンライン化について順次対応すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6065,6 +6387,7 @@
     "answer_summary": "各区役所での無償配布を恒常的に実施。災害備蓄の活用も含め継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6084,6 +6407,7 @@
     "answer_summary": "各事業継続。施設整備助成は事業者の声を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6102,6 +6426,7 @@
     "answer_summary": "産後ケアの利用者負担軽減の見直し継続。パパママ応援ギフトを母乳相談等に活用できるよう案内すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6121,6 +6446,7 @@
     "answer_summary": "ネウボラ支援体制を推進。産前・産後ケアセンターとしての施設設置は検討していないと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6140,6 +6466,7 @@
     "answer_summary": "既存相談体制で対応。市独自の専用窓口設置は予定なしと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6159,6 +6486,7 @@
     "answer_summary": "国の母子手帳見直し動向を踏まえながら研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6177,6 +6505,7 @@
     "answer_summary": "ふたご支援事業等の既存事業を継続しながら実態把握と支援拡充に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6196,6 +6525,7 @@
     "answer_summary": "公共施設マネジメント計画に基づくプール再編の検討と沼影市民プール代替地の検討を進めると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6214,6 +6544,7 @@
     "answer_summary": "事例調査と機能整理を継続しながら拠点整備を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6232,6 +6563,7 @@
     "answer_summary": "2023年度中・2025年度中に各1か所整備すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6251,6 +6583,7 @@
     "answer_summary": "スポーツ教室・アウトリーチ型教室を継続し実施率向上に取り組む。市独自調査は既存手法で対応すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6269,6 +6602,7 @@
     "answer_summary": "他自治体の状況を研究しながら本市の実情に即した取組を研究すると回答。条例制定は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6288,6 +6622,7 @@
     "answer_summary": "経済局と市民局の連携強化で多文化共生施策を推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6306,6 +6641,7 @@
     "answer_summary": "2022年11月1日からファミリーシップ制度を実施済みと回答。提案が採用された。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6325,6 +6661,7 @@
     "answer_summary": "民間シェルター等への補助継続とひとり親支援との連携強化に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6343,6 +6680,7 @@
     "answer_summary": "犯罪被害者等支援条例に基づく支援継続と県ワンストップ支援センターとの連携強化を回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6362,6 +6700,7 @@
     "answer_summary": "再エネ視点を取り入れた総合評価方式の導入について検討を進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6380,6 +6719,7 @@
     "answer_summary": "東日本連携を活用した再エネ100%まちづくりを研究・検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6399,6 +6739,7 @@
     "answer_summary": "サイクルパーク構想素案の取りまとめに向けて検討継続。ソフト施策も実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6418,6 +6759,7 @@
     "answer_summary": "2023年度に基本・実施設計を実施すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6437,6 +6779,7 @@
     "answer_summary": "移動等円滑化方針に基づき鉄道事業者と連携してバリアフリー化を推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6455,6 +6798,7 @@
     "answer_summary": "中間駅周辺まちづくりと空き家対策を連携して検討を進めると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6474,6 +6818,7 @@
     "answer_summary": "コミュニティバス等の支援継続と廃止検討路線への対応を民間事業者と協議すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6493,6 +6838,7 @@
     "answer_summary": "地域公共交通協議会で改善・見直しを継続検討。利用者ニーズを踏まえた改善策を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6511,6 +6857,7 @@
     "answer_summary": "加34排水路の整備を計画的に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6529,6 +6876,7 @@
     "answer_summary": "他自治体との連携・協力による活用を研究・検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6548,6 +6896,7 @@
     "answer_summary": "みんなのトイレ設置と設備更新について検討を進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6567,6 +6916,7 @@
     "answer_summary": "12月27日に現金一括給付を実施予定。宿泊キャンペーンはGoTo終了後も継続利用可能とし一層のPRを実施すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6586,6 +6936,7 @@
     "answer_summary": "自治体意見照会で現場の声を国に提案し反映されている実績あり。生活保護通知書の改善も標準化の機会を活用して利用者目線で提案すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6604,6 +6955,7 @@
     "answer_summary": "キャッチアップ接種は国の具体的な制度設計が進んでおり、市は国の方針決定後速やかに対応。男性接種も国の動向を注視し安全性・有効性確認後に対応すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6623,6 +6975,7 @@
     "answer_summary": "産科医療補償制度の適用件数等を確認。一時金の水準については国の社会保障審議会での議論を注視すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6642,6 +6995,7 @@
     "answer_summary": "各所は拡大の方向性を示すもので縮小はない。出席率指標は来所促進の観点から設定しているが、改善に向けた検討を続けると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6660,6 +7014,7 @@
     "answer_summary": "接種機会は確保してきた。キャッチアップ接種・男性接種とも国の議論の進捗に合わせて準備を進める方針。市としても啓発・情報提供を継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6679,6 +7034,7 @@
     "answer_summary": "今年度用地測量を全て完了予定。都市局で用地取得と公園の基本計画・実施設計を進めていると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6698,6 +7054,7 @@
     "answer_summary": "SNSガイドライン策定に着手中。シティスタットのデータをCSV形式でオープンデータとして順次公開する方向で推進。広報とシティセールスの連携も強化すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6717,6 +7074,7 @@
     "answer_summary": "地域連携ネットワーク協議会を今年度設立しNPOとも連携。成年後見制度の周知・啓発を一層進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6736,6 +7094,7 @@
     "answer_summary": "高齢者のデジタル機器利用促進に向け民間との連携を進める。福祉部門としてDXの全庁的推進に貢献していくと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6755,6 +7114,7 @@
     "answer_summary": "VRS調査を全庁応援で進める。予約システム改善はベンダーへ働きかけ。年度年齢はウェブと窓口スタッフへの周知を強化すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6774,6 +7134,7 @@
     "answer_summary": "Zoom活用の妊婦相談・育児相談を実施中。産後ケアのオンライン申請も開始。母子手帳アプリはマイナポータルとの整合含め関係各課で整理を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6793,6 +7154,7 @@
     "answer_summary": "名称変更は必要と認識し親子健康手帳の名称併記を調整する方向。2021年度版は好評。引き続き当事者の意見を反映したデザイン改善に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2022年度から「さいたま市親子健康手帳」に名称変更・併記が実現（2024年議会で確認）。"
   },
@@ -6812,7 +7174,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=862&schedule_id=13&minute_id=5&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2021-03-12",
@@ -6830,6 +7193,7 @@
     "answer_summary": "DXの目的は市民生活をより豊かにすること。市長がDX推進本部のトップに立ちスピード感を持って推進する。子育てヘルパー派遣は4月からオンライン申請を開始すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6848,6 +7212,7 @@
     "answer_summary": "三監が連携して重大案件の公表・対応を協議する体制を整備。コンプライアンスの強化と適時適切な情報公開に努めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6867,6 +7232,7 @@
     "answer_summary": "公民館のWi-Fi整備と生涯学習でのDX推進の必要性を認識。段階的な整備と活用促進を検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6886,6 +7252,7 @@
     "answer_summary": "市立中高全学年でヤングケアラーアンケートを実施予定。障害児者のケアラーも含む調査を検討。庁内横断体制は調査結果と他政令市事例を参考に研究し、職員研修も早期に実施すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6905,6 +7272,7 @@
     "answer_summary": "コロナ対応費は国・県からの補助金を最大限活用。経営悪化分の補填を図りながら中長期的な健全化に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6923,6 +7291,7 @@
     "answer_summary": "給水量減少による収入減と老朽施設更新費用増大が続く。長期構想に基づく効率的な事業運営と適切な料金水準の維持を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6942,6 +7311,7 @@
     "answer_summary": "ワクチン接種は4月を目指しスケジュールを整備中。中小企業支援は前回の反省を踏まえ申請書類を簡素化すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6961,6 +7331,7 @@
     "answer_summary": "STEAMSを含む学校教育の成果指標設定と研究成果の現場還元を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -6980,6 +7351,7 @@
     "answer_summary": "2021年度中にアーツカウンシル設置に向けた調査を実施し、具体的な機能と設置方針を検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2022年10月にアーツカウンシルさいたまが設立。"
   },
@@ -6999,6 +7371,7 @@
     "answer_summary": "DXの理念を包括的に打ち出す方針。パソコン教室はスマホ教室に転換し10区で開催。スマートシティ知見はDX推進本部ワーキンググループで共有すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7018,6 +7391,7 @@
     "answer_summary": "条例に基づく緊急支援と中長期的な生活再建支援の体制を整備。関係機関との連携を強化して切れ目ない支援を実現すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2021年にさいたま市犯罪被害者等支援条例が施行。見舞金・日常生活支援助成金・法律相談助成等の支援制度が創設された。"
   },
@@ -7037,6 +7411,7 @@
     "answer_summary": "SDGsの17ゴールとの関連づけについて、抜けているゴールも包含できるよう検討を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7056,6 +7431,7 @@
     "answer_summary": "気候非常事態宣言は危機意識の表明であり、都市宣言としての議会議決は想定していないが、今後の重要な宣言については議会との関係を考慮すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7075,6 +7451,7 @@
     "answer_summary": "文書規則改正済み。条例化・デジタル化は研究継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7094,6 +7471,7 @@
     "answer_summary": "テレワーク推進月間を設け管理職に積極実施を呼びかけ済み。継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7113,6 +7491,7 @@
     "answer_summary": "モバイルワーク端末100台導入済み。継続的な整備を進めると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7132,6 +7511,7 @@
     "answer_summary": "本市の特色を生かした公会計化に向けて関係課と連携し準備を進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7151,6 +7531,7 @@
     "answer_summary": "リフレッシュ計画に基づき大規模改修・建替えを計画的に実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7169,6 +7550,7 @@
     "answer_summary": "全小学校に配置済み。さらなる拡充を継続研究すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7188,6 +7570,7 @@
     "answer_summary": "オンライン双方向プログラムを導入し実施済みと回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7206,6 +7589,7 @@
     "answer_summary": "中高生優先時間帯を設置済み。次回指定管理更新時に中高生支援充実を図ると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7225,6 +7609,7 @@
     "answer_summary": "財政状況等を踏まえながら研究すると回答。即時増額は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7245,6 +7630,7 @@
     "answer_summary": "多言語支援・日本語指導コーディネーター機能拡充を継続すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7264,6 +7650,7 @@
     "answer_summary": "中学生向けを実施中。小学生への拡大・教室増加を検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7283,6 +7670,7 @@
     "answer_summary": "思春期保健教室で助産師講師による実施を継続。全校展開に向けて教育委員会と連携すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7302,6 +7690,7 @@
     "answer_summary": "入所児童・施設の状況を丁寧に確認しながら小規模化を推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7321,6 +7710,7 @@
     "answer_summary": "北部児童相談所の新設を含む体制全体の在り方について検討を重ねると回答。",
     "result_level": "検討を引き出した",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7340,6 +7730,7 @@
     "answer_summary": "整備を計画的に推進。運営費補助の拡充は国・他市を参考に研究すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7358,6 +7749,7 @@
     "answer_summary": "指導監督を継続し安全基準の遵守徹底に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7377,6 +7769,7 @@
     "answer_summary": "委託実施基準の見直しで支援拡充済み。適切な委託料設定に継続して努めると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7396,6 +7789,7 @@
     "answer_summary": "学校余裕教室の活用を継続。公有地等の活用も含めて検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7414,6 +7808,7 @@
     "answer_summary": "説明会資料のHP公開・動画配信で保護者負担を軽減すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7433,6 +7828,7 @@
     "answer_summary": "他市の条例等を研究し本市にふさわしい取組を検討すると回答。条例制定の明確な着手は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7452,6 +7848,7 @@
     "answer_summary": "防犯カメラ設置助成を継続し通学路の安全対策に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7471,6 +7868,7 @@
     "answer_summary": "事業費は適切に対応。職員端末はセキュリティ考慮のうえ検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7490,6 +7888,7 @@
     "answer_summary": "拠点公民館10館に整備済み。地区公民館は検討すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7508,6 +7907,7 @@
     "answer_summary": "養成講習会を継続実施。登録手話通訳者の確保に努めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7526,6 +7926,7 @@
     "answer_summary": "現行制度と利用者ニーズを踏まえながら研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7544,6 +7945,7 @@
     "answer_summary": "アピアランスケアの情報提供・相談体制整備を優先する方針。補助制度より情報提供強化と回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7563,6 +7965,7 @@
     "answer_summary": "地域の医療・介護資源の充実と連携を図りながら支援策を研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7581,6 +7984,7 @@
     "answer_summary": "国・県の補助制度を活用し発熱外来設置医療機関への支援を継続すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7600,6 +8004,7 @@
     "answer_summary": "段階的に拡大中。2022年度から6区で実施済みと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7619,6 +8024,7 @@
     "answer_summary": "県の補助要件上2級は対象外。国・県への要望継続すると回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7637,6 +8043,7 @@
     "answer_summary": "精神科身体合併症病床で対応中。新規創設の予定はないと回答。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7655,6 +8062,7 @@
     "answer_summary": "ノーマライゼーション条例での対応を優先。コミュニケーション条例策定は明言せず。",
     "result_level": "提案のみ",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7674,6 +8082,7 @@
     "answer_summary": "ケアラー支援条例を2022年7月に施行済み。専門部署は研究継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7692,6 +8101,7 @@
     "answer_summary": "シニアサポートセンターでのケアラー相談窓口を設置・周知すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7710,6 +8120,7 @@
     "answer_summary": "相談窓口の機能強化と相談員体制強化に努める。住宅問題は関係機関と連携し対応すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7729,6 +8140,7 @@
     "answer_summary": "生活状況調査で実態把握を継続。アクションプランの策定を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7748,6 +8160,7 @@
     "answer_summary": "利用者ニーズと事業者の声を踏まえて見直しを継続すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7767,6 +8180,7 @@
     "answer_summary": "利用者負担軽減と委託単価適正化に向けて他指定都市を参考に見直しを継続すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7787,6 +8201,7 @@
     "answer_summary": "ネウボラの支援体制推進と保健・子育て部門の連携強化を継続すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7805,6 +8220,7 @@
     "answer_summary": "事例調査と機能整理を継続しながら拠点整備を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7823,6 +8239,7 @@
     "answer_summary": "2023年度中・2025年度中にアーバンスポーツ施設を各1か所整備すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7842,6 +8259,7 @@
     "answer_summary": "スポーツ教室・アウトリーチ型教室を継続し実施率向上に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7861,6 +8279,7 @@
     "answer_summary": "既存調査・アンケートを活用しながら実態把握に努めると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7879,6 +8298,7 @@
     "answer_summary": "他自治体の状況を研究しながら本市の実情に即した取組を研究すると回答。審議会設置は明言せず。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7898,6 +8318,7 @@
     "answer_summary": "効果的な施策推進の観点から組織の在り方を研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7917,6 +8338,7 @@
     "answer_summary": "民間シェルターへの補助継続とひとり親支援との連携強化に取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7936,6 +8358,7 @@
     "answer_summary": "再エネ視点を取り入れた総合評価方式の導入について検討を進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7954,6 +8377,7 @@
     "answer_summary": "東日本連携を活用した再エネ100%まちづくりについて研究・検討を進めると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7973,6 +8397,7 @@
     "answer_summary": "食品ロス削減運動を推進。フードシェア・マイレージ事業は他自治体事例を研究しながら検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -7992,6 +8417,7 @@
     "answer_summary": "助産師会との連携・協議を継続し災害時の母子支援体制の充実を図ると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8011,6 +8437,7 @@
     "answer_summary": "水のう等を活用した雨水流出抑制策を研究。モデル事業の実施も検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8030,6 +8457,7 @@
     "answer_summary": "サイクルパーク構想素案取りまとめに向けて検討継続。ソフト施策も実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8048,6 +8476,7 @@
     "answer_summary": "2022年1月にまちづくり方針を策定済み。住民と協働した推進を継続すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8067,6 +8496,7 @@
     "answer_summary": "2021年度から移動支援事業を開始。段階的に拡充すると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8086,6 +8516,7 @@
     "answer_summary": "移動支援事業を実施中。タクシー券・バス無料券の配布は現在予定なし。他自治体を調査研究すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8105,6 +8536,7 @@
     "answer_summary": "2階入口の公民館を優先整備。2023年度に基本・実施設計を実施すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8124,6 +8556,7 @@
     "answer_summary": "鉄道事業者と連携してバリアフリー化を推進。無人化解消も鉄道事業者に要望すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8142,6 +8575,7 @@
     "answer_summary": "国・県・鉄道事業者と連携して踏切改良を促進。協議会設置を含め検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8161,6 +8595,7 @@
     "answer_summary": "国・県・市が連携して国道16号線の立体交差化を検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8179,6 +8614,7 @@
     "answer_summary": "地下鉄延伸に向けた中間駅周辺まちづくりと空き家対策を連携して検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8198,6 +8634,7 @@
     "answer_summary": "案内板整備で回遊性向上。荒川調節池整備と連携した水辺空間利活用を国・県と検討すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8216,6 +8653,7 @@
     "answer_summary": "埼玉県との協議を継続し地域ニーズを踏まえた跡地利用の実現に向けて取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8235,6 +8673,7 @@
     "answer_summary": "特定生産緑地制度等を活用しエリアの特性に合わせた生産緑地の整理を進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8253,6 +8692,7 @@
     "answer_summary": "他自治体との連携・協力による活用を研究・検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8272,6 +8712,7 @@
     "answer_summary": "サイクリングロードの整備・ネットワーク化とサポート施設増設を進めると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8291,6 +8732,7 @@
     "answer_summary": "食肉市場等の移転再整備について国・県と調整しながら環境対応も含め取り組むと回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8310,6 +8752,7 @@
     "answer_summary": "設計労務単価の適切な反映と下請代金適正化の周知を継続すると回答。抽出調査の明言はなし。",
     "result_level": "適正確認",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8329,6 +8772,7 @@
     "answer_summary": "2022年10月に基本計画策定済み。宿泊・研修施設の整備について検討を進めると回答。",
     "result_level": "実施済",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8348,6 +8792,7 @@
     "answer_summary": "西浦和周辺の動向を注視しながら地元機運醸成を継続すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8367,6 +8812,7 @@
     "answer_summary": "公共施設再編の実施方針策定に向けて調査・検討中。GCS構想を推進すると回答。",
     "result_level": "改善・対応予定",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8385,6 +8831,7 @@
     "answer_summary": "費用対効果を検証しながら抜本的な見直しを行うと回答。",
     "result_level": "検討を引き出した",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8404,6 +8851,7 @@
     "answer_summary": "議会改革の議論を踏まえて検討すると回答。",
     "result_level": "研究段階",
     "source_type": "予算提案",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8423,6 +8871,7 @@
     "answer_summary": "各局長が登用計画を作成し男女共同参画推進本部会議で管理する全庁的取組を継続。審議会改選タイミングでの事前協議を強化すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8441,6 +8890,7 @@
     "answer_summary": "公民館は避難所機能を持つ重要施設として優先し改修工事に合わせて導入。引き続き拡大を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8460,6 +8910,7 @@
     "answer_summary": "各先進技術活用（IoTセンサー・AI映像解析等）が救急対応の効率化・火災予防に具体的に貢献することを説明。引き続き整備を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8479,6 +8930,7 @@
     "answer_summary": "調査は複数の市内河川で実施中。成果をまとめ廃棄物・環境施策への反映を検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8498,6 +8950,7 @@
     "answer_summary": "条例に基づく附属機関として施設運営の知識を有する者・関係団体代表を委員に選定。選定過程の透明性確保に努めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8516,6 +8969,7 @@
     "answer_summary": "設置支援の申請手続きの改善と補助制度の周知を強化し、計画的な整備を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "自治会・商店会が設置する防犯カメラへの経費助成を継続実施中。犯罪抑止効果の検証と設置場所の最適化・目標達成に向けた体制強化は継続取組中。"
   },
@@ -8534,6 +8988,7 @@
     "answer_summary": "夜間パトロールの強化と啓発を継続。コロナ禍でも感染対策を講じながらごみゼロキャンペーンを実施すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "路上喫煙禁止区域での取締り・環境美化推進・ごみゼロキャンペーンは継続実施中。夜間パトロールの強化も継続されている。"
   },
@@ -8553,6 +9008,7 @@
     "answer_summary": "市は地域との協働のハブとして機能することを基本とし、市民主体の取組を支援する役割を明確にすると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8571,6 +9027,7 @@
     "answer_summary": "市営住宅入居支援は関係所管に協力を求め中。企業への働きかけは研修会等で周知を進め、その後の展開を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2022年11月にファミリーシップ制度が導入され、子どもを含む家族単位での制度利用が可能になった。市営住宅への入居も認められるよう拡大された。"
   },
@@ -8590,6 +9047,7 @@
     "answer_summary": "ふれあい収集の充実とごみ集積所の代替確保に向けた地域との調整を進める。高齢化・地域変容に対応した収集体制の見直しを検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8609,6 +9067,7 @@
     "answer_summary": "配偶者は性別を問わず被害者になり得るという認識の下、計画全体として性別に関わらない支援を位置づけていると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8628,6 +9087,7 @@
     "answer_summary": "コロナ長期戦を前提に予算を見直す。新しい生活様式の周知を進め、イベントは各区実行委員会と検討しながら統一的な方向性を示すと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "国・市レベルで新しい生活様式のガイドラインとイベント開催基準が策定・運用された。その後段階的に規制が緩和され2023年5月に5類移行が実現した。"
   },
@@ -8646,6 +9106,7 @@
     "answer_summary": "認可外保育施設への対応を検討し、可能な範囲で支援を拡大する方向で対応すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "国の補助制度の拡充により認可外保育施設も給付対象に含まれ、コロナ禍での登園自粛に伴う保護者の経済的負担軽減が図られた。"
   },
@@ -8664,6 +9125,7 @@
     "answer_summary": "重度障害者就労支援事業の年度途中申込みへの対応について柔軟に運用できるよう改善を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2023年度に重度障害者の在宅介助支援事業が拡充され、通勤・職場等における支援も対象に含まれるようになった。"
   },
@@ -8683,6 +9145,7 @@
     "answer_summary": "DXは市民サービス向上を最優先の目的とし、市長が率先して庁内に哲学を発信しながら推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "市長を本部長とするDX推進本部が設置され、市民サービス向上を主眼に置いたDX推進方針が策定・発信された。"
   },
@@ -8702,6 +9165,7 @@
     "answer_summary": "国の標準仕様書に準拠した仕様書を作成。共同調達より既存設備有効活用で対応。分割発注で2020年度中の整備完了を目指すと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8720,6 +9184,7 @@
     "answer_summary": "2017年権限移譲時の市の確認不足を認め責任を感じている。今後は制度改正時に関連規定全体の影響範囲をチェックする体制を整備し再発防止を徹底すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "臨時的任用教員への退職手当未払い問題については、遅延損害金の支払いを含む適切な対応が実施された。再発防止のため任用管理・給与管理の体制が見直された。"
   },
@@ -8739,6 +9204,7 @@
     "answer_summary": "賛助会員獲得・合宿誘致・ICT活用で自主財源を拡大。経験者採用でノウハウを強化し依存率低減を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8757,6 +9223,7 @@
     "answer_summary": "事前・事中・事後の調査で属性のばらつきを確保。認知度・来場者・定性・経済効果を多角的に分析。市民サポーターへの継続支援でレガシーを育むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2023年10月〜12月に「さいたま国際芸術祭2023」を開催（3年に1度の継続開催）。レガシー作品として埼玉県立大宮光陵高校生の作品がRaiBoC Hall（市民会館おおみや）5階に恒常展示されるなど、レガシー事業も展開されている。"
   },
@@ -8776,7 +9243,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=810&schedule_id=8&minute_id=11&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2020-03-03",
@@ -8794,6 +9262,7 @@
     "answer_summary": "指定管理者への業務内容検討の中で機能充実と協働管理運営の充実を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたま市市民活動サポートセンターの指定管理が実施され、機能充実・協働管理運営の再構築が図られた。ボランティア募集情報のHP掲載機能等も整備されている。"
   },
@@ -8813,6 +9282,7 @@
     "answer_summary": "2020年度から自治会連合会ホームページ作成を補助。区コミュニティ課や委託業者と連携してサポートし情報発信力を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8832,6 +9302,7 @@
     "answer_summary": "ビッグデータ活用は現在予算未計上だが研究する方向。選挙BOOKは字幕追加等の若年層向け改善を広く意見を聞きながら進めると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8851,6 +9322,7 @@
     "answer_summary": "ハラスメント要綱は制定済みだが正式受付はゼロ。個別対応は行っている。SOGIハラスメント含む研修・啓発を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2019年のパワハラ防止法施行によりSOGIハラスメントも防止義務の対象に。庁内での研修実施・相談窓口の整備が義務化された。"
   },
@@ -8869,6 +9341,7 @@
     "answer_summary": "現在インターネット監視は未実施。法務局の仕組みを活用した被害者救済と人権啓発ネットワーク協議会での情報交換で対応すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8888,6 +9361,7 @@
     "answer_summary": "条例化に向け2020年度から着手し早急に取り組む。具体的支援を含む内容で検討する。要綱の庁内周知と連携を即時強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2021年にさいたま市犯罪被害者等支援条例が施行。見舞金・日常生活支援助成金・法律相談助成等の支援制度が創設された。"
   },
@@ -8907,6 +9381,7 @@
     "answer_summary": "公民学連携でフェーズ1の調査を実施中。フェーズ2でプラごみ削減の市民活動へ展開する計画で進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8926,6 +9401,7 @@
     "answer_summary": "DNAR事案への対応は現在医師の指示に基づき実施。本人の意思尊重と救急隊員の適切な対応に向けた指針整備を検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8945,6 +9421,7 @@
     "answer_summary": "南区役所のAI-OCR・RPA実証成果を全庁展開する方針。埼玉県・他市との共同クラウド活用も含め効果的なICT活用を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2020年度以降RPAを全庁展開。AI-OCRの導入・業務自動化により事務作業時間を大幅に削減。DX推進本部を設置し継続的に推進中。"
   },
@@ -8963,6 +9440,7 @@
     "answer_summary": "市営住宅入居申込み資格へのパートナー含有について検討。混合名簿は各学校の状況を把握しながら整備を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -8982,6 +9460,7 @@
     "answer_summary": "学校施設転用を進める方針。片柳小の学童整備については具体的な検討を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "学校余裕教室を活用した放課後児童クラブの整備が進み、大宮別所小・泰平小・与野八幡小等で順次整備が実現した。"
   },
@@ -9000,6 +9479,7 @@
     "answer_summary": "末広踏切の安全確保について関係機関と連携し対応を進める。地域住民への説明も継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "末広踏切の拡幅整備については国・県・東武鉄道との連携のもと継続取組中。さいたま市道路整備計画（令和6年4月）において踏切安全対策が継続事業として位置づけられている。"
   },
@@ -9019,6 +9499,7 @@
     "answer_summary": "建設局との連携強化と進捗管理の改善を進め、同種の遅延が再発しないよう体制を整えると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "学校建設工事の進捗管理体制が強化され、建設局・教育委員会・各課の連携体制が整備された。学校施設リフレッシュ計画に基づく計画的な整備が定着している。"
   },
@@ -9038,6 +9519,7 @@
     "answer_summary": "AI-OCR・RPA実証実験の成果を検証し、有効性が確認できれば全庁への展開を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2020年度よりAI-OCR・RPAを全庁展開。区役所の定型業務を中心に自動化が進み、職員の事務負担が軽減された。"
   },
@@ -9056,6 +9538,7 @@
     "answer_summary": "大崎第1工場解体工事では適切なダイオキシン飛散防止対策を実施中。周辺環境モニタリングも行い安全確保を徹底すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9074,6 +9557,7 @@
     "answer_summary": "2019年度内に制度を実施する方針。パブコメ結果は制度発表時に公表。全庁調査に基づき行政サービスの適用を検討中と答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2020年4月にパートナーシップ宣誓制度が施行（2020年9月委員会で14組宣誓確認）。"
   },
@@ -9092,6 +9576,7 @@
     "answer_summary": "地域公共交通協議会と東西交通専門部会を設置して計画策定を進める。地域住民の意見反映についても部会で検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9110,6 +9595,7 @@
     "answer_summary": "東大宮駅ホームドアについてJRに要望を継続。七里駅は2023年度供用開始目標で建築確認申請手続きへ。大和田駅北口は関係機関と協議継続と答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "七里駅橋上駅舎化・南北自由通路が2024年2月10日に新駅舎使用開始、2024年3月31日に全面開通した。北口駅前広場・アクセス道路も区画整理事業により整備完了。大和田駅舎改修事業も令和7年度運営方針に基づき基本設計・測量委託が進行中。"
   },
@@ -9129,6 +9615,7 @@
     "answer_summary": "斜面林は重要箇所を優先して公有地化を推進。南ルートは2019年度完了目標。染谷・加田屋公園は用地取得・整備手法の調査を継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "見沼斜面林の保全はさいたま緑のトラスト協会による買取・管理が継続されており、みどりの条例に基づく保存緑地指定・補助金交付で保全が図られている。大宮聖苑南ルート道路・染谷公園整備も継続推進中。"
   },
@@ -9148,6 +9635,7 @@
     "answer_summary": "近年の参加者減少傾向と実績額を踏まえた積算。小学生モデル事業で教室・訪問・通信添削の効果を検証しながらより良い制度設計へ。受託業者の意見も反映すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9166,6 +9654,7 @@
     "answer_summary": "国の動向を注視しながら2019年度に認知症施策検討委員会を設置し制度導入を含め検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9184,6 +9673,7 @@
     "answer_summary": "小動物火葬場のニーズを把握し、適切な対応を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9202,6 +9692,7 @@
     "answer_summary": "混雑対策として受付端末追加・混雑情報の事前周知を実施。見沼・北区の増設投票所は条件を満たす施設が見つかっていないが、公共施設・屋外設置等も含め引き続き検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9221,7 +9712,8 @@
     "result_level": "実施済",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=775&schedule_id=2&minute_id=275&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2018-12-10",
@@ -9239,7 +9731,8 @@
     "result_level": "研究段階",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=737&schedule_id=3&minute_id=581&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2018-12-10",
@@ -9257,6 +9750,7 @@
     "answer_summary": "音声コードの活用については他自治体の事例を参考に研究を進めると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9275,6 +9769,7 @@
     "answer_summary": "訴訟提起により滞納整理の実効性を確保し公平な納税環境を維持すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9294,6 +9789,7 @@
     "answer_summary": "今回の経験を踏まえ計画運休時の帰宅困難者対策を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "令和元年台風19号（2019年10月）を経て、計画運休時の帰宅困難者対策マニュアルが整備された。大宮駅周辺での帰宅困難者対策訓練・一時滞在施設の確保も実施されている。"
   },
@@ -9313,6 +9809,7 @@
     "answer_summary": "周辺施設との料金バランスを考慮しながら地域の賑わい創出に貢献する運営を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9331,6 +9828,7 @@
     "answer_summary": "補正予算の緊急性の根拠を示し事業の透明性を確保すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9350,6 +9848,7 @@
     "answer_summary": "中小企業資金融資は融資枠不足への対応として緊急補正。駐車場有料化は管理コスト等を勘案した料金設定と答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9368,6 +9867,7 @@
     "answer_summary": "12本の仕様不適合品は安全確認済みの物に取替え完了。損害賠償については法的対応を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2018年にKYBによる制振ダンパーのデータ改ざん不正が全国的に発覚し国土交通省が再発防止策を策定した。さいたま市においても市有施設の該当製品の確認・対応が実施された。国交省の外部有識者委員会提言を受け、免震材料の大臣認定制度の見直しと制振部材の品質確保措置が制度化された。"
   },
@@ -9387,6 +9887,7 @@
     "answer_summary": "防災無線のデジタル化と難聴地域への補完手段の整備を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "防災行政無線メール配信・テレビ埼玉データ放送（2012年9月開始）・緊急速報メール・Yahoo!防災速報・さいたま市防災アプリとの連携により多様なメディアへの情報発信体制を整備。防災行政無線の放送内容をHPやアプリで確認できる体制が完成している。"
   },
@@ -9405,6 +9906,7 @@
     "answer_summary": "成果指標の根拠を明確化し、アウトカム指標の充実に向けて検討すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9423,6 +9925,7 @@
     "answer_summary": "決算審査の充実に向けた手法改善を検討すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9441,6 +9944,7 @@
     "answer_summary": "開庁時間と勤務時間の見直しについて、他市の事例も参考にしながら検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9459,6 +9963,7 @@
     "answer_summary": "情報公開制度の適正運用と不当要求対応規則の周知徹底を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報公開制度の適正運用は行政情報検索システムの継続稼働・各区役所情報公開コーナーの設置により実施中。行政対象暴力への対応については庁内マニュアルの整備・職員研修が継続実施されている。"
   },
@@ -9478,6 +9983,7 @@
     "answer_summary": "eLTAX義務化への受入体制を整備し、中小企業への周知を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2019年10月から大法人への電子申告（eLTAX）が義務化された。中小企業向けの周知啓発も継続実施されている。"
   },
@@ -9497,6 +10003,7 @@
     "answer_summary": "積雪時の登校対応について統一的な指針を検討し、通学路除雪体制を整備すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2018年の記録的大雪を経て、学校の積雪時対応方針（授業開始時刻の変更・休校判断基準等）の統一化が図られた。通学路の除雪対応体制の整備も進められている。"
   },
@@ -9515,6 +10022,7 @@
     "answer_summary": "独自テキスト・指導案・研修の3つで格差是正に取り組む。教員の指導力向上研修を継続的に実施すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2025年6月に中学生英語力6回連続全国1位（中3でCEFR A1以上88.4%、全国平均50.0%を38.4ポイント上回る）を達成。全小学校に専科教員・ALT（148人）を配置し、エビデンスに基づいた指導力向上研修をALT・教員対象に毎月・年2回実施。学校間格差解消のため英語4技能効果測定の結果を各校に1on1でフィードバックする仕組みが定着した。"
   },
@@ -9534,7 +10042,8 @@
     "result_level": "適正確認",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=739&schedule_id=1&minute_id=1144&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2018-02-19",
@@ -9551,6 +10060,7 @@
     "answer_summary": "博物館類似施設として条例制定。開館時間は来館者の利便性を考慮して9時〜17時に設定すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9570,6 +10080,7 @@
     "answer_summary": "（議員提出議案への反対討論として）憲法解釈と財源について明確な根拠が示されていないと問題提起。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9589,6 +10100,7 @@
     "answer_summary": "長縄跳び・体力アップメニューの実施状況を指標とする現行方針を説明。アウトカム指標の充実を検討すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9608,6 +10120,7 @@
     "answer_summary": "会員数目標を維持しながら財政的自立に向けた取組を強化すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9627,6 +10140,7 @@
     "answer_summary": "睡眠・朝食の重点啓発と講師リスト提供で生活習慣改善を推進。部活動指導員派遣100%目標は全学校への展開を目指すものと説明。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "部活動指導員の派遣事業は後年実施されており、学校の働き方改革推進の観点から段階的に拡充されている。すくすくのびのびキャンペーンのKPI見直しも継続実施されている。"
   },
@@ -9646,6 +10160,7 @@
     "answer_summary": "50件は市内施設の利用状況等を踏まえた上限として設定。上積みは施設の維持修繕等と整合させながら検討すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9667,7 +10182,8 @@
     "result_level": "実施済",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=693&schedule_id=3&minute_id=350&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2017-12-11",
@@ -9684,6 +10200,7 @@
     "answer_summary": "ウェブサイト整備と学習塾・小学校への情報提供を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2019年4月に大宮国際中等教育学校（MOIS）として開校。一般選抜・帰国生特別選抜の入試体制を整備し、学校説明会・オープンスクールを定期的に開催している。2024年に1〜6年生が揃う完成記念式典を開催し全国から教育関係者の視察を受けている。"
   },
@@ -9702,6 +10219,7 @@
     "answer_summary": "指定管理者変更にあたり事業の継続性とノウハウ引継ぎを確保し、市民サービスの水準を維持すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "宇宙劇場（さいたま市青少年宇宙科学館）の指定管理者変更後も運営が継続されている。サービス水準の維持・向上に向けた取組が継続実施されている。"
   },
@@ -9721,7 +10239,8 @@
     "result_level": "適正確認",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=693&schedule_id=1&minute_id=149&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2017-09-19",
@@ -9740,6 +10259,7 @@
     "answer_summary": "文科省の方針を踏まえ給食費公会計化の検討を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2024年度から小学校・特別支援学校小学部の給食費が無償化され、公会計化も段階的に推進された。教職員の給食費徴収事務が解消された。"
   },
@@ -9760,6 +10280,7 @@
     "answer_summary": "動線を明確に分離し子供の安全を確保した設計とすると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9779,7 +10300,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=690&schedule_id=4&minute_id=318&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2017-06-19",
@@ -9796,6 +10318,7 @@
     "answer_summary": "IB教員の採用・研修計画を進め、MYP認定取得に向けたスケジュールを明確化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2019年4月にさいたま市立大宮国際中等教育学校（MOIS）が開校。2021年5月にIBのMYP（中等教育プログラム）認定校、2022年5月にDP（ディプロマ・プログラム）認定校となった。関東圏の公立学校として初のMYP・DP両認定を取得し、埼玉県唯一の中等教育学校として稼働中。"
   },
@@ -9814,6 +10337,7 @@
     "answer_summary": "次期ホームレス自立支援計画の策定に向け民間団体との連携を強化する方針を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9833,6 +10357,7 @@
     "answer_summary": "シティスタットの職員活用を促進する取組を強化し、IoT活用も含めたEBPM推進を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "スマートシティ推進計画を策定し、IoTセンサーやデータ利活用による市民サービス向上の取組が継続推進されている。"
   },
@@ -9852,6 +10377,7 @@
     "answer_summary": "幼稚園への補助充実と民設放課後児童クラブへの支援強化を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2019年10月から幼児教育・保育の無償化が実施された。放課後児童クラブの施設数・定員も継続的に拡充されている。"
   },
@@ -9870,6 +10396,7 @@
     "answer_summary": "文化芸術団体の活動拠点整備の必要性を認識し検討を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9889,6 +10416,7 @@
     "answer_summary": "大宮駅GCS化構想を推進し東日本の対流拠点整備を民間と連携して具体化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2020年に大宮駅周辺地域戦略ビジョン（GCS構想）が策定され、市・県・鉄道事業者・民間が連携した推進体制が整備された。2024年度以降も大宮駅東口周辺整備が進行中。"
   },
@@ -9907,6 +10435,7 @@
     "answer_summary": "コンセッション・広域連携は埼玉県主導の方針を尊重しながら市民サービス最優先で対応。女性職員割合・男性育休取得率の目標を設定し推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2018年の水道法改正（コンセッション方式の解禁・広域連携の推進）への対応方針を策定。さいたま市は現時点でコンセッション方式の導入を選択せず、水道施設再構築計画・中期経営計画に基づく自己運営を継続することを明確化した。"
   },
@@ -9926,6 +10455,7 @@
     "answer_summary": "地域の球技ニーズを踏まえた公園内球技場の整備について検討を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -9945,7 +10475,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=665&schedule_id=6&minute_id=258&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2017-02-15",
@@ -9962,6 +10493,7 @@
     "answer_summary": "公共施設マネジメント計画のPPP活用と財源確保について具体化を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "公共施設マネジメント計画を継続更新・実施中。Park-PFI（与野中央公園・さぎ山記念公園等）・学校体育館エアコンPFI等のPPP/PFI活用が進んでいる。令和6年度の事務事業見直し方針によりコスト削減も強化された。"
   },
@@ -9981,6 +10513,7 @@
     "answer_summary": "東日本連携の経済的成果につながるMICE誘致と大宮盆栽ブランディングを強化すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "東日本連携・MICE推進は継続実施中。GCS構想・さいたま国際芸術祭・さいたまクリテリウム等の国際的イベントの開催・誘致で具体化が進んでいる。令和7年度も大宮駅周辺GCS構想・バスタ大宮の事業化推進が継続されている。"
   },
@@ -10000,6 +10533,7 @@
     "answer_summary": "（討論）各議案の賛成・附帯意見として表明。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10019,6 +10553,7 @@
     "answer_summary": "国際貢献推進事業の成果を踏まえ次期計画での継続を検討すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたま市水道局の国際貢献事業は継続実施中。アジア・アフリカ等の途上国への水道技術支援・人材育成が継続されている。"
   },
@@ -10038,6 +10573,7 @@
     "answer_summary": "三局長会議を定期的に開催し協定書の誠実な履行に向けて取り組む。地域への説明・コミュニケーションを丁寧に続けると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "協定に基づく周辺整備（染谷公園・大宮聖苑南ルート道路等）は建設局・環境局・公園課が連携して継続推進中。地域説明会も継続実施されている。"
   },
@@ -10056,6 +10592,7 @@
     "answer_summary": "耐震補強助成の充実と啓発を強化し耐震化率向上を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "戸建住宅・共同住宅・民間特定建築物・小規模建築物に加え、緊急輸送道路閉塞建築物への助成制度を整備・拡充。建替え工事への助成も追加し、耐震シェルター・防災ベッド設置支援制度も設けた。2025年度から電子申請も導入し利便性を向上させた。"
   },
@@ -10075,6 +10612,7 @@
     "answer_summary": "各種制度（特別緑地保全地区・市民緑地等）を活用しながら緑地保全を積極的に進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10094,6 +10632,7 @@
     "answer_summary": "JRの積算と市独自積算に大きな差異はなく金額は妥当と確認。社外秘資料の取り扱いは課題として認識すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10112,6 +10651,7 @@
     "answer_summary": "臨時期日前投票所は人が集まりやすい施設に設置を目指す。時間弾力化は増設優先で対応。共通投票所は二重投票防止のシステム整備が課題と答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "コクーンシティ・イオンモール等の大型商業施設への期日前投票所設置が実現し、有権者の利便性が大幅に向上した。"
   },
@@ -10131,6 +10671,7 @@
     "answer_summary": "区長マニフェストとPDCAサイクルの実効性向上に向け区独自予算の在り方を検討すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10150,6 +10691,7 @@
     "answer_summary": "避難情報のマップ視覚化は課題と認識。ハザードマップとの連携を含め分かりやすい情報発信の方法を検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10169,6 +10711,7 @@
     "answer_summary": "いじめ防止の取組とともに多様性理解の啓発を学校現場で推進すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10187,6 +10730,7 @@
     "answer_summary": "大学・高校との啓発連携を強化。期日前投票の時間弾力化は利用実績を踏まえながら検討。子供同伴入場は法改正後に対応すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2016年に18歳選挙権が施行され、若者向け選挙啓発が本格展開した。期日前投票所の拡充・開設時間の延長も実施された。"
   },
@@ -10206,6 +10750,7 @@
     "answer_summary": "生体情報等のビッグデータ活用を推進し、市民サービス向上に活かすと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "DX推進本部のもとオープンデータの整備・スマートシティ推進の中でビッグデータ利活用が継続実施中。SDGs先進度全国4位・スポーツ都市ランキング全国1位など各種データの収集・活用が進んでいる。生体情報の直接活用については慎重に研究継続中。"
   },
@@ -10224,6 +10769,7 @@
     "answer_summary": "除雪事業者との連携協定強化と優先路線の除雪体制の整備を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "降雪対策体制の整備・除雪事業者との連携協定は継続強化中。さいたま市道路整備計画に基づく維持管理体制が整備されており、除雪対応体制は定着している。"
   },
@@ -10243,6 +10789,7 @@
     "answer_summary": "決算提言書の予算への反映状況を示し、議会の政策提言機能の充実に努めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10261,6 +10808,7 @@
     "answer_summary": "（討論）各議案への附帯意見として表明。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10279,6 +10827,7 @@
     "answer_summary": "第二産業道路の拡幅整備を着実に進め、地域住民への説明を継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "大宮岩槻線1工区（470m）は2025年時点で用地取得がほぼ完了し街路工事が開始。事業期間は2026年3月まで（延長の可能性あり）。芝川工区は2026年11月完成予定。段階的に整備が進んでいる。"
   },
@@ -10297,6 +10846,7 @@
     "answer_summary": "ボトルネック交差点の整備を優先的に進め交通の円滑化を図ると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "都市計画道路大宮岩槻線（大和田工区）は事業中（用地取得率2025年3月時点29%）。芝川工区（530m）は橋げた架設・舗装段階（2026年11月末完成予定）。段階的に整備が進んでいる。"
   },
@@ -10317,7 +10867,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=551&schedule_id=5&minute_id=566&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2015-09-08",
@@ -10335,6 +10886,7 @@
     "answer_summary": "議場ICT化について議会改革推進特別委員会の議論を尊重して対応する。主権者教育は18歳選挙権施行に向けて充実させると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "市議会へのタブレット端末導入・ペーパーレス化が実現した。主権者教育については学校での模擬選挙等の取組が拡充された。"
   },
@@ -10353,6 +10905,7 @@
     "answer_summary": "新規道路開通前に周辺交通安全調査を実施し、必要な対策を事前に講じると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "新規開通道路の周辺交通安全対策はルーティンとして継続実施中。令和6年4月策定のさいたま市道路整備計画に基づき、開通後の安全対策も含め計画的に推進されている。"
   },
@@ -10372,6 +10925,7 @@
     "answer_summary": "染谷公園の整備を着実に進める。協定書に基づく環境整備を継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "染谷花しょうぶ園は毎年6月に開園しており市民に親しまれている。染谷公園（新規整備）については大宮聖苑建設協定に基づく周辺整備の一環として継続推進中。完了時期は未定。"
   },
@@ -10390,6 +10944,7 @@
     "answer_summary": "組織体制強化と予算確保で未処理案件のスリム化を進める。区別格差は要望数の違いによるものだが均等な整備に努めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "暮らしの道路整備事業は継続実施中。申請から完成までの期間短縮は実現済みだが、新規要望が毎年130件前後流入するため未処理件数の削減は継続課題。令和6年4月策定の道路整備計画に基づき優先整備を推進中。"
   },
@@ -10408,6 +10963,7 @@
     "answer_summary": "住宅政策の情報提供を充実させ、都市下水路の維持管理を強化すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10427,6 +10983,7 @@
     "answer_summary": "南部浄化センター方面への11ha拡張と防災機能付加を含む基本計画改定を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "合併記念見沼公園は現在約3.9haで開設・活用中。南側12.2haの用地確保後に16.1haへ拡張し「さいたまセントラルパーク」に改称する計画があるが、産廃処理・地権者調整等の課題があり時期は未定。"
   },
@@ -10445,6 +11002,7 @@
     "answer_summary": "BRT・LRTの導入検討を進める。参加型まちづくりと連携した市民意見の反映に取り組むと答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10465,6 +11023,7 @@
     "answer_summary": "コミュニティバスを用いた通学については引き続き検討を進めると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10484,6 +11043,7 @@
     "answer_summary": "特別支援教育の推進体制強化と合理的配慮の充実に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "障害者差別解消法施行（2016年）以降、学校における合理的配慮の提供が義務化された。ひまわり特別支援学校に知的障害教育部門が設置され、スクールアシスタント配置事業も全校展開された。"
   },
@@ -10503,6 +11063,7 @@
     "answer_summary": "統合運用管理の行革効果は概ね計画どおり。複雑な管理体制については適切なガバナンスで対応すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10522,6 +11083,7 @@
     "answer_summary": "市民の声データベースのオープン化と民間活用について検討を進めると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10541,6 +11103,7 @@
     "answer_summary": "総合区制度の活用を含む区への権限移譲について検討を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10559,6 +11122,7 @@
     "answer_summary": "SNS利用の実態把握と啓発強化に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "学校でのメディアリテラシー教育・情報モラル指導が継続実施中。GIGAスクール端末の整備を機に全校でデジタルリテラシー教育が強化された。国（こども家庭庁・総務省）の実態調査も毎年実施されており、さいたま市でも保護者向け啓発資料の配布・出前講座を継続している。"
   },
@@ -10577,6 +11141,7 @@
     "answer_summary": "大和田交差点改良と御蔵中央通線の整備を優先的に進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "都市計画道路大宮岩槻線（大和田工区・1,019m）は事業中。2025年3月時点の用地取得率29%で取得が進行中。七里駅入口交差点（350m）も2023年に都市計画事業認可を取得し事業中。完了にはまだ数年を要する見込み。"
   },
@@ -10596,6 +11161,7 @@
     "answer_summary": "問診票の統合・共通化による受診者負担軽減を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10614,6 +11180,7 @@
     "answer_summary": "就労支援を強化し生活保護の適正執行管理を推進すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "生活保護適正実施推進員（警察官OB）を各福祉事務所に配置し不正受給対策を強化。就労自立給付金制度・生活困窮者自立支援法に基づく就労訓練事業を継続実施中。令和7年3月末時点で告訴案件の有罪判決多数確定。"
   },
@@ -10635,7 +11202,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=516&schedule_id=3&minute_id=311&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2014-03-05",
@@ -10653,6 +11221,7 @@
     "answer_summary": "クリテリウムの経済波及効果を定量的に把握しながら地域経済への貢献を最大化する取組を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたまクリテリウムは継続開催されており、経済効果調査も実施されている。世界最高峰のロードレース「ツール・ド・フランス」の表彰台上位3選手が参加する国際的なイベントとして定着し、地域経済への波及効果が確認されている。"
   },
@@ -10671,6 +11240,7 @@
     "answer_summary": "コンプライアンス推進と文書管理の電子化・情報公開拡大を推進すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10689,6 +11259,7 @@
     "answer_summary": "産業集積・企業立地支援と創業支援を強化して地域経済の活性化を図ると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10708,6 +11279,7 @@
     "answer_summary": "ICT活用と民間活力の導入を進め、オープンデータの整備とガバメント2.0の実現に向けた取組を推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報システム最適化の中で民間活力の活用（PFI・民間提案制度等）が実施され、コスト削減と市民サービス向上が図られた。"
   },
@@ -10727,6 +11299,7 @@
     "answer_summary": "手話言語条例の制定と骨髄バンクドナー助成制度について前向きに検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "https://www.city.saitama.lg.jp/002/001/017/001/p036411.html",
     "follow_up": "骨髄バンクドナー助成制度はさいたま市で創設済み（1日2万円・最大14万円を交付）。さいたま市手話言語条例は2025年6月11日の市議会本会議において議員提出議案として議決・成立した。"
   },
@@ -10747,6 +11320,7 @@
     "answer_summary": "スクールアシスタントの配置拡充とインクルーシブ教育の推進に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "スクールアシスタント配置事業が全市立小・中・特別支援学校に拡大し、590,101千円規模の事業として定着した。"
   },
@@ -10766,6 +11340,7 @@
     "answer_summary": "模擬選挙の拡大と主権者教育の充実に向けて取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2016年の18歳選挙権施行に合わせて主権者教育が本格展開。模擬選挙・議場見学・出前講座等の取組が市立学校全体に広がった。"
   },
@@ -10785,7 +11360,8 @@
     "result_level": "適正確認",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=507&schedule_id=7&minute_id=99&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2013-12-17",
@@ -10802,6 +11378,7 @@
     "answer_summary": "KPI設定の改善と行革効果の可視化に向けた取組を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "令和6年度に事務事業見直し方針を策定し、平成22年度〜令和6年度の15年間で約2,200億円の財政的効果を市長答弁で明示。「データから見るさいたま市」ページで英語力・幸福度・人口増加等の多様なKPIを市民向けに公開・更新しており、行革効果の可視化が定着している。"
   },
@@ -10820,6 +11397,7 @@
     "answer_summary": "職員評価向上に向けた接遇改善と研修の充実を進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "市民意識調査を継続実施中。さいたま市は幸福度ランキング政令市1位（2024年版）を達成し、市民の住みやすさ評価も高い水準を維持している。DX推進による窓口改善・オンライン手続拡充で市職員との接点改善も継続中。"
   },
@@ -10839,7 +11417,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=464&schedule_id=4&minute_id=149&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2013-02-18",
@@ -10856,6 +11435,7 @@
     "answer_summary": "土地開発公社解散後の保有土地の有効活用を進め財政改善につなげると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたま市土地開発公社が解散し、保有土地の処分・有効活用が図られた。財政健全化に寄与した。"
   },
@@ -10875,6 +11455,7 @@
     "answer_summary": "ヌゥのシティセールス活用を強化しサポーターズクラブを核にした市民巻き込みを推進すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "ヌゥのシティセールス活用は継続中。さいたま市は野村総合研究所「スポーツ都市ランキング全国1位」・日本経済新聞「SDGs先進度全国4位」など多分野で高評価を獲得しており、シティセールスの実績が積み上がっている。"
   },
@@ -10893,6 +11474,7 @@
     "answer_summary": "行財政改革を総合振興計画と整合させPDCAマネジメントを強化すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10911,6 +11493,7 @@
     "answer_summary": "（討論）",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -10930,6 +11513,7 @@
     "answer_summary": "各事業の成果把握を強化し、ノーマライゼーション推進・子ども総合センター整備・シルバーバンクの実効性を高めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "子ども家庭総合センターは整備・開設済み。さいたま市シルバー人材センターは2023年度に第3次中期計画を策定し、60歳以上の就業マッチング・女性活躍支援（シルボンヌWEB）など活性化を継続推進中。"
   },
@@ -10949,6 +11533,7 @@
     "answer_summary": "シルバーバンク事業の周知強化と高齢者就業機会創出の実効性向上に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたま市シルバー人材センターは植木剪定・清掃・家事援助など多様な業務で就業機会を提供し継続稼働中。2023年度第3次中期計画策定、女性向けサイト「シルボンヌWEB」開設など活性化策を実施中。"
   },
@@ -10967,6 +11552,7 @@
     "answer_summary": "子ども総合センターの整備にあたり利用者ニーズを踏まえた設計・機能充実を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたま市子ども家庭総合センターとして整備・開設された。児童相談所・一時保護所・子育て支援機能を一体的に備えた拠点施設となっている。"
   },
@@ -10986,6 +11572,7 @@
     "answer_summary": "保養施設の管理運営の適正化と男女共同参画センターの機能充実を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11004,6 +11591,7 @@
     "answer_summary": "市民に分かりやすい指標の開発と震災後の財政対応について取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "「データから見るさいたま市」ページで幸福度ランキング・英語力・SDGs先進度・スポーツ都市ランキングなど多様な指標を市民向けに公開・更新している。令和6年度の事務事業見直し方針策定により財政運営の透明化・可視化が進んでいる。"
   },
@@ -11023,6 +11611,7 @@
     "answer_summary": "ゆるキャラグランプリへの戦略的参戦体制を整備しシティプロモーション効果を高めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "ヌゥは市の公式キャラクターとして市公式SNS・各種イベントでの活用が定着。さいたま市は住みたい街ランキング（大宮3年連続2位）・幸福度ランキング政令市1位など多くの指標で高評価を獲得しており、シティプロモーションの実績が積み上がっている。"
   },
@@ -11041,6 +11630,7 @@
     "answer_summary": "選挙啓発の強化と期日前投票所拡充を進める。インターネット投票は国の動向を注視すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "選挙啓発の強化・期日前投票所の拡充が実施された。SNSを活用した選挙啓発も導入され、若者への周知が強化された。"
   },
@@ -11060,6 +11650,7 @@
     "answer_summary": "公式Twitterの活用を強化しフォロワー増加と市民との双方向コミュニケーションを推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "市公式SNS（X・Instagram等）のフォロワー数が増加し、複数のSNSプラットフォームでの情報発信が定着した。"
   },
@@ -11079,6 +11670,7 @@
     "answer_summary": "震災がれきは安全性確認後に受け入れ、空き家対策は条例化を検討すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2013年1月1日に「さいたま市空き家等の適正管理に関する条例」が施行された。その後2016年には空き家等対策協議会条例も制定。2022年には第2次さいたま市空き家等対策計画（2022〜2025年度）を策定し、発生予防・適正管理・利活用促進・管理不全解消の四本柱で取り組んでいる。"
   },
@@ -11097,6 +11689,7 @@
     "answer_summary": "行政サービスコストの開示範囲拡大と市民への分かりやすい情報提供を検討すると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11117,6 +11710,7 @@
     "answer_summary": "各施策について着実な取組を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11136,6 +11730,7 @@
     "answer_summary": "提案型公民連携制度を整備し民間のノウハウ活用で行政サービスの改善を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11155,6 +11750,7 @@
     "answer_summary": "SE単価表を活用した適正コスト管理と産学官連携スポーツ振興を推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報システム調達においてSE単価表を活用した適正価格での発注が導入され、コスト管理が改善された。"
   },
@@ -11174,6 +11770,7 @@
     "answer_summary": "情報システム最適化のコスト削減効果を具体的に示し行財政改革に貢献する取組を推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "民間事業者からの政策提案制度（サウンディング型市場調査等）が導入され、公民連携による事業推進が定着した。"
   },
@@ -11192,6 +11789,7 @@
     "answer_summary": "文書管理規定の見直しと市民提出書類の管理プロセス改善で再発防止を徹底すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11211,6 +11809,7 @@
     "answer_summary": "提言の内容を踏まえ、災害情報収集・発信体制の強化に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11229,6 +11828,7 @@
     "answer_summary": "震災後の雇用情勢を反映した計画改訂と就労支援強化に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11248,6 +11848,7 @@
     "answer_summary": "見積もり内訳の透明性確保と適正な契約管理に取り組むと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11266,6 +11867,7 @@
     "answer_summary": "ヌゥの活用戦略見直しとキャッチフレーズの浸透強化に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "「のびのびシティ さいたま市」のキャッチフレーズは現在も公式に使用されており定着している。さいたま市は日本総合研究所「幸福度ランキング2024年版」で政令指定都市総合1位を獲得。ヌゥは市公式SNS・イベントで継続活用中。"
   },
@@ -11285,6 +11887,7 @@
     "answer_summary": "災害弔慰金を適切に支給し保険給付費支払基金の積立を適正に管理すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11304,6 +11907,7 @@
     "answer_summary": "被災地支援を継続し、避難者支援・放射線測定・節電対策を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11322,6 +11926,7 @@
     "answer_summary": "事業評価手法を充実させPDCAサイクルによる予算編成の実効化に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "令和6年度に市が「事務事業見直し方針」を策定し、全事務事業を対象に必要性・有効性・効率性・DX推進・公民連携の観点でPDCAサイクルに基づく評価・見直しを実施。平成22年度から令和6年度の15年間で約2,200億円の財政的効果を創出。行政側の事業評価PDCAサイクルが全庁的に定着したことを市長答弁で確認した。"
   },
@@ -11340,6 +11945,7 @@
     "answer_summary": "大規模集客施設との協定締結を進め帰宅困難者対策を強化。計画停電時の対応方針を明確化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11359,6 +11965,7 @@
     "answer_summary": "PRマスタープランに新たな課題を反映させ防災広報との連携を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "シティプロモーション推進計画に基づく取組が継続。「のびのびシティ さいたま市」のキャッチフレーズのもと、幸福度・住みたい街・SDGs等の多様な指標でさいたま市の魅力が発信されている。帰宅困難者対策については令和7年3月に協定締結事業者を追加し体制強化が図られた。"
   },
@@ -11378,6 +11985,7 @@
     "answer_summary": "震災復旧財源を確保しながら公共施設のPPP活用と防災対策強化を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11397,6 +12005,7 @@
     "answer_summary": "新大宮聖苑建設協定書の履行状況を確認し周辺整備を着実に進めると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "新大宮聖苑の建設協定に基づく周辺整備（染谷公園・道路整備等）は建設局・公園課が連携して継続推進中。大宮聖苑南ルート道路・染谷公園整備は継続事業として進行中。"
   },
@@ -11416,6 +12025,7 @@
     "answer_summary": "自主防災組織への資機材補助・情報提供・研修支援を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "全860自治会中800組織が自主防災組織を結成（結成率93.0%）。令和7年度も補助金交付・資機材整備補助・地区防災計画策定支援を継続実施。災害時協定の締結事業者も継続的に拡充されており、地域防災力が着実に強化されている。"
   },
@@ -11434,6 +12044,7 @@
     "answer_summary": "外郭団体改革プランに基づく各団体の自立化・廃止の取組状況を説明し、引き続き改革を推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "外郭団体改革プランに基づき、団体の統廃合・自立化が推進された。埼玉水道サービス公社等の改革が実施された。"
   },
@@ -11452,6 +12063,7 @@
     "answer_summary": "協議会廃止後も各自治体との広域連携を別の枠組みで継続すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11473,7 +12085,8 @@
     "result_level": "検討を引き出した",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=341&schedule_id=4&minute_id=551&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2010-09-27",
@@ -11491,6 +12104,7 @@
     "answer_summary": "県との協議を進め、さいたまソフトウェアセンターの整理に向けた具体的な協議を加速すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11509,6 +12123,7 @@
     "answer_summary": "早期起業家教育の効果を検証し地域経済活性化につながる取組を強化すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11527,6 +12142,7 @@
     "answer_summary": "行財政改革プランに基づき外郭団体整理・民間委託を着実に推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "令和6年度に「事務事業見直し方針」を策定し全事務事業を対象に見直しを実施。平成22年度〜令和6年度の15年間で約2,200億円の財政的効果を創出（市長答弁で確認）。外郭団体改革・民間委託推進は継続されており、行財政改革の成果が数値として可視化されている。"
   },
@@ -11545,6 +12161,7 @@
     "answer_summary": "行革推進本部の取組（事務事業見直し・公開審議・職員一人一改善）を説明。失格基準ぎりぎりの案件は不正行為を直ちに疑うものではないが不自然な場合は適切に対応すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11563,6 +12180,7 @@
     "answer_summary": "情報公開制度の運用改善を進め、情報公開日本一に向けた取組を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報公開制度の改善・ホームページでの情報公開の拡充が継続的に実施された。コスト表記実施要綱に基づくコスト公開も定着している。"
   },
@@ -11582,6 +12200,7 @@
     "answer_summary": "2010年改善で63点に向上見込み。市民無作為抽出は多様な意見反映に有効と評価。予定価格公表等の課題は引き続き検討と答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報公開制度の改善が継続実施され、行政情報検索システム（平成19年4月以降の情報を検索可）が整備・運用中。日本総合研究所「全47都道府県幸福度ランキング2024年版」でさいたま市が政令指定都市中総合第1位・基本指標4回連続第1位を達成。情報公開の改善が市政全体の評価向上に結びついている。"
   },
@@ -11601,6 +12220,7 @@
     "answer_summary": "第2回公開審議では市民委員が意見を述べやすい環境を整備し積極的な参加を促すと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "盆栽美術館の管理運営は指定管理者制度のもとで継続実施中。市民参加・運営透明化については館運営協議会等の枠組みで継続取組中。"
   },
@@ -11620,6 +12240,7 @@
     "answer_summary": "国際会議誘致戦略を強化し民間・大学との連携で国際都市さいたま市の実現を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "観光国際課を中心にMICE推進体制が整備され、国際会議・スポーツイベントの誘致活動が継続実施されている。"
   },
@@ -11639,6 +12260,7 @@
     "answer_summary": "キャラクター著作にとらわれない形で、より柔軟でわかりやすい広報を工夫して継続すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "漫画会館・岩槻人形博物館等の文化施設を活用した情報発信が継続。さいたま市都市イメージキャッチフレーズ「のびのびシティ さいたま市」のもとシティプロモーションが続いている。MANGA文化の積極活用については継続課題。"
   },
@@ -11659,6 +12281,7 @@
     "answer_summary": "PPP活用・プレイスメイキング・チルドレンズミュージアム・マッチングファンド制度について検討を進めると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11678,6 +12301,7 @@
     "answer_summary": "振興PTの業務範囲と抹茶サービス等の付加価値サービスの推進方針を説明すると答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "盆栽美術館の運営改善は継続実施中。盆栽村開村100周年（2025年）に向けて盆栽庭園の池まわりの改修（27,107千円）を実施。来館者増加策・広報強化も継続推進されている。"
   },
@@ -11696,6 +12320,7 @@
     "answer_summary": "自転車道・駐輪場の整備と安全啓発を一体的に推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "自転車政策事業として自転車走行空間の整備・サイクルサポート施設の拡充が継続実施されている。自転車活用推進計画も策定された。"
   },
@@ -11714,6 +12339,7 @@
     "answer_summary": "マッチングファンドの市民団体への周知と活用促進を強化すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "さいたまマッチングファンド助成金制度が継続運営され、市民団体の活動支援・市との協働事業の推進に活用されている。"
   },
@@ -11732,6 +12358,7 @@
     "answer_summary": "非公募とした根拠・背景を説明し透明性の確保に努めると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11751,6 +12378,7 @@
     "answer_summary": "幼児同乗自転車の安全基準周知と安全装備への支援強化に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "幼児同乗自転車の安全基準の普及啓発・ヘルメット着用促進・安全教室の実施が定着した。"
   },
@@ -11769,6 +12397,7 @@
     "answer_summary": "産科救急医療機関との連携強化と受け入れ拒否防止策を推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "埼玉県周産期医療ネットワークの強化が図られ、妊婦の救急搬送体制が整備された。市立病院での周産期対応も充実している。"
   },
@@ -11787,6 +12416,7 @@
     "answer_summary": "地域の盆栽専門家を活用した適切な盆栽管理体制の確立を検討すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11806,6 +12436,7 @@
     "answer_summary": "盆栽管理の記録保存と被害盆栽の処理を運営委員会で透明性を持って進めると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11824,6 +12455,7 @@
     "answer_summary": "公社改革は４構成団体で委員会を設置し年度内に方向性を出す。遊休用地の有効活用は関係課と協議中と答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "埼玉水道サービス公社の経営改善・効率化は継続推進中。水道事業中期経営計画に基づくアセットマネジメントの枠組みで遊休用地の管理・活用が検討されている。"
   },
@@ -11842,6 +12474,7 @@
     "answer_summary": "近年は舗装済み私道が増加し申請が減少。未整備の私道について引き続き周知を行うと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11860,6 +12493,7 @@
     "answer_summary": "財政健全性指標の適切な管理と市場公募債の活用について検討を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "市場公募債の活用が定着し、財源多様化が実現した。財政健全性指標（実質公債費比率等）の管理も適正に行われている。"
   },
@@ -11878,6 +12512,7 @@
     "answer_summary": "市税収入確保策を強化し大規模契約の透明性確保に取り組むと答弁。",
     "result_level": "改善・対応予定",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "市税収入確保対策はコンビニ納付・口座振替促進・督促強化で継続実施中。契約の透明性確保については電子入札の拡充・コスト表記実施要綱による事業費公開が定着している。令和6年度の事務事業見直し方針に基づき外部委託・見積徴収の適正化も推進中。"
   },
@@ -11897,6 +12532,7 @@
     "answer_summary": "ISO14001の形骸化防止と環境配慮調達の拡大に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "環境マネジメントシステム（ISO14001）の運用と環境配慮調達（グリーン購入）が継続実施されており、市の環境基本計画に基づく取組として定着している。"
   },
@@ -11915,6 +12551,7 @@
     "answer_summary": "消防ポンプ車の耐用年数15年設定の根拠（国の基準・整備費増加等）を説明。合理的な更新計画を継続すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11934,6 +12571,7 @@
     "answer_summary": "学校図書館への専任司書配置と公立図書館との連携を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "学校図書館司書の全校配置（小・中・特別支援学校）が実現し、公立図書館との連携による読書推進体制が整備された。"
   },
@@ -11952,6 +12590,7 @@
     "answer_summary": "指定管理者選定の公平性確保について、採点段階からの外部参加を検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11971,6 +12610,7 @@
     "answer_summary": "盆栽美術館の購入・管理体制の適正化に取り組むと答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -11990,6 +12630,7 @@
     "answer_summary": "くらし応援室はフロアアドバイザーの積極的な声かけと問題解決まで進行管理を追加し、内部情報共有ツールで区全体の総括機能を持つ。コストは149万円（サイン表示）のみと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12009,6 +12650,7 @@
     "answer_summary": "歴史資料は膨大な量があり3年計画は妥当。緊急雇用の給与支払い時期については委託先の支払いタイミングによると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12028,6 +12670,7 @@
     "answer_summary": "費用増加の原因を説明し、適切な事業管理で浦和駅周辺鉄道高架事業を推進すると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12046,6 +12689,7 @@
     "answer_summary": "分科会に加え一般市民の意見交換機会を設け、三位一体で大宮駅周辺戦略ビジョンを推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "大宮駅周辺地域戦略ビジョンが策定され、市・鉄道事業者・民間の三位一体の推進体制が整備された。地域住民を対象とした説明会・ワークショップも継続的に実施されている。"
   },
@@ -12065,6 +12709,7 @@
     "answer_summary": "基幹系システム保守体制の最適化とコスト管理を進めると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12083,6 +12728,7 @@
     "answer_summary": "（討論）附帯意見として二重投資回避を求めた。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12102,6 +12748,7 @@
     "answer_summary": "統計需要調査は実施していないが、ホームページ等での情報提供を充実させると答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12121,6 +12768,7 @@
     "answer_summary": "XP端末は新OS移行計画に基づき適切に更新する。福祉医療システムの適正化を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "Windows XPのサポート終了（2014年4月）に合わせて端末更新が実施され、福祉医療システムの安全な運用環境が確保された。"
   },
@@ -12140,6 +12788,7 @@
     "answer_summary": "誤発送の原因を究明し、個人情報管理と発送プロセスを改善して再発防止を徹底すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12159,7 +12808,8 @@
     "result_level": "適正確認",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=210&schedule_id=1&minute_id=163&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2008-12-05",
@@ -12177,6 +12827,7 @@
     "answer_summary": "特別徴収税システム改修は継続的な取組。食肉市場業務規程改正は適切な内容と説明。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12195,6 +12846,7 @@
     "answer_summary": "金融危機下での中小企業支援を強化し資金繰り支援・経営相談体制を充実すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12214,6 +12866,7 @@
     "answer_summary": "高校生向け施策の充実と見沼田圃の遊休農地活用・環境配慮型公用車の導入について検討すると答弁。",
     "result_level": "検討を引き出した",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12233,6 +12886,7 @@
     "answer_summary": "税システム改修費用の積算根拠と出産育児一時金システム改修の内容を説明。費用の適正性を確保すると答弁。",
     "result_level": "適正確認",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12252,6 +12906,7 @@
     "answer_summary": "情報システム契約へのSLA導入を推進し適切なサービス水準の確保に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報システム調達・運用契約にSLAを導入し、サービス品質の担保と契約管理の適正化が図られた。"
   },
@@ -12271,7 +12926,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=208&schedule_id=1&minute_id=118&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2008-07-04",
@@ -12289,6 +12945,7 @@
     "answer_summary": "初等・中等教育での産学協働ものづくり教育の推進について前向きに取り組むと答弁。",
     "result_level": "提案のみ",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12308,6 +12965,7 @@
     "answer_summary": "CIOのリーダーシップ強化と情報システム全体最適化を推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "CIO補佐官の配置・情報政策部門の体制強化が実施され、全庁的な情報システム最適化が推進された。"
   },
@@ -12327,6 +12985,7 @@
     "answer_summary": "個人情報漏えい防止策を強化し、ヌゥの積極的な活用でシティプロモーションを推進すると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "2022年の個人情報保護法改正への対応・条例整備を実施し個人情報漏えい防止対策が強化された。ヌゥは市公式SNS・各種イベント等での活用が定着し市民認知度も向上している。"
   },
@@ -12345,6 +13004,7 @@
     "answer_summary": "暮らしの道路整備の未処理案件削減と処理期間短縮に向けた体制強化に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "平成25年10月に土木職員21名、平成26年度に6名を増員し事業の進捗が向上。平成27年2月の予算委員会で「申請から完成までの期間が短縮された」と技術管理課長が答弁。平成29年6月定例会でも市長が「申請から着工までの時間を短縮する」と明言した。"
   },
@@ -12364,6 +13024,7 @@
     "answer_summary": "漏水調査・管路更新を計画的に進め非収益水削減と有収水量確保に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "漏水率は約2.5%まで低減し、これ以上の低減は技術的に困難な水準に達した。高度経済成長期整備の施設更新を機にエネルギー効率に配慮した施設整備に方針転換し、継続的に実施している。"
   },
@@ -12382,6 +13043,7 @@
     "answer_summary": "複数回採用試験・既卒者採用・育休代替定数外採用等を実施し看護師確保に積極的に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12401,6 +13063,7 @@
     "answer_summary": "アセットマネジメントの導入と地下水利用の促進について検討を進めると答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "水道施設再構築計画・中期経営計画にアセットマネジメントの手法が組み込まれ、計画的な施設更新・維持管理が実施されている。"
   },
@@ -12420,7 +13083,8 @@
     "result_level": "提案のみ",
     "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=118&schedule_id=3&minute_id=256&is_search=true",
     "follow_up": "",
-    "source_type": "議事録"
+    "source_type": "議事録",
+    "source_status": "official"
   },
   {
     "date": "2007-06-11",
@@ -12438,6 +13102,7 @@
     "answer_summary": "主権者教育と模擬選挙の実施に向けて検討を進めると答弁。",
     "result_level": "研究段階",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": ""
   },
@@ -12457,6 +13122,7 @@
     "answer_summary": "情報化アクション・プランの推進とIT活用による市民サービス向上・情報提供充実に取り組むと答弁。",
     "result_level": "実施済",
     "source_type": "議事録",
+    "source_status": "official",
     "source_url": "",
     "follow_up": "情報化推進計画を継続的に更新し、オンライン手続きの拡充・行政DXの推進が定着した。2025年度までに原則全手続きのオンライン化を目標として推進中。"
   }
