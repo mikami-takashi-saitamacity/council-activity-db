@@ -1,0 +1,3590 @@
+{
+  "version": "1.0",
+  "base_main_commit": "dc1a8a1d1f1566fc0d570a2818cc77a4cccccd4c",
+  "activity_archive_total": 666,
+  "existing_budget_records": 324,
+  "authoritative_master_items": 625,
+  "covered_master_items": 332,
+  "unmatched_master_items": 293,
+  "entries": [
+    {
+      "archive_index": 3,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "子どもの権利救済のための第三者機関設置について",
+      "proposal": "子どもの当事者性を尊重した第三者機関を設置し、相談・調査・勧告ができる権利救済の仕組みを整えること。",
+      "source_locators": [
+        "2026-01-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 4,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "小学校給食費無償化の実現について",
+      "proposal": "国の動向を注視しつつ、食材の量・質の低下を招かないよう差額補償など必要な予算措置を行うこと。",
+      "source_locators": [
+        "2026-04-14"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 5,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "難病者への公共施設減免措置の拡大について",
+      "proposal": "公共施設利用時の減免措置に難病者も含めること。また市職員採用において障害手帳を持たない難病者枠を設けること。",
+      "source_locators": [
+        "2026-07-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 6,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "高齢者等の移動支援事業の予算拡充について",
+      "proposal": "高齢者等の移動支援事業の予算額を大幅に引き上げ、コミュニティバス・グリーンスローモビリティ等の移動手段を充実させること。",
+      "source_locators": [
+        "2026-12-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 7,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "共通投票所の設置によるアクセシビリティ改善について",
+      "proposal": "共通投票所の設置など投票環境のアクセシビリティを改善し、子ども・若者が主権者として学ぶ機会を設けること。",
+      "source_locators": [
+        "2026-13-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 8,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "学校体育館へのエアコン設置方針の決定について",
+      "proposal": "エアコンを全市立学校の特別教室・給食室・武道場へ速やかに設置し、断熱・換気設備の導入も進めること。",
+      "source_locators": [
+        "2026-04-13"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 9,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "ケアマネージャーの処遇改善と研修費用補助について",
+      "proposal": "ケアマネージャーの処遇改善と法定研修の受講料に対する補助を行うこと。",
+      "source_locators": [
+        "2026-07-13"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 10,
+      "date": "2026-01-01",
+      "session_name": "2026年度予算提案",
+      "question_topic": "公民館全館へのWi-Fi設置について",
+      "proposal": "公民館全館へのWi-Fi設置はe公民館推進のためにも必須であり早急に進めること。",
+      "source_locators": [
+        "2026-09-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 56,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "ヘイトスピーチ・ヘイトクライム防止条例制定と人権施策の実効性向上",
+      "proposal": "各所管と連携した差別事案把握体制の構築と、ヘイトスピーチ・ヘイトクライム防止条例の制定を含む取組を着実に進めること。",
+      "source_locators": [
+        "2025-01-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 57,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "ネット誹謗中傷防止条例に基づくネットリテラシー教育・相談体制の充実",
+      "proposal": "ネットリテラシー教育・啓発と、2024年11月開設の相談窓口の充実に努めること。",
+      "source_locators": [
+        "2025-01-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 58,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "困難女性支援法に基づく相談員確保・処遇改善とアウトリーチ活動の推進",
+      "proposal": "法に基づく相談体制充実に合わせ相談員の処遇改善、庁内外関係機関との連携強化、同行支援・アフターケアを実施すること。",
+      "source_locators": [
+        "2025-01-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 59,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "ユニバーサルスポーツの機会創出と障害者スポーツ実施率の向上",
+      "proposal": "スポーツ関連団体と連携し障害者スポーツの理解促進と実施機会を創出すること。",
+      "source_locators": [
+        "2025-01-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 60,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "自治基本条例制定に向けた取り組みの再開",
+      "proposal": "自治基本条例制定に向けた取り組みを再開すること。",
+      "source_locators": [
+        "2025-02-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 61,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "子ども議会の創設・高校生ファシリテーター養成と子どもの意見反映の義務化",
+      "proposal": "子ども・若者を対象とする議会を創設し高校生ファシリテーターを養成・活用して子どもの提案を事業化すること。",
+      "source_locators": [
+        "2025-02-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 62,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "子どもの提案制度の小学生対象拡大とオンライン24時間受付への拡充",
+      "proposal": "子どもの提案制度を小学生からの対象年齢に拡大し、オンライン申請の24時間受付とすること。",
+      "source_locators": [
+        "2025-02-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 63,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "郵便局証明書等発行事務事業の廃止検討と費用対効果の検証",
+      "proposal": "郵便局証明書等発行事務事業（25,685千円）を廃止すること。",
+      "source_locators": [
+        "2025-03-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 64,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "長寿祝金の在り方見直しと健康寿命延伸策の拡充",
+      "proposal": "長寿祝金の支給対象年齢・支給額を見直し、健康寿命延伸策（シルバーポイント・アクティブチケット）を拡充すること。",
+      "source_locators": [
+        "2025-03-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 65,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "消えた年金回復のための社会保険労務士活用による生活保護費削減",
+      "proposal": "外部専門家（社会保険労務士）の調査業務委託で「消えた年金」の回復により生活保護費等の支出削減を図ること。",
+      "source_locators": [
+        "2025-03-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 66,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "スクールソーシャルワーカー・スクールカウンセラーの増員と多部局連携支援体制の構築",
+      "proposal": "SSW・SCを増員し、市長部局・地域との連携を深めた包括的支援体制を構築すること。",
+      "source_locators": [
+        "2025-04-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 67,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "フリースクール認証制度の開始と運営者への研修・補助の実施",
+      "proposal": "フリースクール認証制度を開始し、基準に合致する運営者に研修等を含む補助を行うこと。",
+      "source_locators": [
+        "2025-04-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 68,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "全市立学校への特別教室・給食室へのエアコン設置の早期実現",
+      "proposal": "特別教室・給食室へのエアコンを早期に全校設置すること。",
+      "source_locators": [
+        "2025-04-11"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 69,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "中学校体育館エアコンの年度初め設置前倒しと小学校体育館への先行整備",
+      "proposal": "2025年度設置予定の中学校体育館エアコンを暑くなる前の年度初めに完了させ、小学校体育館は前倒しして設置すること。",
+      "source_locators": [
+        "2025-11-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 70,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "主権者教育推進のための市議会見学の全校展開",
+      "proposal": "主権者教育推進のため市内の中学校が身近な市議会の見学等を検討すること。",
+      "source_locators": [
+        "2025-04-14"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 71,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "（仮称）さいたま市子ども基本条例の制定に向けた取り組みの推進",
+      "proposal": "さいたま市子ども基本条例の制定に向けた取り組みを進めること。",
+      "source_locators": [
+        "2025-05-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 72,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "プレイパーク設置とプレイワーカー養成研修の充実",
+      "proposal": "プレイパークの設置とプレイワーカーの育成支援に向けて関係団体と協働してガイドラインを作成し研修を行うこと。",
+      "source_locators": [
+        "2025-05-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 73,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "産後ケア事業のきょうだい児・多胎児・4か月以降受入拡大と施設整備補助の新設",
+      "proposal": "きょうだい児・多胎児・4か月以降の受入拡大、施設整備費補助の新設、双子加算の増額と委託料の引き上げを行うこと。",
+      "source_locators": [
+        "2025-06-01",
+        "2025-06-02"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "旧1件が、産後ケアの受入拡大と施設整備・加算等の2正本項目を統合しているため。"
+    },
+    {
+      "archive_index": 74,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "放課後子ども居場所モデル事業の検証と放課後児童クラブのあり方見直し",
+      "proposal": "モデル事業の結果を踏まえ放課後児童クラブのあり方を見直し、利用者が減少するクラブへの運営支援を行うこと。",
+      "source_locators": [
+        "2025-06-09",
+        "2025-06-10"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "旧1件が、放課後児童クラブのあり方見直しと居場所事業導入後の運営支援の2正本項目を統合しているため。"
+    },
+    {
+      "archive_index": 75,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "HPVセルフチェック検査の導入と男性HPVワクチン接種への助成",
+      "proposal": "HPVセルフチェック検査の導入と男性HPVワクチン接種助成について積極的に国に働きかけること。",
+      "source_locators": [
+        "2025-07-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 76,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "ケアマネジャー不足対応のための法定研修受講料への補助創設",
+      "proposal": "ケアマネジャーの法定研修受講料に対する補助を行い人材確保策を実施すること。",
+      "source_locators": [
+        "2025-07-09"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 77,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "医療情報のパーソナルヘルスレコード（PHR）整備と各機関連携の実証実験",
+      "proposal": "各機関が連携してPHRをトータル管理できるよう整備・実証実験を行うこと。",
+      "source_locators": [
+        "2025-07-10"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 78,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "障害者等のための超短時間雇用（週10時間未満）のモデル事業実施",
+      "proposal": "障害者等のための超短時間雇用を市内民間企業1か所でモデル事業を実施すること。",
+      "source_locators": [
+        "2025-08-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 79,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "会計年度任用職員の意識調査実施と専門性に見合う給与体系の整備",
+      "proposal": "会計年度任用職員の意識調査を実施し専門性に見合った給与体系にすること。",
+      "source_locators": [
+        "2025-08-05",
+        "2025-08-06"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "旧1件が、会計年度任用職員の給与体系と意識調査の2正本項目を統合しているため。"
+    },
+    {
+      "archive_index": 80,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "歴史資源（遷喬館・時の鐘・氷川神社等）を活用したインバウンド対策と面的整備",
+      "proposal": "遷喬館・時の鐘等を面的に整備し、氷川神社を核とした外国人観光客倍増策を早急に実施すること。",
+      "source_locators": [
+        "2025-08-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 81,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "田島産業集積拠点の整備に向けた新たな手法の検討",
+      "proposal": "新たな手法を検討し田島産業集積拠点の整備を進めること。",
+      "source_locators": [
+        "2025-08-12"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 82,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "公民館の社会教育主事・社会教育士資格保有者を50%以上とすること",
+      "proposal": "公民館職員の専門資格（社会教育主事任用資格・社会教育士）保有者割合を50%以上とすること。",
+      "source_locators": [
+        "2025-09-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 83,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "地区公民館全館へのWi-Fi設置の推進",
+      "proposal": "公民館全館へのWi-Fi設置に向けて中規模・大規模修繕時に地区公民館でも整備すること。",
+      "source_locators": [
+        "2025-09-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 84,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "さいたま市域での30by30達成に向けた公有地確保と民有地協定締結の推進",
+      "proposal": "公有地の積極的確保と民有地との協定締結も含めた多様な30by30推進の取り組みを進めること。",
+      "source_locators": [
+        "2025-10-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 85,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "オーガニックビレッジ宣言と国助成金確保による有機農業の推進",
+      "proposal": "オーガニックビレッジ宣言を行い国からの助成金を確保し本市独自の有機農業の取り組みができるようにすること。",
+      "source_locators": [
+        "2025-10-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 86,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "災害時の母子に特化した避難所の設置",
+      "proposal": "母子に特化した避難所を設置すること。",
+      "source_locators": [
+        "2025-11-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 87,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "中学生が参加する避難所運営訓練の積極的な拡充",
+      "proposal": "避難所運営訓練に中学生が参加する防災教育を積極的に拡充すること。",
+      "source_locators": [
+        "2025-11-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 88,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "聴覚障害者が避難する要配慮者優先避難所の市内4方向への指定と手話通訳者配置",
+      "proposal": "聴覚障害者が避難する拠点となる要配慮者優先避難所を市内東西南北に指定し手話通訳者を配置すること。",
+      "source_locators": [
+        "2025-11-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 89,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "地下鉄7号線のB/C向上策の具体化と岩槻駅周辺再開発計画の策定",
+      "proposal": "B/Cを積み上げるための具体的な計画策定・実行と、中間駅周辺への緑地保全・フォレストアドベンチャー設置、岩槻駅周辺地区再開発計画の策定。",
+      "source_locators": [
+        "2025-12-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 90,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "高齢者等の移動支援事業の10区拡充とカーシェアリング活用の推進",
+      "proposal": "高齢者等の移動支援事業をカーシェアリング活用も含めて10区すべてに拡充すること。",
+      "source_locators": [
+        "2025-12-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 91,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "さいたま市ジェンダー主流化宣言と全施策へのジェンダー視点の組み込み",
+      "proposal": "さいたま市ジェンダー主流化宣言を行い、市のあらゆる施策にジェンダーの視点から事業を点検し格差是正に向けた施策を実施すること。",
+      "source_locators": [
+        "2025-13-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 92,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "パートナーシップ・ファミリーシップ制度の行政サービス拡充と他自治体事実婚準拠サービスの積極導入",
+      "proposal": "他自治体で事実婚に準じる扱いとなっているサービスについて積極的に導入を図ること。",
+      "source_locators": [
+        "2025-13-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 93,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "手話言語条例の制定と手話通訳者派遣の充実",
+      "proposal": "手話言語条例の制定を含む検討と手話通訳者派遣の充実を図ること。",
+      "source_locators": [
+        "2025-13-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 94,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "氷川参道沿いへの美術館等文化芸術創造拠点の早期整備",
+      "proposal": "氷川参道沿いに文化・芸術の振興と発展、地域社会に開かれた美術館を早期に整備すること。",
+      "source_locators": [
+        "2025-14-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 95,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "地下鉄7号線中間駅周辺まちづくりと与野中央公園へのPFI導入における市民意見反映",
+      "proposal": "各まちづくり計画・施設整備において地元住民・関係者の意見を充分に踏まえること。",
+      "source_locators": [
+        "2025-15-02",
+        "2025-15-03",
+        "2025-15-04"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "旧1件が、西浦和駅周辺・スポーツシューレ・与野中央公園の市民意見反映に関する3正本項目を統合しているため。"
+    },
+    {
+      "archive_index": 96,
+      "date": "2025-01-01",
+      "session_name": "2025年度予算提案",
+      "question_topic": "探究学習の成果を区内で発表し議員等と懇談する仕組みの創設",
+      "proposal": "探究学習の成果を校内発表し区内で代表者が発表、議員等と懇談する仕組みを検討すること。",
+      "source_locators": [
+        "2025-15-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 118,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "人権尊重条例の制定と差別事案の実態把握",
+      "proposal": "さいたま市独自の差別事案実態把握と、相模原市等の条例を参照した人権尊重条例を制定すること。",
+      "source_locators": [
+        "2024-01-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 119,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "困難女性支援法施行に伴う相談員体制の質的・量的強化",
+      "proposal": "市民周知を徹底し、関係部局と十分に連携した相談員体制の質的・量的強化を図ること。",
+      "source_locators": [
+        "2024-01-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 120,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "子ども・若者を対象とする議会の創設",
+      "proposal": "子どもや若者を対象とする議会を創設すること。",
+      "source_locators": [
+        "2024-01-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 121,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "外郭団体・指定管理団体保有文書も対象とする公文書管理条例の制定",
+      "proposal": "外郭団体・指定管理者の保有文書も対象とする公文書管理条例を制定すること。",
+      "source_locators": [
+        "2024-02-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 122,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "歴史資料のデジタル化保管への移行検討",
+      "proposal": "原本性が確保できる資料を除き既存資料をデジタル化し、紙・マイクロフィルム保管を原則中止すること。",
+      "source_locators": [
+        "2024-02-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 123,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "郵便局証明書等発行事務事業の廃止",
+      "proposal": "郵便局証明書等発行事務事業（26,023千円）を廃止すること。",
+      "source_locators": [
+        "2024-03-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 124,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "長寿祝金（敬老祝金）の支給在り方見直しと健康寿命延伸策の推進",
+      "proposal": "長寿祝金の在り方を見直し健康寿命延伸策の検討を行うこと。",
+      "source_locators": [
+        "2024-03-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 125,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "公共施設へのキッチンカー出店の推進による賑わい創出",
+      "proposal": "公共施設等でキッチンカーの出店を推進すること。",
+      "source_locators": [
+        "2024-03-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 126,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "スクールソーシャルワーカー・スクールカウンセラーの増員",
+      "proposal": "SSW・SCを増員し一人当たりの対応時間を増やすこと。",
+      "source_locators": [
+        "2024-04-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 127,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "フリースクール連絡協議会の議事録公開と出席扱いガイドラインの周知",
+      "proposal": "フリースクール協議会の議事録を公開し、出席扱いガイドラインを全校に周知すること。",
+      "source_locators": [
+        "2024-04-08",
+        "2024-04-09"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "旧1件が、フリースクール協議会議事録公開と出席扱いガイドラインの2正本項目を統合しているため。"
+    },
+    {
+      "archive_index": 128,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "小学校体育館・特別教室等へのエアコン設置と整備方針の2025年度決定",
+      "proposal": "小学校体育館・学校図書館・特別教室へのエアコンを設置すること。",
+      "source_locators": [
+        "2024-04-11"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 129,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "県立高校跡地への不登校特例校・夜間中学の設置検討",
+      "proposal": "再編する県立高校跡地に不登校特例校や夜間中学の設置等を含め県と協議すること。",
+      "source_locators": [
+        "2024-04-13"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 130,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "助産師等を活用した思春期保健事業（包括的性教育）の全校実施",
+      "proposal": "助産師等外部人材を活用した思春期保健事業を全中学校で実施し、多様な場でも包括的性教育を実施すること。",
+      "source_locators": [
+        "2024-04-15"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 131,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "子どもの権利条例の制定に向けた当事者意見聴取と有識者議論の実施",
+      "proposal": "子どもの権利条例制定に向け当事者の意見聴取や有識者の議論を行うこと。",
+      "source_locators": [
+        "2024-05-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 132,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "児童相談所への意見表明支援員の配置と第三者委員会の設置",
+      "proposal": "明石市の事例を参考に第三者委員会を設置し意見表明支援員を配置すること。",
+      "source_locators": [
+        "2024-05-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 133,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "ケアラー支援条例の周知徹底とヤングケアラーの自己認識支援",
+      "proposal": "ケアラー支援条例を周知徹底し本人がケアラー・ヤングケアラーだと認識できるようにすること。",
+      "source_locators": [
+        "2024-05-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 134,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "産後ケア実施助産所への施設整備費補助の創設と産後ケアの充実",
+      "proposal": "産前・産後ケアセンターの設置と産後ケア実施助産所への施設整備費補助をすること。",
+      "source_locators": [
+        "2024-06-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 135,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "保育施設のオムツサブスクリプション（使い放題）の導入推進",
+      "proposal": "保育施設でオムツのサブスクリプションの導入を進めること。",
+      "source_locators": [
+        "2024-06-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 136,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "放課後児童クラブの合同就職説明会の開催による支援員確保",
+      "proposal": "放課後児童クラブの支援員募集について就職説明会等を実施すること。",
+      "source_locators": [
+        "2024-06-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 137,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "失語症者向け意思疎通支援者養成講習会の拡充と派遣事業の創設",
+      "proposal": "失語症者への意思疎通支援に関するニーズ把握と養成講習会の拡充、意思疎通支援者派遣事業を創設すること。",
+      "source_locators": [
+        "2024-07-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 138,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "指定難病・小児慢性医療受給者証継続申請のマイナンバー連携電子申請化",
+      "proposal": "医療受給者証継続申請手続きをマイナンバーカードと連携し電子申請等の手続きを簡素化すること。",
+      "source_locators": [
+        "2024-07-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 139,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "HPVセルフチェック検査の導入と男性HPVワクチン接種の助成",
+      "proposal": "HPVセルフチェック検査の導入と男性HPVワクチン接種の助成をすること。",
+      "source_locators": [
+        "2024-07-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 140,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "障害者等のための超短時間雇用（週10時間未満）モデル事業の導入",
+      "proposal": "障害者等のための超短時間雇用モデルをさいたま市で導入すること。",
+      "source_locators": [
+        "2024-08-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 141,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "歴史資源の観光・経済視点での積極活用",
+      "proposal": "歴史資源を観光・経済の視点で活用すること。",
+      "source_locators": [
+        "2024-08-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 142,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "公民館への社会教育主事等専門職の配置と事業費の増額",
+      "proposal": "公民館に専門職（社会教育主事等）を配置し事業費を増額すること。",
+      "source_locators": [
+        "2024-09-01",
+        "2024-09-02"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "旧1件が、公民館の専門職配置と事業費増額の2正本項目を統合しているため。"
+    },
+    {
+      "archive_index": 143,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "地区公民館全館へのWi-Fi設置の推進",
+      "proposal": "公民館全館へのWi-Fi設置に向け中規模修繕・大規模改修の際に地区公民館で整備すること。",
+      "source_locators": [
+        "2024-09-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 144,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "公民館エレベーター設置の早期完了",
+      "proposal": "エレベーター設置が可能な地区公民館の改修を早期に完了させること。",
+      "source_locators": [
+        "2024-09-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 145,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "気候市民会議（市民気候会議）のモデル事業の開始",
+      "proposal": "市民気候会議のモデル事業を市内で開始すること。",
+      "source_locators": [
+        "2024-10-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 146,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "市内河川のマイクロプラスチック調査の実施",
+      "proposal": "マイクロプラスチックの排出原因の調査をすること。",
+      "source_locators": [
+        "2024-10-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 147,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "さいたま市域での30by30達成に向けた緑地の公有地化と指定推進",
+      "proposal": "30by30達成のため緑地を公有地化や法律・条例指定し担保性のある自然地を本市面積の30%以上確保すること。",
+      "source_locators": [
+        "2024-10-09"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 148,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "救急自動車への自動心臓マッサージ器の配備",
+      "proposal": "救急隊に自動心臓圧迫装置を早期に配備すること。",
+      "source_locators": [
+        "2024-11-10"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 149,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "避難所マニュアルへの聴覚障害者向け情報保障手段の明記と防災訓練の実施",
+      "proposal": "避難所マニュアルに聴覚障害者への情報提供手段を明記し特化した防災訓練を実施すること。",
+      "source_locators": [
+        "2024-11-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 150,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "地下鉄7号線の年度内事業実施要請と中間駅周辺まちづくりの推進",
+      "proposal": "地下鉄7号線の事業実施要請を年度内に確実に行い、中間駅周辺のフォレストアドベンチャー設置等で乗降客数を確保すること。",
+      "source_locators": [
+        "2024-12-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 151,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "高齢者等の移動支援事業の10区全域への拡充",
+      "proposal": "高齢者等の移動支援事業を10区に拡充するための予算を増額すること。",
+      "source_locators": [
+        "2024-12-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 152,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "各種台帳のWeb閲覧化と行政手続きのデジタル化推進",
+      "proposal": "各種台帳のWeb閲覧化と申請・書類提出手続きの簡素化・デジタル化を推進すること。",
+      "source_locators": [
+        "2024-12-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 153,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "パートナー・ファミリーシップ制度の当事者に配慮した制度改善（子の意思確認見直し等）",
+      "proposal": "パートナー・ファミリーシップ制度を当事者がより活用しやすい制度とするため対象者拡大や子の意思確認の見直しを行うこと。",
+      "source_locators": [
+        "2024-13-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 154,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "手話言語条例の制定と各種施策の推進",
+      "proposal": "「手話は言語」との認識に立ち必要な条例整備とあわせて各種施策の推進を図ること。",
+      "source_locators": [
+        "2024-13-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 155,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "大宮盆栽美術館の盆栽庭園池まわり改修と盆栽村100周年整備",
+      "proposal": "盆栽村100周年に向け盆栽庭園の池まわりの修繕等を行い魅力ある空間に整備すること。",
+      "source_locators": [
+        "2024-14-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 156,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "氷川参道沿いへの美術館の整備",
+      "proposal": "関係団体が提出した要望書に基づき氷川参道沿いに美術館を整備すること。",
+      "source_locators": [
+        "2024-14-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 157,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "障害者スポーツ教室の充実とアウトリーチ型レクリエーション教室の継続",
+      "proposal": "障害者スポーツ実施率向上のためスポーツ教室の充実とアウトリーチを実施し、ユニバーサルスポーツを取り入れること。",
+      "source_locators": [
+        "2024-14-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 158,
+      "date": "2024-01-01",
+      "session_name": "2024年度予算提案",
+      "question_topic": "民間団体ボランティア募集の円滑なマッチング仕組みづくり",
+      "proposal": "民間団体がボランティア募集する際に円滑にマッチングする仕組みをつくること。",
+      "source_locators": [
+        "2024-15-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 164,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "（仮称）公文書管理条例の策定と指定管理者・外郭団体への適用",
+      "proposal": "（仮称）公文書管理条例を策定し、指定管理者・外郭団体等も対象とすること。",
+      "source_locators": [
+        "2023-01-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 165,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "公文書館機能の導入と歴史資料のデジタル化保管への転換",
+      "proposal": "公文書館機能を導入し、紙・マイクロフィルム保管を原則中止して既存資料をデジタル化すること。",
+      "source_locators": [
+        "2023-01-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 166,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "ワンストップの市民まるごとオンライン相談窓口の設置",
+      "proposal": "自治体DXを推進し、ワンストップの市民まるごとオンライン相談窓口を設置すること。",
+      "source_locators": [
+        "2023-02-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 167,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "人権政策部の新設と人権政策課・ジェンダー平等推進課の設置",
+      "proposal": "人権政策部を新設し、人権政策課（多文化共生含む）とジェンダー平等推進課（LGBTQ含む）を設置すること。",
+      "source_locators": [
+        "2023-02-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 168,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "都市計画法違反・農地法違反への抜本的対処と指導体制の強化",
+      "proposal": "都市計画法違反・農地法違反に対処する措置を抜本的にとること。人員体制・組織独立化・市民周知の充実・違反対応ルールの明確化と法的措置の明確化を行うこと。",
+      "source_locators": [
+        "2023-02-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 169,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "PTAからの学校への寄附について任意加入団体であることの徹底周知",
+      "proposal": "PTAが任意加入団体であることの周知徹底と、現金寄附と区別できない学校協力金・振興費の受け入れ禁止を明確にし、学校運営費の大幅な増額を図ること。",
+      "source_locators": [
+        "2023-02-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 170,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "チャレンジスクールの地域学習支援員によるオンライン実施の試験的実施",
+      "proposal": "チャレンジスクールにおいて、地域の学習支援員によるオンライン実施を試験的に行うこと。",
+      "source_locators": [
+        "2023-03-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 171,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "オンライン授業受講者の出席扱いの実現と環境整備",
+      "proposal": "オンライン授業受講者を出席扱いとし、実現のための関係機関への働きかけ等の環境整備を行うこと。",
+      "source_locators": [
+        "2023-03-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 172,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "バリアフリー法改正を受けた学校トイレ・スロープ・エレベーターの設置推進",
+      "proposal": "バリアフリー法改正を受けて学校トイレ・スロープ・エレベーターの設置を推進すること。",
+      "source_locators": [
+        "2023-03-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 173,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "市立学校の給食における箸・スプーン等の用意",
+      "proposal": "市立学校の給食において箸・スプーン等を用意すること。",
+      "source_locators": [
+        "2023-03-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 174,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "学校施設の雨漏り箇所に年度内の改修を行うための予算確保",
+      "proposal": "学校施設の雨漏り箇所には年度内の改修を行うための予算を確保すること。",
+      "source_locators": [
+        "2023-03-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 175,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "児童センターの中高生の活用拡大とヤングケアラー支援の視点での指定管理更新",
+      "proposal": "児童センターを活用した中高生支援の充実と、ヤングケアラー支援の視点も入れた次回の指定管理更新時の事業内容・予算対応を行うこと。",
+      "source_locators": [
+        "2023-04-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 176,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "放課後に学校以外の場で生き抜く力を育む「子ども第三の居場所」の複数設置",
+      "proposal": "放課後に学校以外の場で将来の自立に向けて生き抜く力を育む「子ども第三の居場所」を複数設置すること。",
+      "source_locators": [
+        "2023-05-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 177,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "非行少年の立ち直り支援のための資格取得に必要な学費の支援制度創設",
+      "proposal": "非行少年の立ち直り支援として、資格取得に必要な学費の支援制度を創設すること。",
+      "source_locators": [
+        "2023-05-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 178,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "長期欠席児童生徒・フリースクール等への支援制度創設と不登校特例校の設置検討",
+      "proposal": "長期欠席児童生徒・フリースクール等の学校施設への支援制度を創設し、不登校特例校設置を検討すること。",
+      "source_locators": [
+        "2023-05-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 179,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "一時保護所の新設を含めた児童相談所の受け入れ定員拡充",
+      "proposal": "一時保護所の新設を含め受け入れ可能な定員数を増やすこと。",
+      "source_locators": [
+        "2023-05-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 180,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "うるま市の子ども貧困対策を参考にした個別支援計画共有スキームの構築",
+      "proposal": "うるま市の子ども貧困対策を参考に、個別支援計画を関係機関が共有しケースワークを行うスキームを作り、支援にあたること。",
+      "source_locators": [
+        "2023-05-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 181,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "市立知的障害特別支援学校の設置",
+      "proposal": "市立特別支援学校（知的障害）を設置すること。",
+      "source_locators": [
+        "2023-04-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 182,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "小学5年生・中学1年生への脊柱側弯検査の実施",
+      "proposal": "小学5年生、中学1年生への側弯検査を実施すること。",
+      "source_locators": [
+        "2023-04-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 183,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "認可保育所の運営費補助において離職率の評価を行い人件費限定補助額を拡充",
+      "proposal": "認可保育所の運営費補助において離職率の評価を行い、人件費に限定した補助額を拡充すること。",
+      "source_locators": [
+        "2023-06-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 184,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "医療的ケア児等の加算が必要なお子さんの受け入れ人数・施設の拡大",
+      "proposal": "医療的ケア児等の加算が必要なお子さんの受け入れ人数や受け入れ施設を増やすこと。",
+      "source_locators": [
+        "2023-06-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 185,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "重度障害者の在宅介助支援事業に通勤・職場等における支援を対象に含む制度拡充",
+      "proposal": "重度障害者の在宅介助支援事業に通勤や職場等における支援を対象に含むなどの制度拡充に取り組むこと。",
+      "source_locators": [
+        "2023-10-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 186,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "庁舎内および庁舎につながる道路・通路の点字ブロック整備の拡充",
+      "proposal": "庁舎内および庁舎につながる道路・通路の点字ブロック整備の拡充を早期に行うこと。",
+      "source_locators": [
+        "2023-10-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 187,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "公共施設のみんなのトイレへの大型ベッドの採用",
+      "proposal": "公共施設のみんなのトイレには大型ベッドを採用すること。",
+      "source_locators": [
+        "2023-10-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 188,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "コロナ感染再拡大への地域医療体制・保健所機能の強化",
+      "proposal": "コロナ感染再拡大への地域医療体制・保健所機能を強化すること。",
+      "source_locators": [
+        "2023-11-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 189,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "がん治療と就労・社会参加を両立するための支援と乳がん補装具購入補助",
+      "proposal": "がん治療と就労・社会参加を両立するための支援と、補装具購入に伴う経済的負担を軽減するための補助を行うこと。",
+      "source_locators": [
+        "2023-11-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 190,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "手話言語条例を包含したコミュニケーション条例の早期制定",
+      "proposal": "手話言語条例を包含したコミュニケーション条例を早期に制定すること。",
+      "source_locators": [
+        "2023-10-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 191,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "人種・民族差別禁止と被害相談・救済措置を含む差別禁止条例の制定",
+      "proposal": "差別の実態調査を行い、人種・民族差別禁止と被害相談・救済措置を盛り込んだ条例を制定すること。",
+      "source_locators": [
+        "2023-16-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 192,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "パートナーシップ宣誓制度の届出制度への見直しとファミリーシップ制度の導入",
+      "proposal": "パートナーシップ宣誓制度の届出制度への見直しとファミリーシップ制度を導入すること。",
+      "source_locators": [
+        "2023-16-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 193,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "DV被害者への安全確保と自立生活支援・民間シェルターへの支援充実",
+      "proposal": "DV被害者への安全確保と自立生活に向けた支援の充実について、民間シェルター・ステップハウスへの支援を充実しひとり親家庭等への支援施策との連携強化を図ること。",
+      "source_locators": [
+        "2023-17-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 194,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "性暴力被害者等支援条例の制定と性暴力加害者の学校・児童関連施設採用禁止の仕組みづくり",
+      "proposal": "性暴力被害者等支援条例を制定し、性暴力・セクシャルハラスメントを行った者を学校に加えて児童関連施設等で採用しない仕組みをつくること。",
+      "source_locators": [
+        "2023-17-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 195,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "ごみ減量化のための家庭ごみ有機物ごみの分別とたい肥化の実施",
+      "proposal": "ごみ減量化のため、家庭ごみにおける有機物ごみの分別とたい肥化を行うこと。",
+      "source_locators": [
+        "2023-18-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 196,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "市民環境会議・市民気候会議の設置",
+      "proposal": "市民環境会議や市民気候会議を設置すること。",
+      "source_locators": [
+        "2023-18-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 197,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "一般家庭・駐車場向けの雨水浸透桝・トレンチ補助制度の創設",
+      "proposal": "一般家庭や駐車場向けの雨水浸透桝・トレンチ補助制度を創設すること。",
+      "source_locators": [
+        "2023-18-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 198,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "「サッカーのまちさいたま」にふさわしい誰もが気軽にサッカーの練習ができる場の設置",
+      "proposal": "「サッカーのまちさいたま」にふさわしい、誰もが気軽に個人としてサッカーの練習ができる場を設けること。",
+      "source_locators": [
+        "2023-15-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 199,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "児童生徒1人1台タブレットの代替機確保による学習機会の保障",
+      "proposal": "修理等で手元から離れる期間をなくすため、代替機を十分に確保すること。",
+      "source_locators": [
+        "2023-04-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 200,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "特別支援学級の教育・療育内容のさらなる充実",
+      "proposal": "特別支援学級の教育・療育内容をさらに充実させること。",
+      "source_locators": [
+        "2023-04-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 201,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "学校余裕教室・公有地・公有施設を活用した放課後児童クラブの整備拡充",
+      "proposal": "公有地、公有施設及び学校の余裕教室をさらに活用すること。",
+      "source_locators": [
+        "2023-07-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 202,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "放課後児童クラブ運営事務の保護者負担軽減のための補助拡充",
+      "proposal": "クラブ運営事務に関する保護者負担の軽減のために補助をすること。",
+      "source_locators": [
+        "2023-07-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 203,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "放課後児童クラブへのWi-Fi環境整備",
+      "proposal": "放課後児童クラブのWi-Fi環境を整備すること。",
+      "source_locators": [
+        "2023-07-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 204,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "放課後児童クラブの職員増員とコロナ対応・処遇改善による人材確保",
+      "proposal": "放課後児童クラブを担当する職員の人員増員を図ること。",
+      "source_locators": [
+        "2023-07-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 205,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "46人以上の規模の学童保育の委託料減額の矛盾解消",
+      "proposal": "46人以上の規模の学童保育の委託料が減額される矛盾を解消すること。",
+      "source_locators": [
+        "2023-07-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 206,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "放課後児童クラブ大規模施設分割整備のための施設整備補助金の増額",
+      "proposal": "大規模施設を分割整備するための予算を130万から増額すること。",
+      "source_locators": [
+        "2023-07-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 207,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "（仮称）子どもの権利条例の制定",
+      "proposal": "子どもの基本法の制定を受けて（仮称）子どもの権利条例を制定すること。",
+      "source_locators": [
+        "2023-08-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 208,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "通学路への防犯カメラの増設",
+      "proposal": "通学路への防犯カメラを増設すること。",
+      "source_locators": [
+        "2023-08-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 209,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "予算を伴う「子ども未来議会」の開催",
+      "proposal": "予算を伴う「子ども未来議会」を開催すること。",
+      "source_locators": [
+        "2023-08-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 210,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "公民館の事業費増額・全職員への端末増設・全館Wi-Fi設置・オンライン講座環境整備",
+      "proposal": "公民館の事業費増額、セキュリティを考慮した全職員への端末増設と全館Wi-Fi設置、オンライン講座のためのスタンドアローン環境整備を行うこと。",
+      "source_locators": [
+        "2023-09-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 211,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "公民館エレベーター設置の整備年次計画策定と早期完了",
+      "proposal": "エレベーター設置可能な公民館について整備年次計画を立て速やかに完了させること。",
+      "source_locators": [
+        "2023-09-02",
+        "2023-19-04"
+      ],
+      "mapping_type": "one_to_many",
+      "note": "正本上で同一提案文が大項目9と19に重複掲載されており、旧1件が両方に対応するため。"
+    },
+    {
+      "archive_index": 212,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "東清掃事務所跡地への公民館新設",
+      "proposal": "住民要望を踏まえて東清掃事務所跡地への公民館を新設すること。",
+      "source_locators": [
+        "2023-09-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 213,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "コミュニティセンター全室Wi-Fi設置と音響・プロジェクターの更新",
+      "proposal": "市内コミュニティセンター全室Wi-Fi使用可能にし音響やプロジェクターの交換を行うこと。",
+      "source_locators": [
+        "2023-09-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 214,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "手話通訳者の養成拡充と専門職としての位置づけの明確化",
+      "proposal": "手話通訳者の養成を拡充し、専門職としての位置づけを明確にし聴覚障害者の社会生活を保障すること。",
+      "source_locators": [
+        "2023-10-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 215,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "精神障害者福祉手帳2級所持者への通院・入院費用助成の実現",
+      "proposal": "精神障害者福祉手帳2級所持者に対して1級と同様に通院及び入院費用の早期の助成を実現すること。",
+      "source_locators": [
+        "2023-12-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 216,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "精神障害者アウトリーチ支援拠点の2区から全区への拡大",
+      "proposal": "精神障害者へのアウトリーチの拠点を2区から全区へすること。",
+      "source_locators": [
+        "2023-12-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 217,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "さいたま市立病院への総合心療科初診外来および精神科の創設",
+      "proposal": "さいたま市立病院に総合心療科の初診外来および精神科を創設すること。",
+      "source_locators": [
+        "2023-12-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 218,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "成年後見制度の市民後見人養成の拡充と関係機関との連携強化",
+      "proposal": "成年後見制度の利用促進に向け市民後見人の養成の拡充および市民後見団体や関係機関との連携強化を図ること。",
+      "source_locators": [
+        "2023-12-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 219,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "ひとり親家庭の貧困実態把握のための悉皆調査と貧困対策アクションプランの策定",
+      "proposal": "ひとり親家庭の問題を解決するため児童扶養手当受給世帯の悉皆調査を行い子どもの貧困対策アクションプランを策定すること。",
+      "source_locators": [
+        "2023-13-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 220,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "生理の貧困対策の恒常的な実施",
+      "proposal": "女性の生活困窮者支援として生理の貧困対策を恒常的に行うこと。",
+      "source_locators": [
+        "2023-13-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 221,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "困難女性支援法に基づく相談員の増員・処遇改善と実効性ある支援策の実施",
+      "proposal": "困難な問題を抱える女性への支援法に基づき、相談員の増員、処遇の改善など実効性ある支援策を着実に実施すること。",
+      "source_locators": [
+        "2023-13-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 222,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "帰宅を望まない若年女性向けシェルター創設と生活・就職支援相談窓口の新設",
+      "proposal": "児童虐待や家庭不和などで帰宅をのぞまない若年女性に特化したシェルター創設と生活・就職支援などの相談窓口の新設をすること。",
+      "source_locators": [
+        "2023-13-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 223,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "養育費相談支援センターの設置",
+      "proposal": "養育費相談支援センターを設置すること。",
+      "source_locators": [
+        "2023-13-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 224,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "明石市の更生支援条例を参考にした再犯防止条例の制定と総合的支援の推進",
+      "proposal": "明石市更生支援等及び再犯防止等に関する条例を参考に条例制定の検討及び個々の特性に応じた総合的支援に取り組むこと。",
+      "source_locators": [
+        "2023-13-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 225,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "産婦新生児訪問・産後ケア事業等の委託契約増額と産後ケア施設整備への助成",
+      "proposal": "産婦新生児訪問事業・産後ケア訪問事業・思春期保健事業等の委託契約の増額及び産後ケア施設整備（助産院）等への助成をすること。",
+      "source_locators": [
+        "2023-14-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 226,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "産後ケア事業の利用者自己負担軽減と子育て応援券の配布",
+      "proposal": "産後ケア事業における利用者の自己負担軽減及び子育て応援券を配布すること。",
+      "source_locators": [
+        "2023-14-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 227,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "産前・産後ケアセンター（さいたま版ネウボラ）の設置",
+      "proposal": "次世代育成・子育て支援の拠点・災害時の母子救護所を兼ね備えた家族入院のできるさいたま版ネウボラ（産前・産後ケアセンター）を設置すること。",
+      "source_locators": [
+        "2023-14-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 228,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "低出生体重・発達障害の子どもへのリトルベビーハンドブックの導入",
+      "proposal": "低出生体重や発達障害で産まれた子とその家族のための母子手帳と併用できるリトルベビーハンドブックを導入すること。",
+      "source_locators": [
+        "2023-14-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 229,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "多胎児の現状調査と家事・育児支援の実施",
+      "proposal": "多胎児の現状調査と家事・育児支援を実施すること。",
+      "source_locators": [
+        "2023-14-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 230,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "思いがけない妊娠など困難を抱える女性のためのユースクリニックの創設",
+      "proposal": "思いがけない妊娠など女性が困難を抱えたときの相談できる窓口として市独自にユースクリニックを創設すること。",
+      "source_locators": [
+        "2023-14-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 231,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "文化芸術都市創造条例に基づく大宮駅周辺への美術館の整備",
+      "proposal": "文化芸術都市創造条例に基づき東日本の玄関口としてふさわしい大宮駅周辺に美術館を整備すること。",
+      "source_locators": [
+        "2023-15-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 232,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "屋内スポーツ施設（スケートパーク等）の整備とアーバンスポーツの推進",
+      "proposal": "屋内スポーツ施設（スケートパーク等）の整備及びアーバンスポーツを推進すること。",
+      "source_locators": [
+        "2023-15-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 233,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "障害者スポーツ実施率の目標値達成のための施策の着実な実施",
+      "proposal": "障害者のスポーツ実施率の目標値を達成するための施策を着実に実施すること。",
+      "source_locators": [
+        "2023-15-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 234,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "新たなジェンダー平等推進課の設置による推進体制の強化",
+      "proposal": "困難を抱える女性の支援体制の整備、男女共同参画の着実な推進、LGBTQパートナーシップ制度の着実な実施に向けて新たなジェンダー平等推進課を設置すること。",
+      "source_locators": [
+        "2023-16-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 235,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "自転車活用まちづくりの拠点施設「サイクルパーク」の整備",
+      "proposal": "自転車を活用したまちづくりを推進するための拠点施設「サイクルパーク」を整備すること。",
+      "source_locators": [
+        "2023-20-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 236,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "西浦和駅周辺まちづくり方針に基づく事業の着実な推進",
+      "proposal": "西浦和駅周辺のまちづくり方針に基づいて事業を着実に推進すること。",
+      "source_locators": [
+        "2023-20-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 237,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "高齢者・障害者・妊産婦等へのバス無料券配布などの移動支援",
+      "proposal": "高齢者・障害者・妊産婦等へのバス無料券配布などの支援を行うこと。",
+      "source_locators": [
+        "2023-20-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 238,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "無人化駅への常設スロープ設置等によるバリアフリー対応",
+      "proposal": "市内鉄道駅の無人化によって移動の自由が制限されることのないよう常設のスロープ設置等を行うこと。",
+      "source_locators": [
+        "2023-20-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 239,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "東西交通大宮ルートの早期実現と核都市広域幹線道路・自動運転技術実証実験の推進",
+      "proposal": "東西交通大宮ルートを早期に実現すること。国土交通省が検討する核都市広域幹線道路の実現に向け国・県と連携すること。自動運転技術の実証実験を積極的に実施すること。",
+      "source_locators": [
+        "2023-20-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 240,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "荒川河川敷の公園群の回遊性向上と秋ヶ瀬公園への野外音楽堂・キャンプ場の整備",
+      "proposal": "荒川河川敷の公園群の回遊性を向上させ、秋ヶ瀬公園内に野外音楽堂やキャンプ場を整備すること。",
+      "source_locators": [
+        "2023-21-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 241,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "河川に沿ったサイクリングロードの整備とネットワーク化",
+      "proposal": "河川に沿ったサイクリングロードの整備とネットワーク化を進めること。",
+      "source_locators": [
+        "2023-21-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 242,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "地下鉄7号線中間駅まちづくりでの樹林地を活用した公園等の整備",
+      "proposal": "地下鉄7号線延伸に向けた中間駅まちづくりにおいて木の伐採を最小限に抑えつつ樹林地を活用した公園等の施設整備を行うこと。",
+      "source_locators": [
+        "2023-21-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 243,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "土地収用制度の積極的活用のためのさいたま市独自のルールの明確化",
+      "proposal": "土地収用制度の積極的な活用のため収用手続きへの移行に関してさいたま市としてのルールを明確にしまちづくりの加速化を図ること。",
+      "source_locators": [
+        "2023-21-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 244,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "西浦和駅周辺まちづくりと連携した田島産業集積拠点の整備促進",
+      "proposal": "西浦和駅周辺のまちづくりと連携した田島産業集積拠点の整備を促進すること。",
+      "source_locators": [
+        "2023-22-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 245,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "衛生研究所跡地へのさいたまスポーツシューレ拠点施設整備に向けた県との協議推進",
+      "proposal": "衛生研究所跡地の利活用について、さいたまスポーツシューレの拠点施設整備を視野に入れて埼玉県との協議を積極的に進めること。",
+      "source_locators": [
+        "2023-22-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 246,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "超短時間雇用モデル（障害者のための週10時間未満雇用）のさいたま市での導入",
+      "proposal": "新しい働き方をデザインする障害者のための超短時間雇用モデルをさいたま市で導入すること。",
+      "source_locators": [
+        "2023-22-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 247,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "大宮駅東口の公共施設再編跡地利用とGCS構想の早期実現",
+      "proposal": "大宮駅東口の公共施設再編による跡地利用やGCS構想を早期に実現させること。",
+      "source_locators": [
+        "2023-22-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 248,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "市内中小企業の男女共同参画に関する事業所調査の実施",
+      "proposal": "市内中小企業の男女共同参画に関する事業所調査を行うこと。",
+      "source_locators": [
+        "2023-22-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 249,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "労働者協同組合の相談・支援窓口の設置",
+      "proposal": "労働者協同組合の相談・支援窓口をつくること。",
+      "source_locators": [
+        "2023-22-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 250,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "農地の不法転用・土砂搬入に対する許可取り消し・土砂搬入禁止区域の設定",
+      "proposal": "許可の取り消し・原状回復命令等の権限を行使し積極的に農地の適正化につとめ、搬入の続く土砂に関しては早急に土砂搬入禁止区域を設定すること。",
+      "source_locators": [
+        "2023-23-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 251,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "傍聴キッズルーム・電動車椅子席・傍聴席バリアフリーの推進",
+      "proposal": "傍聴のできるキッズルーム、電動車椅子席の設置及び傍聴席のバリアフリーを推進すること。",
+      "source_locators": [
+        "2023-24-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 252,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "SNS活用や子どもが読みやすいページ作成等による議会情報発信の強化",
+      "proposal": "SNSの活用や子どもが読みやすいページの作成等議会情報の発信を強化すること。",
+      "source_locators": [
+        "2023-24-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 253,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "議員の個人のオンライン環境の整備",
+      "proposal": "議員の個人のオンライン環境を整えること。",
+      "source_locators": [
+        "2023-24-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 254,
+      "date": "2023-01-01",
+      "session_name": "2023年度予算提案",
+      "question_topic": "妊娠・出産・育児・疾病・介護・看護等の場合のオンライン委員会開催への対応",
+      "proposal": "災害や感染症の発生等の委員会の開催場所への参集が困難と判断される場合、妊娠・出産・育児・疾病・介護・看護等も委員会を開催すること。",
+      "source_locators": [
+        "2023-24-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 278,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "指定管理者・外郭団体等も対象とする（仮称）公文書管理条例の策定と公文書館機能導入",
+      "proposal": "指定管理者・外郭団体等も対象とする（仮称）公文書管理条例を策定し、公共施設再編と合わせた公文書館機能を導入すること。",
+      "source_locators": [
+        "2022-01-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 279,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "歴史資料のデジタル化保管への転換（紙・マイクロフィルム保管の原則中止）",
+      "proposal": "保管場所の縮小・保存期間の延長や保存対象の拡大を行うため歴史資料としてそれ自体に価値がある媒体を除いた上で紙とマイクロフィルムでの保管を原則中止し既存の資料をデジタル化すること。",
+      "source_locators": [
+        "2022-01-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 280,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "市史編さんの積極的な資料収集と監修者のもとでの責任ある編さん体制",
+      "proposal": "市史編さんに合わせて資料を積極的に収集し監修者を定めその責任のもとで編さんすること。",
+      "source_locators": [
+        "2022-01-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 281,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "ワンストップの市民まるごとオンライン相談窓口の設置",
+      "proposal": "自治体DXを推進しワンストップの市民まるごとオンライン相談窓口を設置すること。",
+      "source_locators": [
+        "2022-02-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 282,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "オープンデータの取り組み推進と民間アプリ開発・研究を促す仕組みづくり",
+      "proposal": "オープンデータの取り組みをさらに推進し民間のアプリ開発や研究を促す仕組みづくりを行うこと。",
+      "source_locators": [
+        "2022-02-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 283,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "桜区生活保護費不正事件の全容解明とケースワーク管理体制の構築・再発防止",
+      "proposal": "桜区における生活保護費不正事件の全容解明のため積極的に調査し不正支給に関しては管理体制を構築し再発防止策を徹底すること。",
+      "source_locators": [
+        "2022-02-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 284,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "職員の「働き方改革」による業務の大幅見直し",
+      "proposal": "職員の「働き方改革」による業務大幅見直しをすること。",
+      "source_locators": [
+        "2022-02-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 285,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "ジェンダー平等推進のための専管組織設置と職員研修の充実",
+      "proposal": "ジェンダー平等に向けた推進体制の強化のために人員を増加し専管組織として所管課を設置するとともに職員研修を充実させること。",
+      "source_locators": [
+        "2022-02-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 286,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "オンライン授業受講者の出席扱いの実現と環境整備",
+      "proposal": "オンライン授業受講者を出席扱いとすること。それを実現するための関係機関への働きかけを行うなど環境整備をすること。",
+      "source_locators": [
+        "2022-03-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 287,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "学校施設の建替えを含めた老朽化問題の抜本的解決",
+      "proposal": "修繕の追い付かない学校施設の問題を根本的に解決するため建替えを含めた整備を行うこと。",
+      "source_locators": [
+        "2022-03-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 288,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "感染状況に応じたスクール・サポート・スタッフの臨機応変な配置",
+      "proposal": "感染状況に応じてスクール・サポート・スタッフを臨機応変に配置すること。",
+      "source_locators": [
+        "2022-03-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 289,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "バリアフリー法改正を受けた学校トイレ・スロープ・エレベーターの設置推進",
+      "proposal": "バリアフリー法改正を受けて学校トイレ・スロープ・エレベーターの設置を推進すること。",
+      "source_locators": [
+        "2022-03-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 290,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "外国ルーツの未就学児と保護者への支援策創出と日本語指導コーディネーターの機能拡充",
+      "proposal": "外国ルーツの未就学児と保護者に対する支援策の創出と日本語指導コーディネーターの機能を拡充すること。",
+      "source_locators": [
+        "2022-04-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 291,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "市立知的障害特別支援学校の設置",
+      "proposal": "市立特別支援学校（知的障害）を設置すること。",
+      "source_locators": [
+        "2022-04-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 292,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "特別支援学級の教育・療育内容のさらなる充実",
+      "proposal": "特別支援学級の教育・療育内容をさらに充実させること。",
+      "source_locators": [
+        "2022-04-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 293,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "学習支援教室の設置箇所増加と支援の量・質・進路指導の充実",
+      "proposal": "学習支援教室については地域のニーズに合わせて教室の設置箇所を増やすなど支援の量と質・進路指導の充実をはかり各種支援へとつなぐこと。",
+      "source_locators": [
+        "2022-05-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 294,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "不登校児童生徒への多様な教育の追求（スペシャルサポートルーム・学び支援センター等）",
+      "proposal": "不登校の児童・生徒に対してはその数など地域特性に応じて多様な教育を追求すること。",
+      "source_locators": [
+        "2022-05-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 295,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "助産師等外部人材を活用した包括的性教育の全校実施",
+      "proposal": "助産師や大学生などの外部人材を活用し学校教育として包括的性教育を全校で実施すること。",
+      "source_locators": [
+        "2022-05-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 296,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "児童養護施設小規模化における職員相互チェック体制整備と虐待防止",
+      "proposal": "児童養護関係施設について職員同士の相互チェックが働かなくなることで生じる虐待事案の発生を未然に防止する体制を整えない限り安易に小規模化を進めないこと。",
+      "source_locators": [
+        "2022-05-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 297,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "東京都義務教育学校運営費標準を参考にした学校運営費の公費負担基準の設定",
+      "proposal": "PTAからの寄附金等を軽減するよう本来公費で負担すべき学校運営費を算定するなど東京都の「義務教育学校運営費標準」を参考に設定すること。",
+      "source_locators": [
+        "2022-05-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 298,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "放課後に学校以外の場で生き抜く力を育む「子ども第三の居場所」の複数設置",
+      "proposal": "放課後に学校以外の場で将来の自立に向けて生き抜く力を育む「子ども第三の居場所」を複数設置すること。",
+      "source_locators": [
+        "2022-05-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 299,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "認可保育所運営費補助における離職率評価と人件費限定補助額の拡充",
+      "proposal": "認可保育所の運営費補助において離職率の評価を行い人件費に限定した補助額を拡充すること。",
+      "source_locators": [
+        "2022-06-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 300,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "公有地・公有施設・学校余裕教室のさらなる活用",
+      "proposal": "公有地、公有施設及び学校の余裕教室をさらに活用すること。",
+      "source_locators": [
+        "2022-07-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 301,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "放課後児童クラブ運営事務の保護者負担軽減のための補助",
+      "proposal": "クラブ運営事務に関する保護者負担の軽減のために補助をすること。",
+      "source_locators": [
+        "2022-07-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 302,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "放課後児童クラブへのWi-Fi環境整備",
+      "proposal": "放課後児童クラブのWi-Fi環境を整備すること。",
+      "source_locators": [
+        "2022-07-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 303,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "（仮称）子ども条例制定も視野に入れた市民への意見聴取",
+      "proposal": "（仮称）子ども条例制定も視野に入れ市民に意見聴取すること。",
+      "source_locators": [
+        "2022-08-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 304,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "通学路への防犯カメラの増設",
+      "proposal": "通学路への防犯カメラを増設すること。",
+      "source_locators": [
+        "2022-08-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 305,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "公民館の事業費増額・全職員への端末増設・全館Wi-Fi設置",
+      "proposal": "公民館の事業費の増額、セキュリティーを考慮して公民館全職員への端末の増設と公民館全館へのWi-Fi設置をすること。",
+      "source_locators": [
+        "2022-09-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 306,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "東清掃事務所跡地への公民館の新設",
+      "proposal": "東清掃事務所跡地への公民館を新設すること。",
+      "source_locators": [
+        "2022-09-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 307,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "手話通訳者の養成拡充と専門職としての位置づけの明確化",
+      "proposal": "手話通訳者の養成を拡充し専門職としての位置づけを明確にし聴覚障害者の社会生活を保障すること。",
+      "source_locators": [
+        "2022-10-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 308,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "「重度障害者の就労支援事業」への視覚障害者向け同行支援・職場勤務の対象追加",
+      "proposal": "「重度障害者の就労支援事業」に視覚障害者向けの同行支援や職場勤務を対象に含むなど制度拡充に取り組むこと。",
+      "source_locators": [
+        "2022-10-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 309,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "コロナ感染再拡大への地域医療体制・保健所機能の強化",
+      "proposal": "新型コロナ感染再拡大への地域医療体制・保健所機能を強化すること。",
+      "source_locators": [
+        "2022-11-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 310,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "自宅療養者への食料支援と訪問診療体制の確立",
+      "proposal": "自宅療養者へ食料支援及び訪問診療体制の確立をすること。",
+      "source_locators": [
+        "2022-11-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 311,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "医療用ウイッグの助成制度創設に対する検討内容・見解の明確化",
+      "proposal": "医療用ウイッグの助成制度の創設に対する検討内容及び助成制度に対する見解を明確にすること。",
+      "source_locators": [
+        "2022-11-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 312,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "国のがん検診指針にない市独自がん検診の廃止を含めた検討",
+      "proposal": "国のがん検診指針にない市独自のがん検診の廃止を含めて検討すること。",
+      "source_locators": [
+        "2022-11-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 313,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "精神障害者福祉手帳2級所持者への通院・入院費用助成の実現",
+      "proposal": "精神障害者福祉手帳2級所持者に対して1級と同様に通院及び入院費用の早期の助成を実現すること。",
+      "source_locators": [
+        "2022-12-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 314,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "精神障害者2級手帳保持者へのタクシー券配布",
+      "proposal": "精神障害者2級手帳保持者のタクシー券を配布すること。",
+      "source_locators": [
+        "2022-12-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 315,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "さいたま市立病院への総合心療科初診外来および精神科の創設",
+      "proposal": "さいたま市立病院に総合心療科の初診外来および精神科を創設すること。",
+      "source_locators": [
+        "2022-12-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 316,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "障害者政策委員会の検討状況を踏まえた手話言語・障害者コミュニケーション条例の策定",
+      "proposal": "障害者政策委員会での検討状況を踏まえた手話言語・障害者コミュニケーション条例を策定すること。",
+      "source_locators": [
+        "2022-12-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 317,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "ケアラー支援条例・専門部署の設置と相談窓口・各種支援策の拡充",
+      "proposal": "ケアラー支援について関係条例設置や専門部署の設置（部局横断）、相談窓口の設置および各種支援策に着手また拡充すること。",
+      "source_locators": [
+        "2022-12-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 318,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "成年後見制度の利用促進に向けた市民後見人の養成と市民後見活動との連携強化",
+      "proposal": "成年後見制度の利用促進に向け市民後見人の養成および市民後見活動との連携強化を図ること。",
+      "source_locators": [
+        "2022-12-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 319,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "生活自立・仕事相談センターの機能強化と相談員増員・待遇改善・住宅等の長期対応",
+      "proposal": "生活自立・仕事相談センターの機能強化と相談員の増員や待遇改善。また相談者に対し住宅等の長期的対応をすること。",
+      "source_locators": [
+        "2022-13-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 320,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "ひとり親家庭の実態調査と子どもの貧困対策アクションプランの策定",
+      "proposal": "ひとり親家庭の抱える問題を解決するため児童扶養手当受給世帯の実態調査を行い子どもの貧困対策アクションプランを策定すること。",
+      "source_locators": [
+        "2022-13-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 321,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "福祉事務所のオンライン相談と生活保護のオンライン申請の実現",
+      "proposal": "生活困窮者対策として福祉事務所のオンライン相談及び生活保護のオンライン申請を可能とすること。",
+      "source_locators": [
+        "2022-13-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 322,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "女性の生活困窮者支援として生理の貧困対策を恒常的に実施",
+      "proposal": "女性の生活困窮者支援として生理の貧困対策を恒常的に行うこと。",
+      "source_locators": [
+        "2022-13-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 323,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "産婦新生児訪問・産後ケア事業等の委託契約増額と産後ケア施設整備への助成",
+      "proposal": "産婦新生児訪問事業・産後ケア訪問事業・思春期保健事業等の委託契約の増額及び産後ケア施設整備（助産院）等への助成をすること。",
+      "source_locators": [
+        "2022-14-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 324,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "産後ケア事業の利用者自己負担軽減と母乳相談無料券の配布",
+      "proposal": "産後ケア事業における利用者の自己負担軽減及び母乳相談無料券を配布すること。",
+      "source_locators": [
+        "2022-14-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 325,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "産前・産後ケアセンター（さいたま版ネウボラ）の設置",
+      "proposal": "次世代育成・子育て支援の拠点・災害時の母子救護所を兼ね備えた家族入院のできるさいたま版ネウボラ（産前・産後ケアセンター）を設置すること。",
+      "source_locators": [
+        "2022-14-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 326,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "妊娠葛藤期のための市独自の相談窓口設置",
+      "proposal": "思いがけない妊娠や妊娠葛藤期のための相談窓口を市独自として設置すること。",
+      "source_locators": [
+        "2022-14-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 327,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "低出生体重児とその家族のためのリトルベビーハンドブックの導入",
+      "proposal": "低出生体重で産まれた子とその家族のための母子手帳と併用できるリトルベビーハンドブックを導入すること。",
+      "source_locators": [
+        "2022-14-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 328,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "多胎児の現状調査と支援の拡大",
+      "proposal": "多胎児の現状調査と支援を拡大すること。",
+      "source_locators": [
+        "2022-14-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 329,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "公共プールの再編と沼影市民プールの代替地の検討",
+      "proposal": "公共プールの再編と沼影市民プールの代替え地を検討すること。",
+      "source_locators": [
+        "2022-15-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 330,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "文化芸術都市創造条例に基づく大宮まちづくりの中の文化芸術拠点整備",
+      "proposal": "文化芸術都市創造条例に基づき東日本の玄関口としてふさわしい大宮のまちづくりの中で多くの人が訪れ文化芸術に触れることのできる拠点施設を整備すること。",
+      "source_locators": [
+        "2022-15-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 331,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "屋内スポーツ施設（スケートパーク等）の整備とアーバンスポーツの推進",
+      "proposal": "屋内スポーツ施設（スケートパーク等）の整備及びアーバンスポーツを推進すること。",
+      "source_locators": [
+        "2022-15-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 332,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "障害者スポーツ実施率の市独自調査と2025年度目標値達成のための施策実施",
+      "proposal": "市内の障害者スポーツ実施率の市独自の調査を行い障害者のスポーツ実施率を2025年度の目標値に近づけるための施策を実施すること。",
+      "source_locators": [
+        "2022-15-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 333,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "人種・民族差別禁止と被害相談・救済措置を含む条例の制定",
+      "proposal": "市長マニフェスト「人権尊重と多文化共生の地域社会を目指す」の具現化として人種・民族差別禁止と被害相談・救済措置を盛り込んだ条例を制定すること。",
+      "source_locators": [
+        "2022-16-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 334,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "多文化共生施策での経済局と市民局の連携強化",
+      "proposal": "「多文化共生施策」での経済局と市民局が連携して取り組むこと。",
+      "source_locators": [
+        "2022-16-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 335,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "パートナーシップ宣誓制度の拡充としてファミリーシップ制度を導入",
+      "proposal": "パートナーシップ宣誓制度の拡充としてファミリーシップ制度を導入すること。",
+      "source_locators": [
+        "2022-16-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 336,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "DV被害者への民間シェルター・ステップハウス支援充実とひとり親支援施策との連携",
+      "proposal": "DV被害者への安全確保と自立生活に向けた支援の充実について民間シェルター・ステップハウスへの支援を充実しひとり親家庭等への支援施策との連携強化を図ること。",
+      "source_locators": [
+        "2022-17-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 337,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "性暴力被害者支援の充実強化",
+      "proposal": "性暴力被害者支援を充実強化すること。",
+      "source_locators": [
+        "2022-17-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 338,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "電力入札評価への再生可能エネルギー利用率等の総合評価方式の導入",
+      "proposal": "電力の入札評価に価格以外の再生可能エネルギー利用率や利用量などの視点を取り入れた総合評価方式とすること。",
+      "source_locators": [
+        "2022-18-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 339,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "再エネ100宣言RE Actionと東日本連携シンカによる再エネ100%の実現",
+      "proposal": "再エネ100宣言RE Actionにおける「広域的再生可能エネルギー電力供給100%」を実現するため東日本連携をシンカさせること。",
+      "source_locators": [
+        "2022-18-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 340,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "自転車活用まちづくりの拠点施設「サイクルパーク」の整備",
+      "proposal": "自転車を活用したまちづくりを推進するための拠点施設「サイクルパーク」を整備すること。",
+      "source_locators": [
+        "2022-20-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 341,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "公民館エレベーター設置の整備年次計画策定と早期完了",
+      "proposal": "エレベーター設置可能な公民館について整備年次計画を立て速やかに整備を完了させること。",
+      "source_locators": [
+        "2022-20-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 342,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "無人化駅への常設スロープ設置等によるバリアフリー対応",
+      "proposal": "市内鉄道駅において無人化によってあらゆる人の移動の自由が制限されることのないよう常設のスロープ設置等を行うこと。",
+      "source_locators": [
+        "2022-20-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 343,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "地下鉄7号線延伸に向けた空き家解消重点地区設定と空き家解体補助制度の創設",
+      "proposal": "地下鉄7号線延伸に向け岩槻駅周辺の定住人口目標値を達成するため新たな施策（空き家解消重点地区の設定と空き家解体補助制度の創設）を実施すること。",
+      "source_locators": [
+        "2022-20-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 344,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "市内バス廃止検討路線への補助金支給",
+      "proposal": "市内バス廃止検討路線への補助金を支給すること。",
+      "source_locators": [
+        "2022-20-09"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 345,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "コミュニティバスの運賃・運行頻度・運行日の市民が利用しやすい形への改善",
+      "proposal": "コミュニティバスについて地域のニーズがさらに高まっていることから運賃・運行頻度・運行日などをより市民が利用しやすい形に改善すること。",
+      "source_locators": [
+        "2022-20-10"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 346,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "加34排水路の整備",
+      "proposal": "加34排水路を整備すること。",
+      "source_locators": [
+        "2022-20-12"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 347,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "森林環境譲与税の荒川流域他自治体との連携・協力による活用",
+      "proposal": "森林環境譲与税について荒川流域など県内の他の自治体との間での連携・協力などの中で使用すること。",
+      "source_locators": [
+        "2022-21-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 348,
+      "date": "2022-01-01",
+      "session_name": "2022年度予算提案",
+      "question_topic": "猿花キャンプ場の「みんなのトイレ」設置と設備の更新",
+      "proposal": "猿花キャンプ場の「みんなのトイレ」の設置と設備の更新を行うこと。",
+      "source_locators": [
+        "2022-21-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 376,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "（仮称）公文書管理条例の策定とデジタル化・公文書館機能整備",
+      "proposal": "（仮称）公文書管理条例を策定し、デジタル化など公文書管理を徹底すること。また公共施設再編と合わせた公文書館機能整備を行うこと。",
+      "source_locators": [
+        "2021-01-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 377,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "管理職の率先的庁内テレワーク推進と意識改革研修",
+      "proposal": "管理職が率先してテレワークを実施し意識改革研修を行うこと。",
+      "source_locators": [
+        "2021-01-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 378,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "テレワーク用モバイルワーク端末の整備と新しいネットワーク構築",
+      "proposal": "新しいネットワークの構築と端末の整備を行うこと。",
+      "source_locators": [
+        "2021-01-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 379,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "学校給食公会計化実施に向けたタイムスケジュールの構築",
+      "proposal": "学校給食公会計化実施に向けたタイムスケジュールを構築すること。",
+      "source_locators": [
+        "2021-02-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 380,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "老朽化小学校体育館の建替えを含めた整備計画の着実な実施",
+      "proposal": "修繕の追い付かない小学校体育館の建替えを含めた整備を計画年度内に確実に実施すること。",
+      "source_locators": [
+        "2021-03-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 381,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "スクール・サポート・スタッフのさらなる拡充配置",
+      "proposal": "スクール・サポート・スタッフの配置が不充分なため、さらなる拡充を行うこと。",
+      "source_locators": [
+        "2021-03-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 382,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "オンライン学習双方向講座の推進",
+      "proposal": "オンライン学習双方向講座を推進すること。",
+      "source_locators": [
+        "2021-03-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 383,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "児童センターを活用した中高生の居場所支援と指定管理委託への位置づけ",
+      "proposal": "児童センターを活用した中高生の居場所支援の項目と予算を含んだ委託を実施すること。",
+      "source_locators": [
+        "2021-04-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 384,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "一部給付型奨学金の給付額増額",
+      "proposal": "一部給付型奨学金の給付額を増額すること。",
+      "source_locators": [
+        "2021-04-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 385,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "外国ルーツの子どもと保護者に対する支援策の拡充",
+      "proposal": "外国ルーツの子どもと保護者に対する支援策を拡充すること。",
+      "source_locators": [
+        "2021-04-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 386,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "学習支援教室の充実による貧困の連鎖断絶と子どもの自立力育成",
+      "proposal": "学習支援教室については、貧困の連鎖を断ち切り子どもたちが将来に向けて自立の力を養えるよう学習支援の充実をはかること。",
+      "source_locators": [
+        "2021-05-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 387,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "助産師等外部人材を活用した「生と性の学習」の全校実施",
+      "proposal": "助産師や大学生などの外部人材を活用し学校教育として「生と性の学習」を全校で実施すること。",
+      "source_locators": [
+        "2021-05-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 388,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "児童養護施設の小規模化推進にあたっての入所児童・担い手団体の状況確認",
+      "proposal": "児童養護関係施設について小規模化を進める際には入所する子供たちや担い手の団体の状況を確認しながら進めること。",
+      "source_locators": [
+        "2021-05-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 389,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "北部児童相談所・一時保護所の新設",
+      "proposal": "北部児童相談所・一時保護所を新設すること。",
+      "source_locators": [
+        "2021-05-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 390,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "認可保育所の整備促進と運営費・人件費補助の拡充",
+      "proposal": "認可保育所の整備促進と運営費補助並びに人件費補助の拡充を行うこと。",
+      "source_locators": [
+        "2021-06-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 391,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "認可外保育施設の安全性確保の拡充",
+      "proposal": "認可外保育施設の安全性の拡充を行うこと。",
+      "source_locators": [
+        "2021-06-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 392,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "国の補助金を最大限活用した放課後児童クラブ委託料の抜本的改革",
+      "proposal": "国の補助金を最大限活用した委託料の抜本的改革を行うこと。",
+      "source_locators": [
+        "2021-07-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 393,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "公有地・公有施設・学校余裕教室を活用した放課後児童クラブの整備拡充",
+      "proposal": "放課後児童クラブについて公有地・公有施設及び学校の余裕教室のさらなる活用促進を行うこと。",
+      "source_locators": [
+        "2021-07-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 394,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "放課後児童クラブ入室事務の保護者負担の軽減",
+      "proposal": "放課後児童クラブ入室事務に関する保護者負担の軽減を図ること。",
+      "source_locators": [
+        "2021-07-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 395,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "さいたまキッズなCity宣言の中間総括を踏まえた（仮称）子ども条例制定の検討開始",
+      "proposal": "「さいたまキッズなCity宣言」の中間総括を踏まえ（仮称）子ども条例制定に向けた庁内検討を開始すること。",
+      "source_locators": [
+        "2021-08-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 396,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "通学路への防犯カメラの設置促進",
+      "proposal": "通学路への防犯カメラの設置を促進すること。",
+      "source_locators": [
+        "2021-08-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 397,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "公民館の事業費増額と全職員への端末増設",
+      "proposal": "公民館の事業費の増額、セキュリティーを考慮して公民館全職員への端末の増設を行うこと。",
+      "source_locators": [
+        "2021-09-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 398,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "公民館全館へのWi-Fi設置",
+      "proposal": "公民館のWi-Fiを全館設置すること。",
+      "source_locators": [
+        "2021-09-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 399,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "手話通訳者の養成拡充と専門職としての位置づけの明確化",
+      "proposal": "手話通訳者の養成を拡充し専門職としての位置づけを明確にし聴覚障害者の社会生活を保障すること。",
+      "source_locators": [
+        "2021-10-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 400,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "重度障害者日常生活用具の紙おむつ給付要件の緩和",
+      "proposal": "重度障害者日常生活用具給付事業における紙おむつの給付要件の緩和を行うこと。",
+      "source_locators": [
+        "2021-10-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 401,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "医療用ウイッグの助成制度創設等アピアランスケアの充実",
+      "proposal": "医療用ウイッグの助成制度の創設等アピアランスの充実を図ること。",
+      "source_locators": [
+        "2021-11-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 402,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "若年者がん患者在宅ターミナルケア制度の創設",
+      "proposal": "若年者がん患者在宅ターミナルケア制度を創設すること。",
+      "source_locators": [
+        "2021-11-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 403,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "市内発熱者の屋外対応のための簡易プレハブ等の市による設置",
+      "proposal": "病院における市内発熱者の屋外での対応について、簡易プレハブ等の設置を市として行うこと。",
+      "source_locators": [
+        "2021-11-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 404,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "精神障害者アウトリーチ事業の精神科医師確保と10区への拡大",
+      "proposal": "精神障害者アウトリーチ事業の拡大のための精神科医師の確保と10区へのアウトリーチの拡大を行うこと。",
+      "source_locators": [
+        "2021-12-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 405,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "精神障害者福祉手帳2級所持者への通院・入院費用助成の実現",
+      "proposal": "精神障害者福祉手帳2級所持者に対して1級と同様に通院及び入院費用の早期の助成を実現すること。",
+      "source_locators": [
+        "2021-12-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 406,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "さいたま市立病院への総合心療科初診外来および精神科の創設",
+      "proposal": "さいたま市立病院に総合心療科の初診外来および精神科を創設すること。",
+      "source_locators": [
+        "2021-12-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 407,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "障害者政策委員会の検討を踏まえた手話言語・障害者コミュニケーション条例の策定",
+      "proposal": "障害者政策委員会での検討状況を踏まえた手話言語・障害者コミュニケーション条例を策定すること。",
+      "source_locators": [
+        "2021-12-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 408,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "ケアラー支援条例・専門部署の設置と各種支援策の着手・拡充",
+      "proposal": "ケアラー支援について関係条例設置や専門部署の設置（高齢・障害・児童・教育ほか部局横断）、各種支援策に着手また拡充すること。",
+      "source_locators": [
+        "2021-12-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 409,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "在宅介護支援センターの機能見直しとケアラー支援専門相談窓口の開設",
+      "proposal": "在宅介護支援センターの機能見直しと、ケアラー支援専門の相談窓口を開設すること。",
+      "source_locators": [
+        "2021-12-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 410,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "生活自立・仕事相談センターの機能強化と相談員増員・待遇改善・住宅等の長期支援",
+      "proposal": "生活自立・仕事相談センターの機能強化と相談員の増員や待遇改善。また相談者に対し住宅等の長期的対応をすること。",
+      "source_locators": [
+        "2021-13-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 411,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "ひとり親家庭の実態全数調査と子どもの貧困対策アクションプランの策定",
+      "proposal": "ひとり親家庭の抱える困難を解決するため、子どもの貧困調査結果を掘り下げたひとり親家庭の実態調査（対象者すべてへの調査）を実施すること。",
+      "source_locators": [
+        "2021-13-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 412,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "産婦新生児訪問・産後ケア事業の委託契約金の値上げ",
+      "proposal": "さいたま市委託業務である産婦新生児訪問・産後ケア事業についての委託契約金の値上げを行うこと。",
+      "source_locators": [
+        "2021-14-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 413,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "宿泊型産後ケア事業における利用家族への経済的負担軽減と助産院への十分なケア提供支援",
+      "proposal": "宿泊型産後ケア事業の推進にあたって利用家族が安心して経済的な負担を負うことなく、受託する助産院等も十分なケアが展開できるよう配慮すること。",
+      "source_locators": [
+        "2021-14-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 414,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "妊娠期から小学校入学前までの切れ目ない保健相談システムと保健・子育て支援部門の連携強化",
+      "proposal": "妊娠期から小学校入学前までの切れ目のない保健相談システムについては保健部門と子育て支援部門への十分な人員配置を行い連携強化し支援を充実すること。",
+      "source_locators": [
+        "2021-14-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 415,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "文化芸術都市創造条例に基づく市内外から多くの人が訪れる文化芸術拠点の整備",
+      "proposal": "文化芸術都市創造条例に基づき東日本の玄関口としてふさわしい市内外から多くの人が訪れる文化芸術の拠点を整備すること。",
+      "source_locators": [
+        "2021-15-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 416,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "民間力活用による屋内スポーツ施設（スケートパーク等）の整備とアーバンスポーツ推進",
+      "proposal": "民間力の活用による屋内スポーツ施設（スケートパーク等）の整備及びアーバンスポーツを推進すること。",
+      "source_locators": [
+        "2021-15-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 417,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "障害者のスポーツ実施率向上施策の実施（目標20%→70%）",
+      "proposal": "障害者のスポーツ実施率（現在20%）を1年後の目標70%に近づけるための実施率向上施策を実施すること。",
+      "source_locators": [
+        "2021-15-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 418,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "市内障害者のスポーツ実施率の新規調査の実施",
+      "proposal": "市内の障害者のスポーツ実施率の新規調査を行うこと。",
+      "source_locators": [
+        "2021-15-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 419,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "人種・民族差別禁止・性的少数者等への差別禁止条例化に向けた審議会設置",
+      "proposal": "市長公約「ダイバーシティとインクルージョン推進」を受けた人種・民族および性的少数者等への差別禁止の条例化に向けた審議会を設置すること。",
+      "source_locators": [
+        "2021-16-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 420,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "「多文化共生」担当を経済局から市民局へ組織改編",
+      "proposal": "「多文化共生」担当を経済局から市民局へ組織改編すること。",
+      "source_locators": [
+        "2021-16-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 421,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "DV被害者への民間シェルター支援充実・連携強化とひとり親家庭等支援施策との連携",
+      "proposal": "DV被害者への安全確保と自立生活に向けた支援の充実について民間シェルターへの支援充実と連携強化を図り、ひとり親家庭等への支援施策との連携強化を図ること。",
+      "source_locators": [
+        "2021-17-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 422,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "電力入札評価への再生可能エネルギー利用率等の総合評価方式の導入",
+      "proposal": "電力の入札評価に価格以外の再生可能エネルギー利用率や利用量などの視点を評価する総合評価方式を取り入れること。",
+      "source_locators": [
+        "2021-18-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 423,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "再エネ100宣言RE Actionと東日本連携による再生可能エネルギー100%まちづくりの推進",
+      "proposal": "再エネ100宣言RE Actionを進めるため東日本連携等で広域的再生可能エネルギー電力供給100%のまちづくりを推進すること。",
+      "source_locators": [
+        "2021-18-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 424,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "フードシェア・マイレージ事業による食品ロス削減の全区実施",
+      "proposal": "SDGsの理念を生かし食品ロス削減に向けた「フードシェア・マイレージ」事業を全区で実施し浸透させること。",
+      "source_locators": [
+        "2021-18-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 425,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "災害時要配慮者安全確保対策への助産師会との定期協議会の実施",
+      "proposal": "災害時要配慮者安全確保対策の要員として助産師が積極的に活動できるよう助産師会と担当部局との定期的な協議会を実施すること。",
+      "source_locators": [
+        "2021-19-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 426,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "水のうを利用した道路・公園等への一時貯留モデル事業の実施",
+      "proposal": "内水氾濫を制御するため水のうを利用した道路・公園等への一時貯留のモデル事業を実施すること。",
+      "source_locators": [
+        "2021-19-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 427,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "自転車活用まちづくりの拠点施設「サイクルパーク」の整備",
+      "proposal": "自転車を活用したまちづくりを推進するための拠点施設「サイクルパーク」を整備すること。",
+      "source_locators": [
+        "2021-20-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 428,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "まちづくりビジョン市民案を踏まえた西浦和駅周辺のまちづくりの推進",
+      "proposal": "まちづくりビジョン市民案を踏まえた西浦和駅周辺のまちづくりをさらに推進すること。",
+      "source_locators": [
+        "2021-20-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 429,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "高齢者・障害者等の移動支援の拡充",
+      "proposal": "高齢者・障害者等の移動支援を拡充すること。",
+      "source_locators": [
+        "2021-20-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 430,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "免許返納者へのタクシー券・バス無料券配布等の支援事業",
+      "proposal": "免許返納者への支援事業（タクシー券の配布やバスの無料券の配布など）を実施すること。",
+      "source_locators": [
+        "2021-20-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 431,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "エレベーター設置可能な公民館17館の速やかな整備完了",
+      "proposal": "エレベーターの整備可能な公民館17館について誰もが安心して利用できるバリアフリーな公民館を目指し速やかにエレベーターの整備を完了させること。",
+      "source_locators": [
+        "2021-20-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 432,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "市内鉄道全駅のトイレ・エレベーター設置と無人化解消",
+      "proposal": "市内鉄道（JR・東武・ニューシャトル）全駅におけるトイレ・エレベーターの設置及び駅の無人化解消に向けた対策を講じること。",
+      "source_locators": [
+        "2021-20-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 433,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "危険踏切の改良促進と踏切改良促進協議会の設置",
+      "proposal": "国土交通省の踏切安全通行カルテや地元要望等に基づく危険な踏切の改良促進及び乗馬踏切・工場裏踏切・末広踏切における改良促進協議会の設置を行うこと。",
+      "source_locators": [
+        "2021-20-07"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 434,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "岩槻・見沼区産業集積拠点整備と国道16号線立体交差化の実施",
+      "proposal": "岩槻区の産業集積拠点・見沼区の（仮称）農業及び食の流通・観光産業拠点の整備に合わせて国道16号線の立体交差化を実施すること。",
+      "source_locators": [
+        "2021-20-08"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 435,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "地下鉄7号線延伸に向けた空き家解消重点地区と建物解体補助制度の創設",
+      "proposal": "地下鉄7号線延伸に向けた事業として空き家解消重点地区と建物解体補助制度を創設すること。",
+      "source_locators": [
+        "2021-20-09"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 436,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "荒川河川敷公園群の回遊性向上と観光地化の推進",
+      "proposal": "荒川河川敷の公園群の回遊性を向上させ日本有数の大規模都市公園として県内外に発信し観光地化を推進すること。",
+      "source_locators": [
+        "2021-21-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 437,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "沼影県職員住宅跡地への身近な公園の早期整備",
+      "proposal": "沼影県職員住宅跡地利用については身近な公園の早期整備ができるよう埼玉県との協議を速やかに終えること。",
+      "source_locators": [
+        "2021-21-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 438,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "生産緑地問題のエリア特性に合わせた整理への取り組み",
+      "proposal": "生産緑地問題についてはそのエリアの特性に合わせて整理されていくよう努力すること。",
+      "source_locators": [
+        "2021-21-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 439,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "森林環境譲与税の荒川流域他自治体との連携・協力による活用",
+      "proposal": "森林環境譲与税について荒川流域など県内の他の自治体との間での連携・協力などの中で使用すること。",
+      "source_locators": [
+        "2021-21-04"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 440,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "元荒川右岸等の途切れないサイクリングロードの整備",
+      "proposal": "途切れのないサイクリングロードの整備（元荒川右岸等）を行うこと。",
+      "source_locators": [
+        "2021-21-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 441,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "宮ヶ谷塔に予定の食肉処理場・道の駅の環境アセスメントの実施",
+      "proposal": "宮ヶ谷塔に予定の屠畜場「道の駅」の環境アセスメントを実施すること。",
+      "source_locators": [
+        "2021-21-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 442,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "市発注公共事業の建設労働者賃金の抽出調査による設計労務単価上昇の反映確認",
+      "proposal": "設計労務単価の上昇が確実に建設労働者の賃金に反映したか実態を把握するため市発注公共事業の建設労働者に支払われる賃金を抽出調査すること。",
+      "source_locators": [
+        "2021-22-01"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 443,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "スポーツシューレの宿泊・研修施設を備えた拠点整備に向けた検討",
+      "proposal": "スポーツシューレに必要不可欠な宿泊・研修施設を備えた拠点整備に向けた検討を行うこと。",
+      "source_locators": [
+        "2021-22-02"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 444,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "西浦和駅周辺まちづくりと連携した田島産業集積拠点の整備促進",
+      "proposal": "周辺のまちづくりと連携した田島産業集積拠点の整備を促進すること。",
+      "source_locators": [
+        "2021-22-03"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 445,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "大宮駅東口公共施設再編跡地利用とGCS構想の早期実現",
+      "proposal": "大宮駅東口の公共施設再編による跡地利用やGCS構想を早期に実現させること。",
+      "source_locators": [
+        "2021-22-05"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 446,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "さいたまシティカップの廃止を含むサッカーのまちづくりへの貢献からの抜本的見直し",
+      "proposal": "「さいたまシティカップ」は廃止を含め「サッカーのまちづくり」への貢献の視点から抜本的な見直しを行うこと。",
+      "source_locators": [
+        "2021-22-06"
+      ],
+      "mapping_type": "one_to_one"
+    },
+    {
+      "archive_index": 447,
+      "date": "2021-01-01",
+      "session_name": "2021年度予算提案",
+      "question_topic": "傍聴キッズルーム・電動車椅子席・傍聴席バリアフリー化",
+      "proposal": "傍聴のできるキッズルーム、電動車椅子席の設置及び傍聴席のバリアフリー化を行うこと。",
+      "source_locators": [
+        "2021-24-01"
+      ],
+      "mapping_type": "one_to_one"
+    }
+  ]
+}
