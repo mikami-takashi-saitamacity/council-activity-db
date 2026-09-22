@@ -1,0 +1,2351 @@
+{
+  "version": "1.0",
+  "derived_from": "budget_existing_mapping.json",
+  "count": 293,
+  "items": [
+    {
+      "fiscal_year": 2021,
+      "source_locator": "2021-11-02",
+      "major_no": 11,
+      "major_title": "地域医療体制の充実",
+      "item_no": 2,
+      "proposal_text": "がん検診指針を踏まえた科学的根拠に基づくがん検診以外のがん検診にない市独自のがん検診の廃止を含めた検討。"
+    },
+    {
+      "fiscal_year": 2021,
+      "source_locator": "2021-15-05",
+      "major_no": 15,
+      "major_title": "誰もが健康で心豊かに文化・スポーツにふれあえるまち",
+      "item_no": 5,
+      "proposal_text": "スポーツ文化関係の事業は、これまでの成果や効果を検証し、スクラップ＆ビルドを心がけること。"
+    },
+    {
+      "fiscal_year": 2021,
+      "source_locator": "2021-22-04",
+      "major_no": 22,
+      "major_title": "さいたま市の特徴・強みを活かした経済活性化",
+      "item_no": 4,
+      "proposal_text": "新しい働き方をデザインする超短時間雇用ＩＤＥＡモデルの研究とさいたま市での反映。"
+    },
+    {
+      "fiscal_year": 2021,
+      "source_locator": "2021-23-01",
+      "major_no": 23,
+      "major_title": "ユニバーサル農業の推進による、さいたま市ブランドを活かした都市農業の振興",
+      "item_no": 1,
+      "proposal_text": "学校給食における市内産野菜・米の地産地消率を向上させるため数値目標を設定すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-03-01",
+      "major_no": 3,
+      "major_title": "「学びのチカラ日本一」に向けた学校教育環境の充実および地域・家庭との連携",
+      "item_no": 1,
+      "proposal_text": "学習支援のチャレンジスクールのオンライン実施を試験的に行うこと。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-04-01",
+      "major_no": 4,
+      "major_title": "すべての子どもと若者に夢とチャンスを",
+      "item_no": 1,
+      "proposal_text": "児童センターを活用した中高生居場所支援の充実のため、次回の更新時に、事業内容と予算を含んだ指定管理を行うこと。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-05-05",
+      "major_no": 5,
+      "major_title": "社会全体で子育てを支えるまち",
+      "item_no": 5,
+      "proposal_text": "北部児童相談所・一時保護所の新設について県有地を含めて検討すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-07-01",
+      "major_no": 7,
+      "major_title": "放課後児童クラブの施設、環境の充実",
+      "item_no": 1,
+      "proposal_text": "国の補助金を最大限活用できる制度設計に切り替えるとともに、それによって運営ができなくなる施設を出さないため、配慮すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-11-05",
+      "major_no": 11,
+      "major_title": "地域医療体制の充実",
+      "item_no": 5,
+      "proposal_text": "市が実施する地域医療政策は医師や医療機関の個別の登録制にし、それに基づいて事業を委託等すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-19-01",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 1,
+      "proposal_text": "災害時要配慮者安全対策の要員として助産師が主体的に活動できるよう、さいたま市助産師会と協定を締結すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-19-02",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 2,
+      "proposal_text": "内水氾濫を制御するためのやむを得ない状況に対応するため、水のうを利用した道路・公園等への一時貯留を行うための社会実験等を行うこと。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-19-03",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 3,
+      "proposal_text": "避難所運営を通じた中学校における防災教育を推進すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-19-04",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 4,
+      "proposal_text": "一時的に雨水の貯留量を増やすため、台風接近時に公園等の池の水の事前放流を行うこと。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-20-02",
+      "major_no": 20,
+      "major_title": "暮らしを支える活力を生み出す交通体系の構築と都市基盤整備",
+      "item_no": 2,
+      "proposal_text": "西浦和駅周辺のまちづくりを推進すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-20-03",
+      "major_no": 20,
+      "major_title": "暮らしを支える活力を生み出す交通体系の構築と都市基盤整備",
+      "item_no": 3,
+      "proposal_text": "免許返納者への支援事業（タクシー券の配布やバスの無料券の配布など）。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-20-06",
+      "major_no": 20,
+      "major_title": "暮らしを支える活力を生み出す交通体系の構築と都市基盤整備",
+      "item_no": 6,
+      "proposal_text": "国土交通省の踏切安全通行カルテや地元要望等に基づく危険な踏切の改良促進、及び乗馬踏切、工場裏踏切、末広踏切における改良道促進協議会を積極的に開催し、早急な安全対策を実施すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-20-07",
+      "major_no": 20,
+      "major_title": "暮らしを支える活力を生み出す交通体系の構築と都市基盤整備",
+      "item_no": 7,
+      "proposal_text": "産業集積拠点・（仮称）農業及び食の流通・観光産業拠点の整備に合わせて、国道１６号線の立体交差化など渋滞解消に向けて国に要望すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-20-11",
+      "major_no": 20,
+      "major_title": "暮らしを支える活力を生み出す交通体系の構築と都市基盤整備",
+      "item_no": 11,
+      "proposal_text": "都市計画道路において既存の歩道と新設の歩道が直接延伸できる場合に限り、部局を超えて他の計画や予算を弾力的に運用し、用地を取得、整備すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-21-01",
+      "major_no": 21,
+      "major_title": "荒川や見沼田圃など水辺と緑地空間の保全・活用および公園、多目的広場の充実",
+      "item_no": 1,
+      "proposal_text": "荒川河川敷の公園群の回遊性を向上させ、日本有数の大規模都市公園として県内外に発信し、観光地化を推進すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-21-02",
+      "major_no": 21,
+      "major_title": "荒川や見沼田圃など水辺と緑地空間の保全・活用および公園、多目的広場の充実",
+      "item_no": 2,
+      "proposal_text": "河川に沿ったサイクリングロードの整備とネットワーク化を進めること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-21-03",
+      "major_no": 21,
+      "major_title": "荒川や見沼田圃など水辺と緑地空間の保全・活用および公園、多目的広場の充実",
+      "item_no": 3,
+      "proposal_text": "沼影県職員住宅跡地利用については、身近な公園の早期整備ができるよう埼玉県との協議を速やかに終えること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-22-01",
+      "major_no": 22,
+      "major_title": "さいたま市の特徴・強みを活かした経済活性化",
+      "item_no": 1,
+      "proposal_text": "スポーツシューレに必要不可欠な宿泊・研修施設を備えた拠点整備に向けた検討をすること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-22-02",
+      "major_no": 22,
+      "major_title": "さいたま市の特徴・強みを活かした経済活性化",
+      "item_no": 2,
+      "proposal_text": "周辺のまちづくりと連携した田島産業集積拠点の整備を促進すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-22-03",
+      "major_no": 22,
+      "major_title": "さいたま市の特徴・強みを活かした経済活性化",
+      "item_no": 3,
+      "proposal_text": "新しい働き方をデザインする超短時間雇用ＩＤＥＡモデルの研究し、本市へ反映させること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-22-04",
+      "major_no": 22,
+      "major_title": "さいたま市の特徴・強みを活かした経済活性化",
+      "item_no": 4,
+      "proposal_text": "大宮駅東口の公共施設再編による跡地利用やＧＣＳ構想の早期に実現させること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-23-01",
+      "major_no": 23,
+      "major_title": "ユニバーサル農業の推進による、さいたま市ブランドを活かした都市農業の振興",
+      "item_no": 1,
+      "proposal_text": "学校給食における市内産野菜・米の地産地消率を向上させるため購入金額の割合を指定するなど数値目標を早急に設定すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-24-01",
+      "major_no": 24,
+      "major_title": "議会の「見える化」の推進を",
+      "item_no": 1,
+      "proposal_text": "傍聴のできるキッズルーム、電動車椅子席の設置、及び傍聴席のバリアフリーを推進すること。"
+    },
+    {
+      "fiscal_year": 2022,
+      "source_locator": "2022-24-02",
+      "major_no": 24,
+      "major_title": "議会の「見える化」の推進を",
+      "item_no": 2,
+      "proposal_text": "緊急事態宣言時に委員会をオンラインで開催すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-01-03",
+      "major_no": 1,
+      "major_title": "行政の透明化推進と情報発信の充実強化",
+      "item_no": 3,
+      "proposal_text": "市史編さんにあたっては、科学的な歴史の知見を重視し、さまざまな立場から、公正な議論が行える環境を整えること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-02-02",
+      "major_no": 2,
+      "major_title": "持続可能な行財政運営とコンプライアンスの徹底",
+      "item_no": 2,
+      "proposal_text": "職員の「働き方改革」による業務大幅見直しをするとともに、労働安全・衛生体制を充実すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-02-04",
+      "major_no": 2,
+      "major_title": "持続可能な行財政運営とコンプライアンスの徹底",
+      "item_no": 4,
+      "proposal_text": "会計年度任用職員の人員配置及び処遇の改善に努めること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-02-07",
+      "major_no": 2,
+      "major_title": "持続可能な行財政運営とコンプライアンスの徹底",
+      "item_no": 7,
+      "proposal_text": "情報公開請求の際には、市民の個人情報の取り扱いに関するルールを徹底すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-03-03",
+      "major_no": 3,
+      "major_title": "「学びのチカラ日本一」に向けた学校教育環境の充実および地域・家庭との連携",
+      "item_no": 3,
+      "proposal_text": "スクール・サポート・スタッフを臨機応変に配置すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-04-03",
+      "major_no": 4,
+      "major_title": "すべての子どもと若者に夢とチャンスを",
+      "item_no": 3,
+      "proposal_text": "外国ルーツの未就学児と保護者に対する支援策の創出と日本語指導コーディネーターの機能を拡充すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-05-01",
+      "major_no": 5,
+      "major_title": "社会全体で子育てを支えるまち",
+      "item_no": 1,
+      "proposal_text": "学習支援教室については、地域のニーズに合わせて教室の設置箇所を増やすなど支援の量と質・進路指導の充実をはかり、各種支援へとつなぐこと。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-05-02",
+      "major_no": 5,
+      "major_title": "社会全体で子育てを支えるまち",
+      "item_no": 2,
+      "proposal_text": "助産師などの外部人材を活用し、学校教育として包括的性教育を全校で実施していくと同時に放課後児童クラブや若者自立支援ルーム等の多様な場においても同様に実施していくこと。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-05-06",
+      "major_no": 5,
+      "major_title": "社会全体で子育てを支えるまち",
+      "item_no": 6,
+      "proposal_text": "外部講師の活用など市立学校の文化部・運動部の活動の質の向上を図ること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-05-09",
+      "major_no": 5,
+      "major_title": "社会全体で子育てを支えるまち",
+      "item_no": 9,
+      "proposal_text": "ＳＳＷ（スクールソーシャルワーカー）を増員し、児童・生徒一人当たりの対応時間を十分確保し、支援を充実させること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-06-03",
+      "major_no": 6,
+      "major_title": "未就園児の通う施設の総合的な在り方と保育の質の向上",
+      "item_no": 3,
+      "proposal_text": "各園の保育士の配置人数や離職率を市として公表すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-06-04",
+      "major_no": 6,
+      "major_title": "未就園児の通う施設の総合的な在り方と保育の質の向上",
+      "item_no": 4,
+      "proposal_text": "年間を通して変動する乳児保育利用に対して、担当保育士を安定的に確保し、年度途中入所のニーズに対応するため、乳児途中入所促進事業を実施すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-06-05",
+      "major_no": 6,
+      "major_title": "未就園児の通う施設の総合的な在り方と保育の質の向上",
+      "item_no": 5,
+      "proposal_text": "特別な支援を必要とする園児やグレーゾーンの園児（障害者手帳無）に対する補助限度人数を、現行の１園３人から増員すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-06-06",
+      "major_no": 6,
+      "major_title": "未就園児の通う施設の総合的な在り方と保育の質の向上",
+      "item_no": 6,
+      "proposal_text": "市の幼児教育に携わる人材（人財）を確保するため、保育士に支給されている「住宅手当」を幼稚園教諭に対しても支給すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-12-04",
+      "major_no": 12,
+      "major_title": "障害者医療・介護の充実と社会参加への支援",
+      "item_no": 4,
+      "proposal_text": "ケアラー支援についての周知と支援策を充実させ確実に実施すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-18-01",
+      "major_no": 18,
+      "major_title": "エネルギーの地産地消の推進と みどり豊かな都市の創造",
+      "item_no": 1,
+      "proposal_text": "衛生協力助成金の上限を引き上げること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-19-01",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 1,
+      "proposal_text": "避難所運営を通じた中学校における防災教育を継続・拡充すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-19-02",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 2,
+      "proposal_text": "災害時要配慮者安全対策要員として助産師のみなさんに協力を得ながら、妊産婦及び小さい子どもを持つ親子に特化した要配慮者優先避難場所を創設すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-19-03",
+      "major_no": 19,
+      "major_title": "災害時に命と暮らしをまもる地区防災力の強化向上",
+      "item_no": 3,
+      "proposal_text": "避難所となる小学校を含めた学校体育館等へのエアコン（空調設備）等を早期に全校へ設置すること。"
+    },
+    {
+      "fiscal_year": 2023,
+      "source_locator": "2023-23-01",
+      "major_no": 23,
+      "major_title": "ユニバーサル農業の推進による、さいたま市ブランドを活かした都市農業の振興",
+      "item_no": 1,
+      "proposal_text": "６次産業化と農業ＤＸの推進を図るとともに、新規就農者の日々の出荷先の確保を支援すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-01-04",
+      "major_no": 1,
+      "major_title": "『誰ひとり取り残さない』視点での施策展開",
+      "item_no": 4,
+      "proposal_text": "働き方改革の推進に向けて、会計年度任用職員等の処遇改善と職員の増員を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-02-02",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 2,
+      "proposal_text": "永年保存の歴史資料についても、「市民共有の知的資源」として、適切な選定及び公開の権利の充実に向けた法令整備を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-02-04",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 4,
+      "proposal_text": "教職員が受けた相談内容等については、ガイドラインを作成し、記録に残すこと。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-02-05",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 5,
+      "proposal_text": "パブリックコメントを行う事業に関して、オンライン説明会を開催すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-02-06",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 6,
+      "proposal_text": "子どもの提案制度は、子どもたちにわかりやすい情報の発信とし、対象年齢とオンライン申請の時間を拡大すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-03-03",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 3,
+      "proposal_text": "各事業を開催するにあたり、ホームページ等に事業経費を記載すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-03-05",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 5,
+      "proposal_text": "ふるさと納税を活用した学校への寄付制度について、広く周知徹底を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-01",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 1,
+      "proposal_text": "スクール・サポート・スタッフの全校配置及び大規模校に増員を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-03",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 3,
+      "proposal_text": "スクールカウンセラーが児童・生徒や保護者からの相談を十分に受けらえるようにし、教員の職場における人間関係及びマネジメント上の悩みも相談できるよう増員を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-04",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 4,
+      "proposal_text": "スクールアシスタントの増員を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-05",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 5,
+      "proposal_text": "外国ルーツの児童・生徒と保護者に対する初期対応を含む支援策の充実と日本語指導コーディネーターの機能を拡充すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-06",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 6,
+      "proposal_text": "学校における医療的ケア児の学習や体験を保障するため、訪問看護事業所等と連携を強化し、校外学習時も含めて看護師の派遣を可能にすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-07",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 7,
+      "proposal_text": "栄養士、栄養教諭の献立作成の負担軽減の為に栄養計算ソフトを導入すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-10",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 10,
+      "proposal_text": "フリースクールに通う児童・生徒への経済的負担を軽減すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-12",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 12,
+      "proposal_text": "学校図書館の蔵書基準数が収納でき、本のサイズに合った本棚を設置すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-14",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 14,
+      "proposal_text": "児童・生徒１人１台のタブレットの貸与において、修理等で手元から離れる期間をなくすため、代替機の十分な数を確保すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-04-16",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 16,
+      "proposal_text": "外部講師を活用し、小中高校におけるワークルール教育を実施すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-02",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 2,
+      "proposal_text": "川西市の「子どもの人権オンブズパーソン」を参考に、子どもの当事者性を尊重する機関を設置すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-05",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 5,
+      "proposal_text": "若者の性被害、特に未成年の望まない妊娠出産・中絶をなくすため、保健師・助産師と連携し、若者参加によるピアサポート・相談する場を設置すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-06",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 6,
+      "proposal_text": "プレイパークの設置とプレイワーカーの育成支援に向けてガイドラインを作成すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-07",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 7,
+      "proposal_text": "公共施設を活用して、長期欠席児童生徒を含めた子どもたち・若者の居場所の設置をすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-08",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 8,
+      "proposal_text": "各園の保育士や保育士以外の職種の配置人数、勤続年数の公表をすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-09",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 9,
+      "proposal_text": "加配対象保育士や支援員の年間の継続的な雇用制度の創設をすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-05-10",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 10,
+      "proposal_text": "保育士宿舎借り上げ支援事業の対象者を拡充し、幼稚園教諭や児童養護施設等の児童福祉施設に勤務する保育士も加えること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-02",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 2,
+      "proposal_text": "産後ケア事業、子育てヘルパー制度を希望する全ての家族が利用できるようにすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-03",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 3,
+      "proposal_text": "母乳相談を希望する方の自己負担を軽減すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-04",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 4,
+      "proposal_text": "未就学児と保護者の支援のために、子育て支援センターや地域子育て支援拠点を拡充すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-06",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 6,
+      "proposal_text": "放課後児童クラブの家賃補助について、地域事情にあった制度改善を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-07",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 7,
+      "proposal_text": "放課後児童クラブの Wi-Fi 環境を整備すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-09",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 9,
+      "proposal_text": "放課後児童クラブ運営事務に関する保護者負担の軽減するため、委託契約説明時の資料と動画等の情報公開をし、各種制度の利用を高めること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-10",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 10,
+      "proposal_text": "保育施設や放課後児童クラブ等に通う外国ルーツの子どもの保護者やその施設に対し、情報共有やコミュニケーションの困難を解消すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-06-11",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 11,
+      "proposal_text": "子どもがいる離婚前の家族に対して市営住宅へ入居を可能とすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-07-02",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 2,
+      "proposal_text": "保健センターにおいて、多言語対応するための機器導入等で現場の負担を軽減すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-07-05",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 5,
+      "proposal_text": "社会参加推進センター事業を強化し、障害者団体間の交流や当事者の社会参加を支援すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-07-06",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 6,
+      "proposal_text": "福祉まるごと相談窓口における消費者被害の相談について積極的に周知すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-07-07",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 7,
+      "proposal_text": "障害者等が地域で生活するため、グループホームの家賃補助を拡充すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-08-01",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 1,
+      "proposal_text": "民間企業等経験者採用枠を利用して、非正規職員から正規職員へ採用枠の拡大を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-08-03",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 3,
+      "proposal_text": "相談業務従事者や学校図書館司書等、専門性が求められる職員の処遇改善を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-08-05",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 5,
+      "proposal_text": "まつり等への補助金は物価高等を考慮すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-08-06",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 6,
+      "proposal_text": "さいたま市融資制度の実施を継続するにあたり、創業支援の強化等政策目的を明確化すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-08-07",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 7,
+      "proposal_text": "公契約のもとで働く現場労働者の賃金水準を市独自に把握し、設計労務単価を適切に設定すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-09-03",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 3,
+      "proposal_text": "地域で孤立している方や生きづらい方への公民館等の公共施設を利用した居場所づくりを推進すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-09-06",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 6,
+      "proposal_text": "市主催の手話通訳者養成講座等を開催する際に、託児を可能とする等受講者の参加拡大を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-10-02",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 2,
+      "proposal_text": "市街化調整区域にヤードを乱立させないため住宅等から２００ｍ離し、静脈産業の集積拠点を整備すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-10-03",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 3,
+      "proposal_text": "再生資源物の屋外保管に関する条例は、立地・構造基準に関しても経過措置を設け確実に適用させ、政策効果を高めるため指導・勧告を受けても改善されない場合は、保管事業の一時停止を行うことに加えて、搬入するドライバーにも罰則を科すこと。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-10-04",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 4,
+      "proposal_text": "土砂のたい積等の規制に関する条例を改正し、無許可でのたい積行為を防止するため、警戒区域等を定め、即時に警察が行為の停止、区域からの排除等が行えるようにすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-10-05",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 5,
+      "proposal_text": "有機農業の新規就農者の支援を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-10-06",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 6,
+      "proposal_text": "給食残渣のたい肥化を行うこと。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-10-07",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 7,
+      "proposal_text": "生ごみ処理機等を導入した市民のために、たい肥を利活用するためのルートを構築すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-01",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 1,
+      "proposal_text": "周産期の母子の避難所を確保するために子育て支援センター・大学等を利用して設置すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-02",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 2,
+      "proposal_text": "避難所運営訓練を通して中学生に防災教育を継続、積極的に拡充すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-03",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 3,
+      "proposal_text": "障害者等の要配慮者の参加を含む防災訓練や避難所運営への参画を進めること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-05",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 5,
+      "proposal_text": "高齢者、障害者等の移動等の円滑化の促進に関する法律改正を受けて、学校トイレや公民館等の公共施設に大型ベッドを修繕時等に設置すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-06",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 6,
+      "proposal_text": "防災アドバイザーの災害発生時における活動を再検討すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-07",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 7,
+      "proposal_text": "民間駐車場の雨水浸透桝・トレンチ補助制度の創設に向けた他自治体の調査を実施すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-08",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 8,
+      "proposal_text": "マンションや高齢者施設等の止水板の設置補助をすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-11-09",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 9,
+      "proposal_text": "学校校庭貯留施設の雨水排水の強化をすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-12-01",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 1,
+      "proposal_text": "窓口が無人になる駅について、モニター付きインターフォンに変更するための補助金を検討すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-12-02",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 2,
+      "proposal_text": "コミュニティバス等を含めた公共交通の利便性を向上すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-12-05",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 5,
+      "proposal_text": "東西交通大宮ルート実現に向けた具体的な工程表を作成すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-12-06",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 6,
+      "proposal_text": "将来的に水道料金の急激な値上げが生じないよう水道事業の最適化を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-12-08",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 8,
+      "proposal_text": "総合評価方式の入札において、不調・不落工事対策のため難工事完了実績の優遇措置を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-13-01",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 1,
+      "proposal_text": "多文化共生施策担当を人権施策担当所管に移管し、人権政策課とジェンダー平等推進課の所管の役割分担を再検討すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-13-02",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 2,
+      "proposal_text": "ＵＮＨＣＲキャンペーン「難民を支える自治体ネットワーク」に参加して、自治体としてできる難民支援に取り組むこと。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-13-04",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 4,
+      "proposal_text": "市職員対象のパートナーシップ・ファミリーシップ制度について、他自治体で法律婚・事実婚と同様な扱いをしている事案等を調査し、本市でも積極的な対応を図ること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-13-05",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 5,
+      "proposal_text": "ジェンダー平等を推進するため、さいたま市男女共同参画推進事業者の目標件数を年間１０社以上にすること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-13-06",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 6,
+      "proposal_text": "個人情報保護法施行条例を強化し、市独自の要配慮個人情報の追加を検討すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-14-03",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 3,
+      "proposal_text": "次世代型スポーツ施設や公園の整備に当たり、子どもたちを含めた多様な住民の意見を十分に反映すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-14-04",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 4,
+      "proposal_text": "ボール遊びできる公園等の広場やバスケットボール・サッカーができる場所を増やすこと。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-14-06",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 6,
+      "proposal_text": "プールを利用している団体競技の活動場所を確保すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-15-02",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 2,
+      "proposal_text": "さいたまマッチングファンドの期間の延長を含め検証すること。"
+    },
+    {
+      "fiscal_year": 2024,
+      "source_locator": "2024-15-03",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 3,
+      "proposal_text": "労働者協同組合法に関する市民向け説明会を開催すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-01-04",
+      "major_no": 1,
+      "major_title": "『誰ひとり取り残さない』視点での施策展開",
+      "item_no": 4,
+      "proposal_text": "ひとり親家庭に対する支援制度・事業の周知を徹底し、個々のニーズに対応した支援が行われるようにすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-02-04",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 4,
+      "proposal_text": "現在の文書規則の対象外である市の外郭団体や指定管理者等の保有する市施設の運営に関わる文書も「公文書」として位置づけて、情報公開の充実や安易な廃棄処分がなされないような措置をとるための条例整備を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-02-05",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 5,
+      "proposal_text": "教職員が受けた相談内容等については、規則を定めた上で記録し、義務教育修了３年後まで保管すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-03-02",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 2,
+      "proposal_text": "「さいたまＭＹ ＳＣＨＯＯＬファンド」の周知により寄附を増やし、寄附者を学校のフェンス等を活用し掲示すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-03-04",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 4,
+      "proposal_text": "さいたま市融資制度の実施を継続するにあたり、予算規模の妥当性と制度の効果等を検証すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-03-06",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 6,
+      "proposal_text": "行財政シンカ推進会議の更なる活用による行革を推進すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-02",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 2,
+      "proposal_text": "各校のＳｏｌａるーむの稼働状況を把握し、特に稼働しているところではスクール・アシスタントを増員し、現場の負担軽減を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-04",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 4,
+      "proposal_text": "学校外の多様な学びの選択肢の１つであるフリースクール等に通う児童・生徒への経済的負担を軽減すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-05",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 5,
+      "proposal_text": "Ｇｒｏｗｔｈについて、あんしんメールを活用し、ＨＰや動画のリンクを配信して、周知徹底を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-06",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 6,
+      "proposal_text": "外国ルーツの児童生徒と保護者に対する初期対応の充実と中学卒業後の進路保障に向けた取り組みの推進すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-07",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 7,
+      "proposal_text": "長期欠席者や長期欠席者傾向の子どもたちに健康診断を行うこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-08",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 8,
+      "proposal_text": "助産師等による思春期保健事業を全校で実施し、少なくとも小学校６年間に１回、中学校３年間で１回は、体系的に包括的性教育が実施されるようにすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-09",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 9,
+      "proposal_text": "包括的性教育に関する学校図書、カードゲームや動画などの補助教材、啓発ツール類を充実させ、活用すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-10",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 10,
+      "proposal_text": "各学校が自由に使用できる予算が少ないため備品の更新が不十分なことや、学校中規模修繕を待たずに雨漏りやトイレの洋式化を進めるために、教育委員会の総予算を大幅に増やすこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-12",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 12,
+      "proposal_text": "学校図書に対して教育委員会からの十分な予算措置を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-04-13",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 13,
+      "proposal_text": "児童・生徒１人１台のタブレットの貸与において、修理等で手元から離れる期間をなくすため、代替機の十分な確保を図り、更新に向けた計画を策定して学習機会を確実に保障すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-02",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 2,
+      "proposal_text": "川西市の「子どもの人権オンブズパーソン」のように、子どもの当事者性を尊重する機関を設置し、深刻化・重大化する前に相談・調査する機関を設置すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-03",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 3,
+      "proposal_text": "若者の性被害、特に未成年の望まない妊娠について、保健師、助産師と連携し、気軽に相談できるＬＩＮＥ等を活用した市独自の窓口を設置すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-05",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 5,
+      "proposal_text": "公共施設を活用して、長期欠席児童生徒を含めた子どもたち・若者の居場所の設置をすること。また、公共施設の空きスペースを活用し、イス、テーブルを設置し勉強できる場を設けること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-06",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 6,
+      "proposal_text": "日本財団子ども第三の居場所助成事業（常設モデル）を活用して、重点を置く必要のある地域に「子ども第三の居場所」を設立し、３年後に「児童育成支援拠点」に発展させること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-07",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 7,
+      "proposal_text": "短期間での退職者がある園があるため、各園の保育士や保育士以外の職種の配置人数、勤続年数や退職理由の公表をすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-08",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 8,
+      "proposal_text": "保育士宿舎借り上げ支援事業と同様の事業を創設し、幼稚園教諭や児童養護施設等の児童福祉施設に勤務する保育士も加えること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-09",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 9,
+      "proposal_text": "ヤングケアラーとその家族の相談窓口である行政の各機関や学校、民間支援団体とのさらなる連携強化とネットワーク化を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-05-10",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 10,
+      "proposal_text": "宗教２世への相談支援の体制を構築すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-03",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 3,
+      "proposal_text": "産後ケア事業の対象利用者拡大と利用料金のさらなる負担軽減を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-04",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 4,
+      "proposal_text": "多胎児の家族が、妊娠期から、プレママパパクラスにオンラインで参加可能とし、ピアサポート支援を充実させること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-05",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 5,
+      "proposal_text": "子育て支援センターの駐車場を整備すること。または周辺のコインパーキングの自己負担を軽減するため補助すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-06",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 6,
+      "proposal_text": "医療ケア児の家族におけるレスパイトの機会を拡充する等の支援促進を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-07",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 7,
+      "proposal_text": "担い手確保のため、放課後児童クラブ入室審査選考基準に、保育園や放課後児童クラブ等での勤務を加点対象とすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-08",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 8,
+      "proposal_text": "放課後児童クラブ運営事務に関する保護者負担を軽減するため、制度が最大限活用できるよう委託契約説明時の資料と動画等を公開し、Ｑ＆Ａ等も公開すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-11",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 11,
+      "proposal_text": "いじめ重大事態の調査の際に開催される委員会の委員報酬を、職務時間に応じて支払う時間制報酬とすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-12",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 12,
+      "proposal_text": "意見表明等支援事業の支援員の報酬に関する予算を十分に確保すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-06-13",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 13,
+      "proposal_text": "子どもがいる離婚前の家族に対して市営住宅へ入居を可能とすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-02",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 2,
+      "proposal_text": "視覚障害者の社会参画に向けて情報収集に重要な役割を果たすスマホ教室や同行援護支援の拡充を行うこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-03",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 3,
+      "proposal_text": "物価高騰対策として高齢者のおむつ支給利用券の上限を引き上げること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-04",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 4,
+      "proposal_text": "福祉局職員に向けた障害者理解に向けた研修について、今までの講義型に加えて、障害者が講師として行うワークショップ型のⅮＥＴ研修も採用すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-05",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 5,
+      "proposal_text": "制度の狭間や民間が受入れ困難な事例に対応するための最後の砦となる施設を公的責任で十分な予算を確保した上で設置すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-06",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 6,
+      "proposal_text": "民間で充足されている障害福祉サービスを本市の事業として統合設置する際は不足する相談支援事業所とし、相談支援を受けられず、セルフプランで対応しているサービス利用者を減らすこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-07",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 7,
+      "proposal_text": "高齢者の生活支援体制整備事業のさらなる拡充のため、コーディネーターの増員を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-08",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 8,
+      "proposal_text": "薬剤師を地域における予防医療や健康指導に活用し、市民のセルフケア推進のための啓発事業を協働して実施すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-07-11",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 11,
+      "proposal_text": "地域における小児慢性特定疾病児童等の実情の把握等が努力義務化されたことを踏まえ、医療費の支給や支援事業等の実施を通じて、小児慢性特定疾病児童等及びその家族のニーズを把握すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-02",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 2,
+      "proposal_text": "療育センターの言語聴覚士・理学療法士等の有資格者・専門職の処遇改善すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-03",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 3,
+      "proposal_text": "子育て中の教職員を含めた市の職員も、一般企業の水準に合わせて、現在の未就学児までではなく、子が小学校３年生まで時短勤務を選択できるようにすること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-04",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 4,
+      "proposal_text": "社会人経験者枠のさらなる拡大と、さいたま市非正規公務員に特化した募集枠を社会人経験者枠の中に設置し、職務経験を十分に考慮した人員配置を行うこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-07",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 7,
+      "proposal_text": "社会保険労務士等の専門職を活用し、労働と社会保障に関する学びの機会を設けること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-09",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 9,
+      "proposal_text": "まつり等への補助金は物価高等を十分に考慮すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-10",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 10,
+      "proposal_text": "公共工事設計労務単価の上昇分が、働く者へ分配されていることを確認すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-11",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 11,
+      "proposal_text": "起業家支援として事業資金融資の金利の半分を補助すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-08-13",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 13,
+      "proposal_text": "食肉卸売センターの機能集約に向けて、県との調整を加速し、経営基盤を確実に構築すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-09-02",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 2,
+      "proposal_text": "学びを通じて、人づくり、つながりづくり、地域づくりを実現する社会教育事業の拠点としての公民館事業費を増額すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-09-03",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 3,
+      "proposal_text": "地域で孤立している方や生きづらい方への公民館等の公共施設を利用した居場所づくりを全館で推進すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-09-05",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 5,
+      "proposal_text": "公民館職員に向けて、専門家による体系づけた研修を行うこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-09-06",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 6,
+      "proposal_text": "エレベーター設置が可能な地区公民館の改修を、計画的に早期に完了させること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-10-01",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 1,
+      "proposal_text": "市街化区域内での緑地空間を確保するため、道路、公園、広場等で街路樹、樹木等の植栽を積極的に行うこと。また、安全等に配慮し、高木や根上りに対しては適正に管理すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-10-03",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 3,
+      "proposal_text": "「さいたま水と生きものプラン」において、実地調査と科学的な分析に基づく、生物多様性が豊かな樹林地や草地、湿地等の自然地を、保全が重要なエリアとして地図に明示すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-10-05",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 5,
+      "proposal_text": "担い手のいない農地と空き家(農家住宅)を探している新規就農者をマッチングする仕組みを作ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-10-06",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 6,
+      "proposal_text": "耕作放棄地対策や農地保全のために、市が農地を取得し、市民が農業に触れ合える機会を創出するため、駐車場やトイレ等が整備された市民農園を作り運営すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-11-04",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 4,
+      "proposal_text": "荒川氾濫の予想される地域において電柱に浸水深表示板の設置を進めること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-11-05",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 5,
+      "proposal_text": "要配慮者優先避難所の運営に向けて、当事者の意見を聴取するワークショップを開催すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-11-07",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 7,
+      "proposal_text": "消費生活相談業務に対しては国の動向に関わらず体制の維持に努めつつ、職員配置と予算措置について十分配慮すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-12-01",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 1,
+      "proposal_text": "窓口が無人になる駅について、交通権の保障のためにもモニター付きインターホンに変更するため市独自の補助金を検討すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-12-03",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 3,
+      "proposal_text": "総合評価方式の入札において、地域での継続的なボランティア活動や地域のイベント等の広告協賛・人員の提供などに対して更なる優遇措置を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-12-05",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 5,
+      "proposal_text": "年度当初から工事が着手できるよう施工時期の平準化をさらに推進すること。また、多重請負を回避するため大型工事の分別・工区割りにより、地元企業の受注機会を拡大すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-12-06",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 6,
+      "proposal_text": "難工事完了実績を優遇し、入札不調を減らしていくこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-13-01",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 1,
+      "proposal_text": "本市のジェンダー平等のまちづくりを進めて行くため、人権・男女共同参画課および男女共同参画推進センター（パートナーシップさいたま）の機能強化を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-13-03",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 3,
+      "proposal_text": "男女共同参画推進本部に実務者レベルのプロジェクトを設置し、全庁的・部局横断的に取り組む体制を作ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-13-04",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 4,
+      "proposal_text": "男女共同参画の政策形成と調整機能を有する政策室を設置すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-13-05",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 5,
+      "proposal_text": "大学ダイバーシティ推進センターとの協働・連携をさらに推進し、ジェンダー平等に取り組む人材を計画的に育成すること。また、職員の研修にも活用すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-13-07",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 7,
+      "proposal_text": "ＵＮＨＣＲキャンペーン「難民を支える自治体ネットワーク」参加自治体との交流を深め、同ネットワーク参加も含めて、さいたま市としての難民支援をおこなうこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-14-01",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 1,
+      "proposal_text": "障害者のスポーツ実施率向上のためスポーツ教室の充実とアウトリーチの拡充を図ること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-14-02",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 2,
+      "proposal_text": "さいたまクリテリウムでのタンデムの種目において、視覚障害者だけでなく、広く誰にでも門戸を広げること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-14-03",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 3,
+      "proposal_text": "さいたまマラソンに広く市民が参加できるように制限時間の拡大や距離・種目を多様に展開していくこと。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-14-05",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 5,
+      "proposal_text": "障害や年齢、国籍に関わらず、ともに文化芸術に触れるためのアクセシビリティを向上させること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-15-01",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 1,
+      "proposal_text": "２０１６年３月に策定された「さいたま市公共施設再編検討の進め方 手引き」の全庁的な活用を図り、広く市民の声を反映させながら、事業を進めること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-15-05",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 5,
+      "proposal_text": "市外へ流出する決済手数料をさいたま市みんなのアプリによって確実に回収し、株式会社つなぐにおいては、地域住民の意向を酌んだ事業を展開すること。"
+    },
+    {
+      "fiscal_year": 2025,
+      "source_locator": "2025-15-06",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 6,
+      "proposal_text": "（仮称）身近な公園のルールづくりガイドラインの早急な策定と十分な周知を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-01-01",
+      "major_no": 1,
+      "major_title": "『誰ひとり取り残さない』視点での施策展開",
+      "item_no": 1,
+      "proposal_text": "市の予算全体に対して、子どもの教育に関する予算の占める割合を拡大すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-01-03",
+      "major_no": 1,
+      "major_title": "『誰ひとり取り残さない』視点での施策展開",
+      "item_no": 3,
+      "proposal_text": "市長マニフェスト『誰一人取り残さない、しあわせ実感都市へのシンカ』を活かすために、包括的人権条例もしくはインクルーシブ条例の制定を行なうこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-01-04",
+      "major_no": 1,
+      "major_title": "『誰ひとり取り残さない』視点での施策展開",
+      "item_no": 4,
+      "proposal_text": "視覚障害に特化した相談支援事業所（仙台市を参考に）を設置すること。また、視覚障害者の社会参画に向けて情報収集に重要な役割を果たすスマホ教室の開催回数を増やすこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-01-05",
+      "major_no": 1,
+      "major_title": "『誰ひとり取り残さない』視点での施策展開",
+      "item_no": 5,
+      "proposal_text": "ⅠＣＴリーダー等の地域の人材の活躍による全ての世代におけるデジタルデバイドの解消とネットリテラシー教育の推進を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-02-01",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 1,
+      "proposal_text": "『さいたま市の憲法』となる自治基本条例制定に向け、これまでの取り組みの検証を行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-02-02",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 2,
+      "proposal_text": "あらゆる計画・政策の立案時に、子どもの意見を聴取する仕組みを整え、子どもの意見を反映させること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-02-03",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 3,
+      "proposal_text": "包括的な公文書管理条例制定に向けた、調査を行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-02-04",
+      "major_no": 2,
+      "major_title": "市政の透明化・情報発信強化と市民参画の推進",
+      "item_no": 4,
+      "proposal_text": "ＬＩＮＥや回覧板、郵送など個別に提供する情報に関しては、さいたま市民アプリに集約していくこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-03-01",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 1,
+      "proposal_text": "郵便局証明書等発行事務事業廃止に向け、コンビニ交付や電子申請による交付に移行を促すこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-03-02",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 2,
+      "proposal_text": "スポーツコミッションへの職員派遣の段階的中止とさいたまクリテリウムの在り方を見直すこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-03-03",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 3,
+      "proposal_text": "「さいたまＭＹ ＳＣＨＯＯＬファンド」を、地域や地元企業に周知し、各学校の目標金額や事業内容などを具体的に提示し、協力を得ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-03-04",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 4,
+      "proposal_text": "さいたま市融資制度がより効果的な融資や雇用環境の改善となる制度設計とし、予算規模を見直すこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-03-05",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 5,
+      "proposal_text": "公の施設の経費負担の在り方を検討する際、公共施設等利用料の世代間における不公平感の解消に向けて議論すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-03-06",
+      "major_no": 3,
+      "major_title": "事業等の見直しによる新たな財源確保",
+      "item_no": 6,
+      "proposal_text": "長寿祝金として支給することから転換し、健康寿命延伸策を拡充すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-01",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 1,
+      "proposal_text": "助産師等による思春期保健事業を全校で実施するための予算を確保し、クラス数に応じた加算の上限を設けないこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-02",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 2,
+      "proposal_text": "希望する学校には保健室以外でも必要な数の生理用品を配布できるようにすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-03",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 3,
+      "proposal_text": "学習に遅れのある生徒への支援を強化するため、中学校の放課後チャレンジスクールの活用を学校側から生徒へ積極的に働きかけるとともに、学習の進み具合などチャレンジと情報共有を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-04",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 4,
+      "proposal_text": "スクールソーシャルワーカー・スクールカウンセラーの処遇改善を行い、さらに増員し、児童・生徒一人当たりの対応時間をこれまで以上に増やし、支援を充実させること。また、子どもの個別支援に関しては、多職種・多機関連携を行うにあたりケースを一元的に管理し、子どもたちに同じことを何度もヒアリングしなくてもよいシステムを構築すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-05",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 5,
+      "proposal_text": "小学校低学年の児童に対する学校生活への支援のため、ボランティアを配置する（仙台市のエプロン先生を参考に）モデル校を設置すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-06",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 6,
+      "proposal_text": "いじめ等の子どもの権利侵害となる事案が発生した際、教育委員会から独立した第三者機関が早期に調査を行い、学校及び教育委委員会へ外部の視点から改善勧告ができるようにすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-07",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 7,
+      "proposal_text": "長期欠席者や長期欠席者傾向の子どもたちが健康診断を受けているのかの実態調査を行い、機会が失われている子どもについては、医療機関でも可能とすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-08",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 8,
+      "proposal_text": "学校を休みがちな児童・生徒が給食だけを食べに登校することを可能とすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-09",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 9,
+      "proposal_text": "各校のＳｏｌａるーむの状況を把握し、利用児童が多いところではスクール・アシスタント等を増員し、スタッフが常駐できる体制にすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-10",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 10,
+      "proposal_text": "学びの多様化学校開校後も、Ｇｒоｗｔｈを利用していた児童生徒が居場所を失うことがないよう名称と機能を残すことも含め、十分な説明や配慮を行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-11",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 11,
+      "proposal_text": "学校外の学びの選択肢として、フリースクールや塾やスポーツクラブなどが居場所となっていることを踏まえ、利用者の経済的負担を軽減するためにバウチャー制度を導入すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-12",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 12,
+      "proposal_text": "下校児童・生徒の熱中症対策としてネッククーラー等を凍らせるための冷凍庫を設置すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-15",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 15,
+      "proposal_text": "子どもたちの健康を守るため、シックスクール対策を計画としてとりまとめること。特に香害など化学物質過敏症の子どもたちへの配慮や家庭への注意喚起を行い、化学物質による健康被害を未然に防ぐための啓発を行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-16",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 16,
+      "proposal_text": "外国ルーツの子どもに対する支援として入学前のプレスクール的な取り組みを実施すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-04-17",
+      "major_no": 4,
+      "major_title": "すべての子どもに学びと成長の機会充実",
+      "item_no": 17,
+      "proposal_text": "特別支援学校の整備に当たっては、地域と協働しながら進めること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-05-01",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 1,
+      "proposal_text": "プレーパークの増設に向けて、プレーワーカーの育成を加速し、有償ボランティアとするため処遇改善を進めること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-05-02",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 2,
+      "proposal_text": "望まない妊娠等の相談窓口を市内全ての学校施設や公共施設、民間施設にも協力いただき女子トイレの個室内に掲示すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-05-03",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 3,
+      "proposal_text": "家族、身近な人、大切な人を死別で失い、悲しみを抱えている子どもたちのグリーフケアを実施すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-05-04",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 4,
+      "proposal_text": "子ども食堂やフードパントリーなど子どもの居場所を提供する活動を持続可能な運営できるよう活動支援を行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-05-05",
+      "major_no": 5,
+      "major_title": "社会全体で子どもと若者を支えるまち",
+      "item_no": 5,
+      "proposal_text": "昼夜を問わず、行き場のない子ども・若者を安全に受け入れる居場所を創出すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-01",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 1,
+      "proposal_text": "産後ケア事業全体予算を増額し、子育て楽しいさいたま市としての環境整備をさらに進めること。また、産後ケア施設整備費の補助率を高め、双子加算の増額や宿泊及びデイサービス補助額を段階的に引き上げ、事業者の赤字を解消し、持続可能な産後ケア事業とすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-02",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 2,
+      "proposal_text": "外国籍の妊産婦に産前産後の支援が行き届くよう多言語対応を含めた取り組みの充実を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-03",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 3,
+      "proposal_text": "保育士の宿舎借り上げ事業の人数の上限を撤廃し、期間も延長することで、長期的な定着を支援すること。また、幼稚園教諭や保育園勤務以外の保育士へも拡大すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-04",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 4,
+      "proposal_text": "多胎児家庭外出支援事業における利用年齢の引き上げと上限の回数を拡大すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-05",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 5,
+      "proposal_text": "多胎ファミリー交流会において、妊娠・出産・育児における困難感を減少するために、ピアサポーターの増員を図ること。また、同交流会のオンライン配信に関しては双方向のサポート体制とすることで質を高めること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-06",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 6,
+      "proposal_text": "民設放課後児童クラブの施設補助の立地等の条件については、本市の事情を十分に配慮し、緩和すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-06-07",
+      "major_no": 6,
+      "major_title": "子育て世代に行き届く支援体制の構築",
+      "item_no": 7,
+      "proposal_text": "ファミリーサポート制度を希望者には１８歳まで拡大すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-01",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 1,
+      "proposal_text": "医療的ケア児訪問型レスパイト事業や難病患者在宅レスパイト事業（平戸市や東京都を参考に）と合わせて、交通費・駐車場代金の加算制度創設すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-02",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 2,
+      "proposal_text": "医療的ケア児を抱える家族のためのレスパイト施設を増やすこと。また、市立病院で受け入れ可能な環境を整備すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-03",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 3,
+      "proposal_text": "ハイケアを必要とする医療的ケア者対応のグループホームや生活介護事業所を計画的に設置すること。また、 医療的ケア者を受け入れ可能な訪問介護事業所を育成し、補助制度を創設すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-04",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 4,
+      "proposal_text": "市が指定管理を行う障害福祉サービスは、国の制度では対応しきれない事業や民間の参入が全く見込めない事業に限定すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-05",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 5,
+      "proposal_text": "児童・障害福祉施設等の労務環境の向上や処遇改善を図るため、労務監査を社会保険労務士等の専門的な知見を活用して実施すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-06",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 6,
+      "proposal_text": "障害当事者が会議等へ参加する場合、オンライン参加が常時選択できる体制とすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-08",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 8,
+      "proposal_text": "障害児の福祉支援サービス等の更新頻度を状況に応じて設定し、オンライン等で申請手続きの負担軽減を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-09",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 9,
+      "proposal_text": "障害児を持つ親の離婚率の調査をすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-10",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 10,
+      "proposal_text": "男性ＨＰＶワクチン接種の助成をするよう本市として取り組むこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-11",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 11,
+      "proposal_text": "介護者カフェを増やしていくために、運営団体に対する支援の充実を図り、市内各地に介護者が気軽に集える環境を整備すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-07-12",
+      "major_no": 7,
+      "major_title": "すべての市民の健康増進と福祉向上",
+      "item_no": 12,
+      "proposal_text": "物価高騰対策として重度要介護高齢者紙おむつ等支給事業における支給利用券の上限を暫定的に引き上げること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-01",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 1,
+      "proposal_text": "市内企業での女性の正規職員の求人を増やすよう市からも働きかけを行い、定住促進策として女性の就労の場を市内に確保すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-02",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 2,
+      "proposal_text": "会計年度任用職員が安心して働き、能力を発揮できる人事制度とするため、意識調査と意見収集を行い、制度の改善につなげること。また、会計年度任用職員はその多くが女性であり、市内在住の方が過半数を占めることから給与体系の大幅見直しをすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-03",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 3,
+      "proposal_text": "精神障害者の雇用時間が週に１０時間となったため、障害者等のための超短時間雇用を周知し、市内民間企業においてモデル的に事業を実施するための支援を行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-04",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 4,
+      "proposal_text": "職員採用における社会人経験者枠の大幅な拡大と、その周知徹底を本市の非正規職員にも行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-05",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 5,
+      "proposal_text": "公共工事設計労務単価の上昇分が、働く者へ分配されていることを確認することを含め、公契約条例を制定すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-06",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 6,
+      "proposal_text": "公共施設で販売する民間事業者の決済に関しては、すべてさいコインが使用できるようにすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-07",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 7,
+      "proposal_text": "県や関係機関と連携して、担い手のいない農地と空き家(農家住宅)を探している新規就農者とのマッチングを積極的に後押しする第三者経営継承の仕組みを構築すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-08",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 8,
+      "proposal_text": "武蔵一宮氷川神社を核とした外国人観光客の誘致を積極的に行い、市内の周遊へとつなげること。 また、観光資源として、地域資源の魅力向上を図るためハード面の整備を積極的に行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-08-09",
+      "major_no": 8,
+      "major_title": "持続可能な働き方と経済成長の実現",
+      "item_no": 9,
+      "proposal_text": "体験型観光メニューを整備し、国内外の民間事業者へ情報提供すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-09-01",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 1,
+      "proposal_text": "学びを通じて、人づくり、つながりづくり、地域づくりを実現する社会教育事業の拠点として十分に機能させるため公民館事業費を増額すること。また、公民館の社会教育の充実のため、社会教育主事任用資格や社会教育士などの専門資格を持つ職員の割合を早急に３５％以上とすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-09-03",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 3,
+      "proposal_text": "市内を東西南北の４地域程度に分け、誰でも参加でき、孤立する傾向にある人々が相談・利用できる地域の居場所となる地域拠点（プラットフォーム）を公民館等に整備すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-09-04",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 4,
+      "proposal_text": "エレベーター設置可能な公民館の改修を早期に実現させ、改修工事の計画を市民に広く周知すること。また、公民館の体育館へエアコンを設置すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-09-05",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 5,
+      "proposal_text": "特別支援学校高等部卒業後の支援教育専門学校や支援大学校への進学支援、訪問カレッジの周知や運営支援を行い重度障害者のための生涯学習の場を整備すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-09-06",
+      "major_no": 9,
+      "major_title": "『人生１００年時代』の学びとコミュニティーの充実",
+      "item_no": 6,
+      "proposal_text": "資材価格等の高騰を反映し、自治会館の建設、増改築修繕に対する補助金の基準額を改定すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-10-01",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 1,
+      "proposal_text": "優良農地保全のための新たな規制の導入と保障を行うことで、農地転用を抑制すること。農地改良等を行った際の継続期間の具体的な設定と本来の目的と異なる状態となったときの罰則等の導入すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-10-02",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 2,
+      "proposal_text": "環境保全型農業で市内で生産された農作物を保育園、学校、病院などの施設給食で購入し、生産者と消費者が協力して地域の農業を支える地域支援型農業の仕組みを作ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-10-03",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 3,
+      "proposal_text": "市街化調整区域における都市計画法、農地法違反の案件について、期限を区切って厳正に対処し、違反件数の減少に努めること。また、不動産業界や建設業界などへ積極的に働きかけ、違反している事業者との取引を行わないよう働きかけること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-10-04",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 4,
+      "proposal_text": "無電柱化推進計画の整備方針に、基本方針３の「優れた都市景観の形成や観光振興の向上」が抜けており、早期に整備方針に反映させた改定を行うこと。また、「優れた都市景観の形成」については、街路樹などの植栽を明記し、無電柱化工事による街路樹・植栽の復元を行い、緑の減少を食い止め、景観形成や気候変動対策にも寄与する計画を地域住民と共に考え、管理の適正化を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-10-05",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 5,
+      "proposal_text": "さいたま市発注の公共工事等において地域性種苗を活用するため、農福連携を図るなど、その担い手を育成すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-10-06",
+      "major_no": 10,
+      "major_title": "脱炭素・循環型社会とみどり豊かな都市の創造",
+      "item_no": 6,
+      "proposal_text": "騒音に対する調査方法は住民の生活に図った方法で実施し、参考値として把握すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-11-01",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 1,
+      "proposal_text": "要配慮者優先避難所の運営に向けて、当事者の参加する訓練を全区で開催すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-11-02",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 2,
+      "proposal_text": "聴覚障害者が避難する要配慮者優先避難所を、市内を東西南北の４地域程度に分け設置するため、次年度に１拠点指定し、周知すること。また、手話通訳者を配置するために関係団体と協定を締結すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-11-03",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 3,
+      "proposal_text": "避難所運営訓練に中高生の積極的な参加を促し、地域の防災力強化を図ること。また、ジェンダー視点をいれた防災教育を積極的に推進すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-11-04",
+      "major_no": 11,
+      "major_title": "命と暮らしを守る防災力と地域安全の向上",
+      "item_no": 4,
+      "proposal_text": "消費生活相談業務に対しては国の動向に関わらず体制の維持に努めつつ、十分な職員配置と予算を確保し、市内の消費者団体と連携を図って、市民の消費者被害防止に積極的に取り組むこと。また、消費者被害をなくすために、全中学生、高校生を対象に定期的な注意喚起と消費者教育に積極的に取り組むこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-02",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 2,
+      "proposal_text": "市街化調整区域における資材置き場等の設置に関して許可制度を含む規制条例の導入と法令順守を徹底させるための市役所内の体制強化を図ること。また、雑木林等の緑地の喪失を回避するため山林等のヤード化を抑制すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-03",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 3,
+      "proposal_text": "地下鉄７号線のＢ/Ｃをさらに向上させるため、中間駅周辺地区に交流人口・乗降客数を確保するための緑を活かした拠点施設を整備することを有識者会議の中でも議題とすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-04",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 4,
+      "proposal_text": "窓口が無人になる駅について、交通権の保障のためにもモニター付きインターホンに変更できるよう市とＪＲで協議すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-05",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 5,
+      "proposal_text": "年度当初における埼玉県と同時期の早期発注とし、施工時期の平準化をさらに推進し、入札不調を減らすこと。また、大型工事の分割・工区割りによる地元企業の受注機会の拡大と育成を図ること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-06",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 6,
+      "proposal_text": "田島産業集積拠点の整備にあたっては、西浦和駅へのアクセス道路や通学路、公園や下水道等の生活環境の整備、緑地の保全、災害対策、駅西側広場の整備といった、まちづくりの視点を踏まえること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-07",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 7,
+      "proposal_text": "さいたま市食肉中央卸売市場・と畜場の移転と「道の駅」との一体的な整備については、周辺の自然環境や住環境等へ十分配慮し、近隣住民に対して丁寧に説明をしながら進めること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-12-08",
+      "major_no": 12,
+      "major_title": "地域を支える交通体系の構築と都市基盤整備",
+      "item_no": 8,
+      "proposal_text": "不法投棄や違反するヤードへの持ち込みをさせないためにも、発生材処分費を適切に見積もること。また、再生砕石が過剰にストックされ、受け入れ価格が高騰していることから、公共工事において再生砕石を積極的に活用すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-13-02",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 2,
+      "proposal_text": "ジェンダー主流化を推進し、市のあらゆる施策をジェンダーの視点から点検すること。また、職員によるジェンダーバイアスやジェンダーギャップ解消の取り組みに着手し、行政運営を改善すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-13-03",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 3,
+      "proposal_text": "男女共同参画の視点から考える表現ガイドラインをＨＰ上で公開すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-13-04",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 4,
+      "proposal_text": "本市の女性職員を一部の部局に集中させずバランスよく配置し、キャリア形成を可能とすること。また、管理職における、政策局（都市戦略や総務局）などの女性管理職をパリテにすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-13-05",
+      "major_no": 13,
+      "major_title": "多様な価値観と人権尊重・ジェンダー平等の推進",
+      "item_no": 5,
+      "proposal_text": "「難民を支える自治体ネットワーク」参加自治体との交流を深め、同ネットワーク参加も含めて、さいたま市としての難民支援を強化すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-14-01",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 1,
+      "proposal_text": "障害者のスポーツ実施率をもとに、障害の有無や年齢に関係なく楽しめるユニバーサルスポーツを推進し、日頃からスポーツができる機会を増やすこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-14-02",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 2,
+      "proposal_text": "さいたまマラソンに広く市民が参加できるように制限時間の拡大やハーフマラソンを開催していくこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-14-03",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 3,
+      "proposal_text": "スポーツシューレ推進施設の設計にあたっては、地元に愛される施設となるように工夫すること。また、宿泊棟が設けられないことから、民間力を活用した新たな宿泊可能となる施設の検討を進めること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-14-04",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 4,
+      "proposal_text": "新たなレジャープール整備にあたっては、夏季以外でも大人から子どもまで家族連れでも楽しめる複合的な施設とすること。（例えば夏季以外はスケートボードなどのアーバンスポーツ場やナイトシアター、宿泊所、ビアガーデン、カフェ、レストラン、バーベキュー場）。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-14-05",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 5,
+      "proposal_text": "文化都市創造に向けた拠点整備をすること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-14-06",
+      "major_no": 14,
+      "major_title": "誰もが健康で心豊かにスポーツ・文化にふれあえるまち",
+      "item_no": 6,
+      "proposal_text": "学校体育施設開放運営委員会の団体名や報告書を見える化し、地域に開かれたスポーツを行うこと。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-15-01",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 1,
+      "proposal_text": "絶滅を回避するために、在来ほたるの自生地を確保し、市民協働で保全すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-15-02",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 2,
+      "proposal_text": "市長部局での社会教育士の取得を促し、ファシリテーターができる人材を外部委託ではなく、創出し確保すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-15-03",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 3,
+      "proposal_text": "市・県、市内の薬学部を持つ大学、企業、薬剤師会と連携し、モバイルファーマシーの導入に向け、連携すること。"
+    },
+    {
+      "fiscal_year": 2026,
+      "source_locator": "2026-15-04",
+      "major_no": 15,
+      "major_title": "市民協働・公民学連携による地域課題の解決",
+      "item_no": 4,
+      "proposal_text": "株式会社つなぐの具体的な地域支援事業を早急に示すこと。岩槻ＷＡＴＳＵ商店会を参考に、市民がイベントを開催できるよう備品の低価格での貸し出し等を行うこと。"
+    }
+  ]
+}
