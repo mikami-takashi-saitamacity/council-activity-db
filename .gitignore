@@ -1,3 +1,1 @@
-__pycache__/
-*.pyc
-/_budget_sources/
+__pycache__/\n*.pyc\n/_budget_sources/\n/_budget_review/\n
