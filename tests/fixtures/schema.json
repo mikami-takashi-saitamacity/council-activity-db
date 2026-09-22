@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["date", "question_topic", "result_level", "source_type", "source_status", "tags"],
+    "properties": {
+      "id": { "type": "string", "pattern": "^mikami-[0-9]{6}$" },
+      "date": { "type": "string", "format": "date" },
+      "meeting_type": { "type": "string", "enum": ["本会議", "委員会", "特別委員会", "予算提案"] },
+      "session_name": { "type": "string" },
+      "question_topic": { "type": "string" },
+      "tags": {
+        "type": "array",
+        "items": { "type": "string", "enum": ["DX", "教育"] },
+        "minItems": 1
+      },
+      "result_level": {
+        "type": "string",
+        "enum": ["実施済", "改善・対応予定", "検討を引き出した", "研究段階", "提案のみ", "適正確認"]
+      },
+      "source_type": { "type": "string", "enum": ["議事録", "予算提案"] },
+      "source_status": { "type": "string", "enum": ["official", "provisional"] },
+      "source_locator": { "type": "string" },
+      "fiscal_year": { "type": "integer" },
+      "source_url": { "type": "string" }
+    }
+  }
+}

@@ -16,3 +16,9 @@ jobs:
           python-version: '3.12'
       - run: pip install jsonschema
       - run: python .github/validate.py
+      # v1.2.0 手順11完了後（既存324件へのid・source_locator・fiscal_year付与が
+      # 終わり次第）、このstepのコメントを外して必須化する。現時点では既存データが
+      # 未整備のためFAILするのが正常。fixtureでの機能確認は tests/test_validate.py。
+      # - run: python .github/validate.py --require-budget-v12-fields
+      - run: python scripts/build_stats.py --check
+      - run: python -m unittest discover -s tests -v
