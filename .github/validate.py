@@ -39,7 +39,7 @@ RETIRED_IDS = ROOT / "retired_ids.json"
 
 ID_PATTERN = re.compile(r"^mikami-[0-9]{6}$")
 BUDGET_SOURCE_TYPE = "予算提案"
-RETIRED_REASONS = {"merged", "split", "deleted"}
+RETIRED_ENTRY_REQUIRED_KEYS = ("id", "retired_at", "reason")
 
 
 def check_schema(data: list[dict], schema: dict, errors: list[str]) -> None:
@@ -90,24 +90,42 @@ def check_active_ids(data: list[dict], errors: list[str]) -> list[str]:
 
 
 def load_retired_ids(errors: list[str], retired_ids_path: pathlib.Path = RETIRED_IDS) -> list[dict]:
+    # retired_ids.json は今後必須ファイル（使用済みIDを再利用しないための正本）。
+    # 存在しない・配列でない・エントリが必須項目を満たさない場合はFAILする。
     if not retired_ids_path.exists():
+        errors.append(f"[retired_ids] {retired_ids_path} が存在しません（retired_ids.json は必須ファイルです）")
         return []
-    retired = json.loads(retired_ids_path.read_text(encoding="utf-8"))
+
+    try:
+        retired = json.loads(retired_ids_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        errors.append(f"[retired_ids] {retired_ids_path.name} のJSONが不正です: {e}")
+        return []
+
     if not isinstance(retired, list):
         errors.append(f"[retired_ids] {retired_ids_path.name} はJSON配列である必要があります")
         return []
+
     for i, entry in enumerate(retired):
-        for key in ("id", "retired_at", "reason"):
+        if not isinstance(entry, dict):
+            errors.append(f"[retired_ids] {i}件目: entryはobjectである必要があります")
+            continue
+
+        for key in RETIRED_ENTRY_REQUIRED_KEYS:
             if key not in entry:
                 errors.append(f"[retired_ids] {i}件目: 必須キー {key!r} がありません")
+                continue
+            value = entry[key]
+            if value is None:
+                errors.append(f"[retired_ids] {i}件目: {key} が null です（非空文字列が必要）")
+                continue
+            if not isinstance(value, str) or value == "":
+                errors.append(f"[retired_ids] {i}件目: {key} は空でない文字列である必要があります → {value!r}")
+
         rid = entry.get("id")
-        if rid and not ID_PATTERN.match(rid):
+        if isinstance(rid, str) and rid and not ID_PATTERN.match(rid):
             errors.append(f"[retired_ids] {i}件目: id がパターンに適合しない → {rid!r}")
-        reason = entry.get("reason")
-        if reason and reason not in RETIRED_REASONS:
-            errors.append(
-                f"[retired_ids] {i}件目: reason は {sorted(RETIRED_REASONS)} のいずれかである必要があります → {reason!r}"
-            )
+
     return retired
 
 

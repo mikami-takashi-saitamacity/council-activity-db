@@ -64,32 +64,46 @@ def render_stats_json(stats: dict) -> str:
 
 
 def render_readme_block(stats: dict) -> str:
+    # schema enum → 集計辞書 → stats.json → README生成ブロック、の一方向。
+    # 分類名の一覧をここで別に固定記述しない（compute_stats が schema enum から
+    # 作った辞書をそのまま順に描画するだけ）。schema に分類が増えれば、この関数を
+    # 直さなくても stats.json・README の両方に自動的に反映される。
     total = stats["total"]
-    st = stats["by_source_type"]
-    rl = stats["by_result_level"]
+    st_text = "／".join(f"{name}{count}件" for name, count in stats["by_source_type"].items())
+    rl_text = "／".join(f"{name}{count}件" for name, count in stats["by_result_level"].items())
     lines = [
         BLOCK_START,
         f"- 収録件数：{total}件（定例会ごとに追加予定）",
-        f"- 種別：議事録（本会議・委員会での質問）{st.get('議事録', 0)}件／会派予算提案 {st.get('予算提案', 0)}件",
+        f"- 種別：{st_text}",
         "- 分野タグ：15分類（複数付与あり）",
-        (
-            "- 対応状況：実施済 {実施済}件／改善・対応予定 {改善・対応予定}件／"
-            "検討を引き出した {検討を引き出した}件／研究段階 {研究段階}件／"
-            "提案のみ {提案のみ}件／適正確認 {適正確認}件"
-        ).format(**rl),
+        f"- 対応状況：{rl_text}",
         BLOCK_END,
     ]
     return "\n".join(lines)
 
 
+class ReadmeMarkerError(ValueError):
+    """README.md の stats:start/end マーカーが1個ずつ・正順で存在しない場合。"""
+
+
 def apply_readme_block(readme_text: str, block: str) -> str:
+    start_count = readme_text.count(BLOCK_START)
+    end_count = readme_text.count(BLOCK_END)
+
+    if start_count == 0:
+        raise ReadmeMarkerError(f"README.md に {BLOCK_START} が見つかりません。生成範囲が特定できないため書き換えません。")
+    if end_count == 0:
+        raise ReadmeMarkerError(f"README.md に {BLOCK_END} が見つかりません。生成範囲が特定できないため書き換えません。")
+    if start_count > 1:
+        raise ReadmeMarkerError(f"README.md に {BLOCK_START} が{start_count}個あります（1個である必要があります）。書き換えません。")
+    if end_count > 1:
+        raise ReadmeMarkerError(f"README.md に {BLOCK_END} が{end_count}個あります（1個である必要があります）。書き換えません。")
+
     start = readme_text.find(BLOCK_START)
     end = readme_text.find(BLOCK_END)
-    if start == -1 or end == -1:
-        raise ValueError(
-            f"README.md に {BLOCK_START} / {BLOCK_END} のマーカーが見つかりません。"
-            "生成範囲が特定できないため、勝手に書き換えません。"
-        )
+    if end < start:
+        raise ReadmeMarkerError(f"README.md で {BLOCK_END} が {BLOCK_START} より前にあります。書き換えません。")
+
     end += len(BLOCK_END)
     return readme_text[:start] + block + readme_text[end:]
 
@@ -105,7 +119,11 @@ def main() -> int:
     readme_block = render_readme_block(stats)
 
     readme_text = README_PATH.read_text(encoding="utf-8")
-    new_readme_text = apply_readme_block(readme_text, readme_block)
+    try:
+        new_readme_text = apply_readme_block(readme_text, readme_block)
+    except ReadmeMarkerError as e:
+        print(f"NG: {e}")
+        return 1
 
     if args.check:
         problems = []
