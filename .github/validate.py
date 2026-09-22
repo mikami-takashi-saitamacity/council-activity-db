@@ -129,11 +129,16 @@ def load_retired_ids(errors: list[str], retired_ids_path: pathlib.Path = RETIRED
     return retired
 
 
-def check_retired_ids(retired: list[dict], active_ids: list[str], errors: list[str]) -> None:
+def check_retired_ids(retired: list, active_ids: list[str], errors: list[str]) -> None:
+    # entryの型異常（object以外、idがstring以外等）は load_retired_ids が既にエラー
+    # として報告済み。ここでは重複検査に安全に使える（object かつ id が非空string）
+    # entryだけを対象にする。不正entryをここで例外にせず、検査対象から静かに外す。
     seen: dict[str, int] = {}
     for i, entry in enumerate(retired):
+        if not isinstance(entry, dict):
+            continue
         rid = entry.get("id")
-        if not rid:
+        if not isinstance(rid, str) or not rid:
             continue
         if rid in seen:
             errors.append(f"[retired_ids重複] {i}件目と{seen[rid]}件目が同じ id → {rid!r}")

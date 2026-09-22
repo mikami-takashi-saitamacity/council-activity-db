@@ -204,6 +204,33 @@ class RetiredIdsFileValidationTest(ValidateHarness):
         result = self._run([make_record()], retired=retired)
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
+    def test_null_entry_fails_without_traceback(self) -> None:
+        # retired_ids.json = [null] は以前 AttributeError で例外終了していた。
+        # 検証エラーとして正常に非0終了し、tracebackを出さないことを確認する。
+        result = self._run([make_record()], retired_json_text=json.dumps([None]))
+        self.assertNotEqual(result.returncode, 0)
+        self.assertNotIn("Traceback", result.stdout)
+        self.assertNotIn("Traceback", result.stderr)
+        self.assertNotIn("AttributeError", result.stdout)
+        self.assertNotIn("AttributeError", result.stderr)
+        self.assertEqual(result.stderr, "")
+        self.assertIn("[retired_ids]", result.stdout)
+        self.assertIn("entryはobjectである必要があります", result.stdout)
+
+    def test_id_as_list_fails_without_traceback(self) -> None:
+        # id が list（非string）だと以前 TypeError（unhashable type）で例外終了していた。
+        # 検証エラーとして正常に非0終了し、tracebackを出さないことを確認する。
+        retired = [{"id": ["mikami-000001"], "retired_at": "2026-09-22", "reason": "deleted"}]
+        result = self._run([make_record()], retired_json_text=json.dumps(retired))
+        self.assertNotEqual(result.returncode, 0)
+        self.assertNotIn("Traceback", result.stdout)
+        self.assertNotIn("Traceback", result.stderr)
+        self.assertNotIn("TypeError", result.stdout)
+        self.assertNotIn("TypeError", result.stderr)
+        self.assertEqual(result.stderr, "")
+        self.assertIn("[retired_ids]", result.stdout)
+        self.assertIn("id は空でない文字列である必要があります", result.stdout)
+
 
 class StrictBudgetModeTest(ValidateHarness):
     def _budget_record(self, **overrides) -> dict:
