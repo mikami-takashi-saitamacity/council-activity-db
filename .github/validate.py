@@ -9,17 +9,19 @@ push のたびに走らせて、壊れたら止める。
 ★検査した件数と項目数（カナリア）を必ず表示する。0件なら検査そのものが
   空振りしているので、「エラー0件」を信用してはいけない。
 
-## strict budget mode（v1.2.0 手順11完了後に必須化する）
+## strict budget mode（v1.2.0 手順11A完了後に必須化する）
 
 会派予算提案（source_type == "予算提案"）は、仕様上いずれ id / source_locator /
-fiscal_year を必須とする。ただし手順7〜11（既存324件へのID・source_locator・
-fiscal_year付与）が終わるまでは、既存データがこの条件を満たさない。
+fiscal_year を必須とする。ただし手順11A（予算提案625件へのID付与。source_locator・
+fiscal_yearは手順10で既に付与済み）が終わるまでは、既存データがこの条件を満たさない。
 そのため通常モードではこの3項目を必須にせず、明示的なフラグでのみ検査する。
 
     python .github/validate.py --require-budget-v12-fields
 
-現在のmainではこのフラグを付けるとFAILするのが正常（既存324件が未整備なため）。
-手順11が完了したら、このフラグをworkflow側の必須チェックに追加する。
+手順11Aが完了した現在のmainでは、このフラグを付けてもPASSするのが正常。
+このフラグをworkflow側の必須チェックに追加するかどうかは別途判断する
+（本チェックの検査範囲は id / source_locator / fiscal_year の3項目のみで、
+手順11B・11C〔legacy URL解決のID参照切替・date最終値化〕は対象外）。
 """
 from __future__ import annotations
 
@@ -192,7 +194,7 @@ def main() -> int:
     parser.add_argument(
         "--require-budget-v12-fields",
         action="store_true",
-        help="strict mode: 予算提案全件に id / source_locator / fiscal_year を必須化する（v1.2.0手順11完了後にworkflowへ追加）",
+        help="strict mode: 予算提案全件に id / source_locator / fiscal_year を必須化する（v1.2.0手順11A完了後はPASSする）",
     )
     parser.add_argument("--data", type=pathlib.Path, default=DATA, help="テスト用: activity_archive.json の差し替え")
     parser.add_argument("--schema", type=pathlib.Path, default=SCHEMA, help="テスト用: schema.json の差し替え")
