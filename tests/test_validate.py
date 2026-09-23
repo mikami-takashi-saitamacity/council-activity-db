@@ -306,17 +306,27 @@ class StrictBudgetModeTest(ValidateHarness):
 
 
 class RealDataStrictModeTest(unittest.TestCase):
-    """現在の実データに strict mode をかけると FAIL するのが正常（手順7〜11未実施のため）。"""
+    """現在の実データ（activity_archive.json）に対する意図的な integration test。
 
-    def test_current_main_fails_strict_mode(self) -> None:
+    strict mode（--require-budget-v12-fields）が検査するのは check_strict_budget_fields
+    が扱う id / source_locator / fiscal_year の3項目のみで、legacy4項目・
+    legacy_targets.json の target_id（11B）・date の最終値化（11C）は対象外。
+
+    手順11A（予算提案625件への正式ID付与）が完了し、この3項目が625件すべてで
+    満たされたため、現行mainはstrict modeをPASSするのが正常な状態になった。
+    11B・11Cはstrict modeの検査対象に含まれないため、このテストの期待値は
+    11B・11Cの完了有無に左右されない。将来、この3項目のいずれかを満たさない
+    データがmainへ混入した場合にのみ、このテストは再びFAILする。
+    """
+
+    def test_current_main_passes_strict_mode(self) -> None:
         result = subprocess.run(
             [sys.executable, str(VALIDATE_PY), "--require-budget-v12-fields"],
             cwd=ROOT,
             capture_output=True,
             text=True,
         )
-        self.assertNotEqual(result.returncode, 0)
-        self.assertIn("[strict予算提案]", result.stdout)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
     def test_current_main_passes_normal_mode(self) -> None:
         result = subprocess.run(

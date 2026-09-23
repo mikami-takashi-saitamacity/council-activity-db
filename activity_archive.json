@@ -60,6 +60,7 @@
     "follow_up": ""
   },
   {
+    "id": "mikami-000001",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -82,6 +83,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000002",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -105,6 +107,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000003",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -128,6 +131,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000004",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -150,6 +154,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000005",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -173,6 +178,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000006",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -195,6 +201,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000007",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -217,6 +224,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000008",
     "date": "2026-01-01",
     "session_name": "2026年度予算提案",
     "meeting_type": "予算提案",
@@ -1128,6 +1136,7 @@
     "follow_up": ""
   },
   {
+    "id": "mikami-000009",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1149,6 +1158,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000010",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1171,6 +1181,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000011",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1193,6 +1204,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000012",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1215,6 +1227,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000013",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1237,6 +1250,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000014",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1259,6 +1273,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000015",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1281,6 +1296,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000016",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1302,6 +1318,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000017",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1324,6 +1341,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000018",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1346,6 +1364,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000019",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1368,6 +1387,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000020",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1389,6 +1409,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000021",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1411,6 +1432,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000022",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1433,6 +1455,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000023",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1455,6 +1478,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000024",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1477,6 +1501,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000025",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1499,6 +1524,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000026",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1520,6 +1546,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000027",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1541,6 +1568,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000028",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1562,6 +1590,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000029",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1584,6 +1613,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000030",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1606,6 +1636,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000031",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1628,6 +1659,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000032",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1649,6 +1681,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000033",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1671,6 +1704,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000034",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1693,6 +1727,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000035",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1715,6 +1750,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000036",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1737,6 +1773,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000037",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1758,6 +1795,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000038",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1780,6 +1818,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000039",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1802,6 +1841,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000040",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1824,6 +1864,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000041",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1846,6 +1887,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000042",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1868,6 +1910,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000043",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1890,6 +1933,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000044",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1911,6 +1955,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000045",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1932,6 +1977,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000046",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1953,6 +1999,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000047",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1974,6 +2021,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000048",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -1996,6 +2044,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000049",
     "date": "2025-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2439,6 +2488,7 @@
     "follow_up": ""
   },
   {
+    "id": "mikami-000050",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2460,6 +2510,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000051",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2482,6 +2533,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000052",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2504,6 +2556,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000053",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2526,6 +2579,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000054",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2548,6 +2602,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000055",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2569,6 +2624,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000056",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2591,6 +2647,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000057",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2613,6 +2670,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000058",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2635,6 +2693,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000059",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2657,6 +2716,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000060",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2678,6 +2738,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000061",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2700,6 +2761,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000062",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2723,6 +2785,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000063",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2745,6 +2808,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000064",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2767,6 +2831,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000065",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2789,6 +2854,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000066",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2810,6 +2876,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000067",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2831,6 +2898,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000068",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2852,6 +2920,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000069",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2874,6 +2943,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000070",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2896,6 +2966,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000071",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2917,6 +2988,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000072",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2939,6 +3011,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000073",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2961,6 +3034,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000074",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -2983,6 +3057,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000075",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3005,6 +3080,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000076",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3027,6 +3103,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000077",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3048,6 +3125,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000078",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3069,6 +3147,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000079",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3090,6 +3169,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000080",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3111,6 +3191,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000081",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3133,6 +3214,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000082",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3154,6 +3236,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000083",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3176,6 +3259,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000084",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3198,6 +3282,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000085",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3219,6 +3304,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000086",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3240,6 +3326,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000087",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3261,6 +3348,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000088",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3282,6 +3370,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000089",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3304,6 +3393,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000090",
     "date": "2024-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3425,6 +3515,7 @@
     "follow_up": ""
   },
   {
+    "id": "mikami-000091",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3447,6 +3538,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000092",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3469,6 +3561,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000093",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3491,6 +3584,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000094",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3513,6 +3607,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000095",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3535,6 +3630,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000096",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3557,6 +3653,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000097",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3579,6 +3676,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000098",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3601,6 +3699,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000099",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3623,6 +3722,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000100",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3644,6 +3744,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000101",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3666,6 +3767,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000102",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3689,6 +3791,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000103",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3711,6 +3814,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000104",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3733,6 +3837,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000105",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3755,6 +3860,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000106",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3777,6 +3883,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000107",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3799,6 +3906,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000108",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3822,6 +3930,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000109",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3845,6 +3954,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000110",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3868,6 +3978,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000111",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3891,6 +4002,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000112",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3913,6 +4025,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000113",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3935,6 +4048,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000114",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3957,6 +4071,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000115",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -3979,6 +4094,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000116",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4001,6 +4117,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000117",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4022,6 +4139,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000118",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4043,6 +4161,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000119",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4064,6 +4183,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000120",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4086,6 +4206,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000121",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4107,6 +4228,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000122",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4128,6 +4250,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000123",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4149,6 +4272,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000124",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4170,6 +4294,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000125",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4191,6 +4316,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000126",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4214,6 +4340,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000127",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4236,6 +4363,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000128",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4258,6 +4386,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000129",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4279,6 +4408,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000130",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4302,6 +4432,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000131",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4323,6 +4454,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000132",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4344,6 +4476,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000133",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4365,6 +4498,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000134",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4387,6 +4521,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000135",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4409,6 +4544,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000136",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4431,6 +4567,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000137",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4453,6 +4590,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000138",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4475,6 +4613,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000139",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4497,6 +4636,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000140",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4519,6 +4659,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000141",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4540,6 +4681,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000142",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4562,6 +4704,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000143",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4584,6 +4727,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000144",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4605,6 +4749,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000145",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4626,6 +4771,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000146",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4648,6 +4794,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000147",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4670,6 +4817,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000148",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4692,6 +4840,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000149",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4714,6 +4863,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000150",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4736,6 +4886,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000151",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4758,6 +4909,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000152",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4780,6 +4932,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000153",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4801,6 +4954,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000154",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4823,6 +4977,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000155",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4845,6 +5000,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000156",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4866,6 +5022,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000157",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4888,6 +5045,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000158",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4909,6 +5067,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000159",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4930,6 +5089,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000160",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4952,6 +5112,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000161",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4974,6 +5135,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000162",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -4996,6 +5158,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000163",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5017,6 +5180,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000164",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5039,6 +5203,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000165",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5061,6 +5226,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000166",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5083,6 +5249,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000167",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5105,6 +5272,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000168",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5127,6 +5295,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000169",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5149,6 +5318,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000170",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5171,6 +5341,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000171",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5193,6 +5364,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000172",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5215,6 +5387,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000173",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5237,6 +5410,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000174",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5259,6 +5433,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000175",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5281,6 +5456,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000176",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5302,6 +5478,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000177",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5324,6 +5501,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000178",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5346,6 +5524,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000179",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5368,6 +5547,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000180",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5390,6 +5570,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000181",
     "date": "2023-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5868,6 +6049,7 @@
     "follow_up": ""
   },
   {
+    "id": "mikami-000182",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5890,6 +6072,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000183",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5912,6 +6095,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000184",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5933,6 +6117,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000185",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5955,6 +6140,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000186",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5977,6 +6163,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000187",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -5999,6 +6186,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000188",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6021,6 +6209,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000189",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6043,6 +6232,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000190",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6065,6 +6255,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000191",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6087,6 +6278,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000192",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6108,6 +6300,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000193",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6130,6 +6323,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000194",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6152,6 +6346,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000195",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6175,6 +6370,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000196",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6197,6 +6393,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000197",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6219,6 +6416,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000198",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6241,6 +6439,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000199",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6264,6 +6463,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000200",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6286,6 +6486,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000201",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6308,6 +6509,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000202",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6330,6 +6532,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000203",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6353,6 +6556,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000204",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6375,6 +6579,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000205",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6396,6 +6601,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000206",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6419,6 +6625,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000207",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6441,6 +6648,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000208",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6463,6 +6671,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000209",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6485,6 +6694,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000210",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6507,6 +6717,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000211",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6528,6 +6739,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000212",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6550,6 +6762,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000213",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6572,6 +6785,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000214",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6593,6 +6807,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000215",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6614,6 +6829,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000216",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6636,6 +6852,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000217",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6658,6 +6875,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000218",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6680,6 +6898,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000219",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6701,6 +6920,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000220",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6722,6 +6942,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000221",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6744,6 +6965,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000222",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6765,6 +6987,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000223",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6786,6 +7009,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000224",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6808,6 +7032,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000225",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6830,6 +7055,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000226",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6852,6 +7078,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000227",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6874,6 +7101,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000228",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6895,6 +7123,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000229",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6917,6 +7146,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000230",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6939,6 +7169,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000231",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6961,6 +7192,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000232",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -6982,6 +7214,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000233",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7004,6 +7237,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000234",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7025,6 +7259,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000235",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7046,6 +7281,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000236",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7068,6 +7304,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000237",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7089,6 +7326,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000238",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7111,6 +7349,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000239",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7132,6 +7371,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000240",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7154,6 +7394,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000241",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7175,6 +7416,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000242",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7197,6 +7439,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000243",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7218,6 +7461,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000244",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7240,6 +7484,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000245",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7262,6 +7507,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000246",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7284,6 +7530,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000247",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7305,6 +7552,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000248",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7327,6 +7575,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000249",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7349,6 +7598,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000250",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7370,6 +7620,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000251",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7391,6 +7642,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000252",
     "date": "2022-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7948,6 +8200,7 @@
     "follow_up": ""
   },
   {
+    "id": "mikami-000253",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7970,6 +8223,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000254",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -7992,6 +8246,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000255",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8014,6 +8269,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000256",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8036,6 +8292,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000257",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8058,6 +8315,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000258",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8079,6 +8337,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000259",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8101,6 +8360,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000260",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8122,6 +8382,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000261",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8144,6 +8405,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000262",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8167,6 +8429,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000263",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8189,6 +8452,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000264",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8211,6 +8475,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000265",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8233,6 +8498,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000266",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8255,6 +8521,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000267",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8277,6 +8544,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000268",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8298,6 +8566,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000269",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8320,6 +8589,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000270",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8342,6 +8612,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000271",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8363,6 +8634,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000272",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8385,6 +8657,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000273",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8407,6 +8680,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000274",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8429,6 +8703,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000275",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8451,6 +8726,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000276",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8472,6 +8748,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000277",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8493,6 +8770,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000278",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8514,6 +8792,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000279",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8536,6 +8815,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000280",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8557,6 +8837,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000281",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8579,6 +8860,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000282",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8601,6 +8883,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000283",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8622,6 +8905,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000284",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8643,6 +8927,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000285",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8665,6 +8950,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000286",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8686,6 +8972,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000287",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8707,6 +8994,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000288",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8729,6 +9017,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000289",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8751,6 +9040,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000290",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8773,6 +9063,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000291",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8796,6 +9087,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000292",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8817,6 +9109,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000293",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8838,6 +9131,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000294",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8860,6 +9154,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000295",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8882,6 +9177,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000296",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8903,6 +9199,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000297",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8925,6 +9222,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000298",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8947,6 +9245,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000299",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8969,6 +9268,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000300",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -8990,6 +9290,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000301",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9012,6 +9313,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000302",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9034,6 +9336,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000303",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9056,6 +9359,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000304",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9078,6 +9382,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000305",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9099,6 +9404,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000306",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9121,6 +9427,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000307",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9143,6 +9450,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000308",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9165,6 +9473,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000309",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9187,6 +9496,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000310",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9208,6 +9518,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000311",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9230,6 +9541,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000312",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9251,6 +9563,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000313",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9273,6 +9586,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000314",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9294,6 +9608,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000315",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9316,6 +9631,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000316",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9337,6 +9653,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000317",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9359,6 +9676,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000318",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9381,6 +9699,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000319",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9403,6 +9722,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000320",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9425,6 +9745,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000321",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9447,6 +9768,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000322",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9469,6 +9791,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000323",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -9490,6 +9813,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000324",
     "date": "2021-01-01",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13783,6 +14107,7 @@
     "follow_up": "情報化推進計画を継続的に更新し、オンライン手続きの拡充・行政DXの推進が定着した。2025年度までに原則全手続きのオンライン化を目標として推進中。"
   },
   {
+    "id": "mikami-000325",
     "date": "2020-09-30",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13804,6 +14129,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000326",
     "date": "2020-09-30",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13826,6 +14152,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000327",
     "date": "2020-09-30",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13848,6 +14175,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000328",
     "date": "2020-09-30",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13870,6 +14198,7 @@
     "fiscal_year": 2021
   },
   {
+    "id": "mikami-000329",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13892,6 +14221,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000330",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13913,6 +14243,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000331",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13935,6 +14266,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000332",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13957,6 +14289,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000333",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -13979,6 +14312,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000334",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14000,6 +14334,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000335",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14022,6 +14357,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000336",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14044,6 +14380,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000337",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14066,6 +14403,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000338",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14087,6 +14425,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000339",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14109,6 +14448,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000340",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14131,6 +14471,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000341",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14152,6 +14493,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000342",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14173,6 +14515,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000343",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14194,6 +14537,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000344",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14216,6 +14560,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000345",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14237,6 +14582,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000346",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14259,6 +14605,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000347",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14281,6 +14628,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000348",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14304,6 +14652,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000349",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14326,6 +14675,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000350",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14347,6 +14697,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000351",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14369,6 +14720,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000352",
     "date": "2021-09-29",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14390,6 +14742,7 @@
     "fiscal_year": 2022
   },
   {
+    "id": "mikami-000353",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14412,6 +14765,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000354",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14433,6 +14787,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000355",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14454,6 +14809,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000356",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14475,6 +14831,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000357",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14496,6 +14853,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000358",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14519,6 +14877,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000359",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14542,6 +14901,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000360",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14565,6 +14925,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000361",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14588,6 +14949,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000362",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14611,6 +14973,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000363",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14633,6 +14996,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000364",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14654,6 +15018,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000365",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14676,6 +15041,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000366",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14698,6 +15064,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000367",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14720,6 +15087,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000368",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14742,6 +15110,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000369",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14764,6 +15133,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000370",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14786,6 +15156,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000371",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14808,6 +15179,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000372",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14831,6 +15203,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000373",
     "date": "2022-09-12",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14853,6 +15226,7 @@
     "fiscal_year": 2023
   },
   {
+    "id": "mikami-000374",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14874,6 +15248,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000375",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14896,6 +15271,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000376",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14918,6 +15294,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000377",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14940,6 +15317,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000378",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14962,6 +15340,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000379",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -14983,6 +15362,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000380",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15005,6 +15385,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000381",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15026,6 +15407,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000382",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15048,6 +15430,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000383",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15069,6 +15452,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000384",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15092,6 +15476,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000385",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15115,6 +15500,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000386",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15137,6 +15523,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000387",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15158,6 +15545,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000388",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15181,6 +15569,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000389",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15202,6 +15591,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000390",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15225,6 +15615,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000391",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15247,6 +15638,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000392",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15269,6 +15661,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000393",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15292,6 +15685,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000394",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15314,6 +15708,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000395",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15337,6 +15732,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000396",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15359,6 +15755,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000397",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15381,6 +15778,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000398",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15403,6 +15801,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000399",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15424,6 +15823,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000400",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15446,6 +15846,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000401",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15467,6 +15868,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000402",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15488,6 +15890,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000403",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15510,6 +15913,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000404",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15532,6 +15936,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000405",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15554,6 +15959,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000406",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15576,6 +15982,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000407",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15599,6 +16006,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000408",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15621,6 +16029,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000409",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15643,6 +16052,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000410",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15665,6 +16075,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000411",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15687,6 +16098,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000412",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15709,6 +16121,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000413",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15731,6 +16144,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000414",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15752,6 +16166,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000415",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15774,6 +16189,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000416",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15796,6 +16212,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000417",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15818,6 +16235,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000418",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15840,6 +16258,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000419",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15862,6 +16281,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000420",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15884,6 +16304,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000421",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15907,6 +16328,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000422",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15929,6 +16351,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000423",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15951,6 +16374,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000424",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15972,6 +16396,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000425",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -15994,6 +16419,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000426",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16016,6 +16442,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000427",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16038,6 +16465,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000428",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16060,6 +16488,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000429",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16081,6 +16510,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000430",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16103,6 +16533,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000431",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16125,6 +16556,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000432",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16147,6 +16579,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000433",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16169,6 +16602,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000434",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16190,6 +16624,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000435",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16211,6 +16646,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000436",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16233,6 +16669,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000437",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16255,6 +16692,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000438",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16277,6 +16715,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000439",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16298,6 +16737,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000440",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16320,6 +16760,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000441",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16342,6 +16783,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000442",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16364,6 +16806,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000443",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16387,6 +16830,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000444",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16410,6 +16854,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000445",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16431,6 +16876,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000446",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16453,6 +16899,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000447",
     "date": "2023-09-08",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16475,6 +16922,7 @@
     "fiscal_year": 2024
   },
   {
+    "id": "mikami-000448",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16497,6 +16945,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000449",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16518,6 +16967,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000450",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16540,6 +16990,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000451",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16562,6 +17013,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000452",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16583,6 +17035,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000453",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16604,6 +17057,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000454",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16626,6 +17080,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000455",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16649,6 +17104,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000456",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16672,6 +17128,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000457",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16695,6 +17152,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000458",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16718,6 +17176,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000459",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16741,6 +17200,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000460",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16763,6 +17223,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000461",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16785,6 +17246,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000462",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16806,6 +17268,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000463",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16829,6 +17292,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000464",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16851,6 +17315,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000465",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16874,6 +17339,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000466",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16897,6 +17363,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000467",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16919,6 +17386,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000468",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16941,6 +17409,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000469",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16963,6 +17432,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000470",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -16985,6 +17455,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000471",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17007,6 +17478,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000472",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17028,6 +17500,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000473",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17049,6 +17522,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000474",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17070,6 +17544,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000475",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17092,6 +17567,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000476",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17115,6 +17591,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000477",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17136,6 +17613,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000478",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17158,6 +17636,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000479",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17179,6 +17658,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000480",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17201,6 +17681,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000481",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17223,6 +17704,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000482",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17245,6 +17727,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000483",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17267,6 +17750,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000484",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17288,6 +17772,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000485",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17310,6 +17795,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000486",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17332,6 +17818,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000487",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17354,6 +17841,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000488",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17375,6 +17863,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000489",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17396,6 +17885,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000490",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17419,6 +17909,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000491",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17442,6 +17933,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000492",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17464,6 +17956,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000493",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17486,6 +17979,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000494",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17507,6 +18001,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000495",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17529,6 +18024,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000496",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17551,6 +18047,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000497",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17573,6 +18070,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000498",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17594,6 +18092,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000499",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17616,6 +18115,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000500",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17638,6 +18138,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000501",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17660,6 +18161,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000502",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17682,6 +18184,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000503",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17704,6 +18207,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000504",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17726,6 +18230,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000505",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17747,6 +18252,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000506",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17769,6 +18275,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000507",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17791,6 +18298,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000508",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17812,6 +18320,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000509",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17834,6 +18343,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000510",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17856,6 +18366,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000511",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17878,6 +18389,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000512",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17900,6 +18412,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000513",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17922,6 +18435,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000514",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17944,6 +18458,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000515",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17966,6 +18481,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000516",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -17988,6 +18504,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000517",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18010,6 +18527,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000518",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18032,6 +18550,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000519",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18053,6 +18572,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000520",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18075,6 +18595,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000521",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18097,6 +18618,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000522",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18118,6 +18640,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000523",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18140,6 +18663,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000524",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18162,6 +18686,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000525",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18184,6 +18709,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000526",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18207,6 +18733,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000527",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18230,6 +18757,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000528",
     "date": "2024-09-06",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18252,6 +18780,7 @@
     "fiscal_year": 2025
   },
   {
+    "id": "mikami-000529",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18275,6 +18804,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000530",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18296,6 +18826,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000531",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18318,6 +18849,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000532",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18341,6 +18873,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000533",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18363,6 +18896,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000534",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18385,6 +18919,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000535",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18406,6 +18941,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000536",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18428,6 +18964,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000537",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18450,6 +18987,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000538",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18472,6 +19010,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000539",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18494,6 +19033,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000540",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18515,6 +19055,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000541",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18536,6 +19077,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000542",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18558,6 +19100,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000543",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18581,6 +19124,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000544",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18604,6 +19148,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000545",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18625,6 +19170,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000546",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18648,6 +19194,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000547",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18670,6 +19217,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000548",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18693,6 +19241,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000549",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18716,6 +19265,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000550",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18738,6 +19288,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000551",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18760,6 +19311,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000552",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18782,6 +19334,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000553",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18805,6 +19358,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000554",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18828,6 +19382,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000555",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18851,6 +19406,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000556",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18874,6 +19430,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000557",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18897,6 +19454,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000558",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18919,6 +19477,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000559",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18942,6 +19501,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000560",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18965,6 +19525,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000561",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -18987,6 +19548,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000562",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19009,6 +19571,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000563",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19030,6 +19593,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000564",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19053,6 +19617,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000565",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19075,6 +19640,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000566",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19096,6 +19662,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000567",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19117,6 +19684,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000568",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19138,6 +19706,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000569",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19159,6 +19728,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000570",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19181,6 +19751,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000571",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19203,6 +19774,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000572",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19226,6 +19798,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000573",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19248,6 +19821,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000574",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19270,6 +19844,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000575",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19292,6 +19867,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000576",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19315,6 +19891,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000577",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19337,6 +19914,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000578",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19358,6 +19936,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000579",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19379,6 +19958,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000580",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19400,6 +19980,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000581",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19422,6 +20003,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000582",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19444,6 +20026,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000583",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19466,6 +20049,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000584",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19488,6 +20072,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000585",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19510,6 +20095,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000586",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19532,6 +20118,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000587",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19554,6 +20141,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000588",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19576,6 +20164,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000589",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19598,6 +20187,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000590",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19620,6 +20210,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000591",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19642,6 +20233,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000592",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19664,6 +20256,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000593",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19687,6 +20280,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000594",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19709,6 +20303,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000595",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19731,6 +20326,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000596",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19754,6 +20350,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000597",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19777,6 +20374,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000598",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19799,6 +20397,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000599",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19822,6 +20421,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000600",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19844,6 +20444,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000601",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19866,6 +20467,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000602",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19888,6 +20490,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000603",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19911,6 +20514,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000604",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19934,6 +20538,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000605",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19957,6 +20562,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000606",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -19979,6 +20585,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000607",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20001,6 +20608,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000608",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20023,6 +20631,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000609",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20045,6 +20654,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000610",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20068,6 +20678,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000611",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20091,6 +20702,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000612",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20113,6 +20725,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000613",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20135,6 +20748,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000614",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20157,6 +20771,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000615",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20178,6 +20793,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000616",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20200,6 +20816,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000617",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20221,6 +20838,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000618",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20244,6 +20862,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000619",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20267,6 +20886,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000620",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20289,6 +20909,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000621",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20311,6 +20932,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000622",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20333,6 +20955,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000623",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20356,6 +20979,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000624",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
@@ -20378,6 +21002,7 @@
     "fiscal_year": 2026
   },
   {
+    "id": "mikami-000625",
     "date": "2025-09-03",
     "meeting_type": "予算提案",
     "committee": "",
