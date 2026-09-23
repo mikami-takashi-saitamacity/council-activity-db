@@ -14,6 +14,7 @@ import unittest
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCRIPT = ROOT / "scripts" / "finalize_budget_legacy_fields.py"
+DECISIONS_PATH = ROOT.parent / "council-activity-private" / "v1.2.0" / "step10" / "budget_step10_decisions.json"
 
 
 def budget_record(**overrides) -> dict:
@@ -219,8 +220,18 @@ class RealDataFinalizeCheckTest(unittest.TestCase):
     """現在の実データ（activity_archive.json）に対する integration test。
 
     手順11C完了後、実データは finalize_budget_legacy_fields.py --check をPASSする
-    のが正常な状態。
+    のが正常な状態。ただし --check は private repo（council-activity-private）の
+    budget_step10_decisions.json をsource of truthとして必要とする。CI（GitHub
+    Actionsのvalidate workflow）はpublic repoのみをcheckoutし、private repoは
+    サイドバイサイドに存在しないため、このクラスの各テストは decisions ファイルが
+    無い環境ではskipする（reflect_budget_step10.pyの同種の依存と同じ扱い）。
+    このセッションのようにprivate repoがsiblingとしてcloneされている環境では
+    実際に検証される。
     """
+
+    def setUp(self) -> None:
+        if not DECISIONS_PATH.exists():
+            self.skipTest("private repoのdecisionsファイルが見つからない")
 
     def test_current_main_passes_check(self) -> None:
         result = subprocess.run(
@@ -232,10 +243,7 @@ class RealDataFinalizeCheckTest(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
     def test_all_budget_question_topics_match_final_decisions(self) -> None:
-        decisions_path = ROOT.parent / "council-activity-private" / "v1.2.0" / "step10" / "budget_step10_decisions.json"
-        if not decisions_path.exists():
-            self.skipTest("private repoのdecisionsファイルが見つからない")
-        decisions = json.loads(decisions_path.read_text(encoding="utf-8"))["decisions"]
+        decisions = json.loads(DECISIONS_PATH.read_text(encoding="utf-8"))["decisions"]
         dec_by_loc = {d["source_locator"]: d for d in decisions}
 
         archive = json.loads((ROOT / "activity_archive.json").read_text(encoding="utf-8"))
@@ -244,6 +252,40 @@ class RealDataFinalizeCheckTest(unittest.TestCase):
         for r in budget:
             dec = dec_by_loc[r["source_locator"]]
             self.assertEqual(r["question_topic"], dec["final_question_topic"])
+
+
+class RealDataDateFinalizedTest(unittest.TestCase):
+    """private repoに依存しない、date最終値化のCI向け回帰テスト。
+
+    手順11C完了後、予算提案の date が「legacy4項目維持のための仮日付
+    {fiscal_year}-01-01」のままのレコードが存在しないことを確認する。
+    SUBMISSION_DATE表そのものは finalize_budget_legacy_fields からimportし、
+    値をこのテストへ二重管理しない。
+    """
+
+    def test_no_budget_record_still_has_placeholder_date(self) -> None:
+        import importlib
+
+        spec = importlib.util.spec_from_file_location("finalize_mod_ro", SCRIPT)
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+
+        archive = json.loads((ROOT / "activity_archive.json").read_text(encoding="utf-8"))
+        budget = [r for r in archive if r.get("source_type") == "予算提案"]
+        self.assertEqual(len(budget), 625)
+
+        placeholder_dates = []
+        wrong_dates = []
+        for r in budget:
+            fy = r.get("fiscal_year")
+            expected = mod.SUBMISSION_DATE.get(fy)
+            if r.get("date") == f"{fy}-01-01" and expected != f"{fy}-01-01":
+                placeholder_dates.append(r.get("source_locator"))
+            if r.get("date") != expected:
+                wrong_dates.append(r.get("source_locator"))
+
+        self.assertEqual(placeholder_dates, [], "仮日付のまま残っている予算提案がある")
+        self.assertEqual(wrong_dates, [], "SUBMISSION_DATE表と一致しない予算提案がある")
 
 
 if __name__ == "__main__":
