@@ -21,9 +21,17 @@ def load(name):
 
 
 class BudgetMappingValidationTest(unittest.TestCase):
+    """budget_existing_mapping.json は手順8時点の既存324件を対象にしたスナップショット。
+    validate() はarchive中の予算提案件数とmapping.entries件数の厳密な1対1一致を前提に
+    しており、これは手順8時点（予算提案=324件）でのみ成立する。手順10反映後は
+    activity_archive.jsonの予算提案が625件になり新規301件はmapping.jsonの対象外と
+    なる（手順10の想定どおりの状態）ため、archiveは手順8完了時点の凍結スナップショット
+    （fixtures/budget_step8_archive_snapshot.json）を使う。master/mapping/unmatchedは
+    手順10で変更していないため、現行の正本をそのまま使う。"""
+
     @classmethod
     def setUpClass(cls):
-        cls.archive = load("activity_archive.json")
+        cls.archive = load("tests/fixtures/budget_step8_archive_snapshot.json")
         cls.master = load("budget_master.json")
         cls.mapping = load("budget_existing_mapping.json")
         cls.unmatched = load("budget_unmatched_master.json")
