@@ -20,9 +20,16 @@ def load(name):
 
 
 class PrepareBudgetStep9Test(unittest.TestCase):
+    """build_candidates()はmapping.entriesが指すarchive_indexのfingerprint
+    （date/session_name/question_topic/proposal）が、その時点のactivity_archive.json
+    と一致することを前提にした、手順9時点（手順10反映前）向けのツール。
+    手順10反映後はproposalがbudget_master.proposal_textへ置き換わりfingerprintが
+    崩れるため、archiveは手順8/9完了時点の凍結スナップショット
+    （fixtures/budget_step8_archive_snapshot.json）を使う。"""
+
     @classmethod
     def setUpClass(cls):
-        cls.archive = load("activity_archive.json")
+        cls.archive = load("tests/fixtures/budget_step8_archive_snapshot.json")
         cls.master = load("budget_master.json")
         cls.mapping = load("budget_existing_mapping.json")
         cls.data = step9.build_candidates(cls.archive, cls.master, cls.mapping)
