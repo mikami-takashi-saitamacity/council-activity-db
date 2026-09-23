@@ -75,7 +75,13 @@ def max_used_number(archive: list[dict], retired: list) -> int:
 
 
 def assign(archive: list[dict], next_n: int) -> tuple[int, int]:
-    """budget レコードのうち id 未設定のものへ配列順で連番を振る。戻り値は (assigned, skipped_existing)。"""
+    """budget レコードのうち id 未設定のものへ配列順で連番を振る。戻り値は (assigned, skipped_existing)。
+
+    配列順（activity_archive.json内の既存の並び）は、決定的・再現可能な処理順を
+    得るためだけに使う。ID自体は非意味的な代理キーであり、配列上の位置・年度・
+    source_locator・大項目番号・表示順のいずれとも対応付けない。この関数はレコード
+    の並び自体を変更しない（この処理で新たな順序を作り出しているわけではない）。
+    """
     assigned = 0
     skipped_existing = 0
     for r in archive:
