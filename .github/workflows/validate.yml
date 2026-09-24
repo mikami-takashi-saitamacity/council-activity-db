@@ -21,4 +21,5 @@ jobs:
       # 未整備のためFAILするのが正常。fixtureでの機能確認は tests/test_validate.py。
       # - run: python .github/validate.py --require-budget-v12-fields
       - run: python scripts/build_stats.py --check
+      - run: python scripts/finalize_budget_source_urls.py --check
       - run: python -m unittest discover -s tests -v

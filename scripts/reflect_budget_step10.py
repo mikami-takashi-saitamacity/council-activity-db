@@ -15,12 +15,14 @@ source_type / session_name）と committee / source_status / follow_up は
 旧URL照合4項目の一つのため）。
 
 legacy_inherit=false（301件）: 新規レコードとして末尾に追加する。date /
-session_name / source_url は budget_step10_spec.md §4 の年度別定数表から
-機械設定する。
+session_name は budget_step10_spec.md §4 の年度別定数表から機械設定する。
+source_url は空文字のまま追加する（下記参照）。
 
-source_url は本反映の対象外とする（budget_step10_spec.md §5は全625件への
-機械設定を挙げているが、範囲と順序_v1.2.0-v1.3.0.md 手順13の「source_url
-9件修復」で別途扱う既存の計画と重複するため、このスクリプトでは touch しない）。
+source_url は本反映の対象外とする。budget_step10_spec.md §5が挙げる「625件へ
+年度別定数表で機械設定する」という規則は、手順13で scripts/finalize_budget_source_urls.py
+が担当する（年度別URL定数は scripts/budget_source_urls.py に一元管理）。このスクリプトを
+複数回実行しても、既存レコードの source_url が上書きされたり空文字へ戻ったりしないよう、
+意図的に触らない。
 """
 from __future__ import annotations
 
