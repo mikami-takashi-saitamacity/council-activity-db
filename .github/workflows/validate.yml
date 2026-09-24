@@ -22,4 +22,5 @@ jobs:
       # - run: python .github/validate.py --require-budget-v12-fields
       - run: python scripts/build_stats.py --check
       - run: python scripts/finalize_budget_source_urls.py --check
+      - run: python scripts/check_provisional_age.py
       - run: python -m unittest discover -s tests -v
