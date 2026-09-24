@@ -10709,7 +10709,7 @@
     ],
     "answer_summary": "税務部長は音声コードの活用が納税理解に有効であるとし、広報監は市の広報媒体での多言語対応を説明。危機管理部長は避難所での多言語対応について言及し、商工観光部長はインバウンド対応のための音声コード導入について説明した。",
     "result_level": "研究段階",
-    "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=737&schedule_id=3&minute_id=581&is_search=true",
+    "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=737&schedule_id=3&minute_id=626&is_search=true",
     "follow_up": "",
     "source_type": "議事録",
     "source_status": "official"
@@ -10717,28 +10717,8 @@
   {
     "date": "2018-12-10",
     "meeting_type": "委員会",
-    "committee": "市民生活委員会",
-    "session_name": "2018年12月市民生活委員会",
-    "question_topic": "増加する在留外国人への多言語情報提供と支援体制の整備",
-    "issue": "市内在留外国人が5年で39%増加（2万3,000人超）しているにもかかわらず、市の多言語対応や生活支援が不十分。音声コードを活用した多言語対応も未整備。",
-    "proposal": "音声コードを税通知・広報・避難所情報等に活用し多言語対応を整備するとともに、在留外国人への生活支援相談体制を充実させること。",
-    "summary": "さいたま市内の在留外国人39%増加データを示し、音声コードを活用した多言語情報提供の導入を提案。避難所での情報提供・税納付案内・広報への活用を求めた。",
-    "tags": [
-      "人権・多様性",
-      "行政運営"
-    ],
-    "answer_summary": "音声コードの活用については他自治体の事例を参考に研究を進めると答弁。",
-    "result_level": "研究段階",
-    "source_type": "議事録",
-    "source_status": "official",
-    "source_url": "",
-    "follow_up": ""
-  },
-  {
-    "date": "2018-12-10",
-    "meeting_type": "委員会",
-    "committee": "市民生活委員会",
-    "session_name": "2018年12月市民生活委員会",
+    "committee": "総合政策委員会",
+    "session_name": "2018年12月定例会",
     "question_topic": "市税滞納者への給与差押え訴訟提起と滞納整理の適正性確認",
     "issue": "市税等滞納者の給与差押えに係る第三債務者（給与支払い者）が繰り返しの催告にも応じず、累積金額が高額に達している。",
     "proposal": "任意による解決を引き続き求めながら、訴訟提起による実効的な滞納整理を進め、公平な納税環境を確保すること。",
@@ -10746,11 +10726,11 @@
     "tags": [
       "行政運営"
     ],
-    "answer_summary": "訴訟提起により滞納整理の実効性を確保し公平な納税環境を維持すると答弁。",
-    "result_level": "実施済",
+    "answer_summary": "議案第170号・第171号の審査で、市側の対応と差押えの適正性を確認し、両議案への賛成討論を行った。委員会では両議案を可決すべきものと決した。",
+    "result_level": "適正確認",
     "source_type": "議事録",
     "source_status": "official",
-    "source_url": "",
+    "source_url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?council_id=737&schedule_id=3&minute_id=610&is_search=true",
     "follow_up": ""
   },
   {
