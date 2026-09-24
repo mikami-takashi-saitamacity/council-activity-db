@@ -133,7 +133,7 @@
       },
       "source_url": {
         "type": "string",
-        "description": "公式出典へのURL。議事録の場合はさいたま市議会会議録検索システムへのURL（順次整備中）、予算提案の場合はさいたま市議会立憲民主党会派の会派HPが公開する市の回答書PDFのURL。source_status=provisionalの場合は空文字"
+        "description": "公式出典へのURL。議事録の場合はさいたま市議会会議録検索システムへのURL（順次整備中）、予算提案の場合は会派HP（democracy-saitamacity.jp）が公開する市の回答書PDFのURL。source_status=provisionalの場合は空文字"
       },
       "follow_up": {
         "type": "string",
