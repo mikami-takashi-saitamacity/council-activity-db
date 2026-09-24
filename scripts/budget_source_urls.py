@@ -3,8 +3,10 @@
 正本: council-activity-private/v1.2.0/specs/budget_step10_spec.md §4。
 値はそこからそのまま転記したものであり、このリポジトリ側で生成・推測しない。
 
-reflect_budget_step10.py と finalize_budget_source_urls.py の両方がこの
-定数を import して使う。年度別URLをスクリプトごとに個別に持たない。
+finalize_budget_source_urls.py がこの定数を import して使う（source_url の
+機械設定・検証を担うのはこのスクリプトのみ）。reflect_budget_step10.py は
+source_url を対象外としており、この定数を import しない。年度別URLを複数
+スクリプトへ個別に複製しないための、単一の置き場所として本モジュールを置く。
 """
 from __future__ import annotations
 

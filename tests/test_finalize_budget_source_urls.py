@@ -86,16 +86,47 @@ class FinalizeBudgetSourceUrlsTest(unittest.TestCase):
             sys.argv = argv_backup
         return rc, archive_path
 
-    def test_sets_source_url_from_fiscal_year(self):
+    def test_sets_source_url_from_source_locator_year(self):
         with tempfile.TemporaryDirectory() as td:
             tmp_path = pathlib.Path(td)
-            archive = [budget_record(fiscal_year=2023, source_url="")]
+            archive = [budget_record(source_locator="2023-09-02", fiscal_year=2023, source_url="")]
 
             rc, archive_path = self._run(archive, tmp_path)
             self.assertEqual(rc, 0)
 
             updated = json.loads(archive_path.read_text(encoding="utf-8"))
             self.assertEqual(updated[0]["source_url"], SOURCE_URL[2023])
+
+    def test_source_locator_year_mismatch_with_fiscal_year_fails(self):
+        with tempfile.TemporaryDirectory() as td:
+            tmp_path = pathlib.Path(td)
+            # source_locatorは2023年度形式だが、fiscal_yearが2024。
+            # どちらが正しいかをこのスクリプトは判定せず、自動修正せずNGにする。
+            archive = [budget_record(source_locator="2023-09-02", fiscal_year=2024, source_url="")]
+
+            rc, archive_path = self._run(archive, tmp_path)
+            self.assertNotEqual(rc, 0)
+            unchanged = json.loads(archive_path.read_text(encoding="utf-8"))
+            self.assertEqual(unchanged[0]["source_url"], "")
+
+    def test_malformed_source_locator_fails(self):
+        with tempfile.TemporaryDirectory() as td:
+            tmp_path = pathlib.Path(td)
+            for bad_locator in ("", "2023", "23-09-02", "2023/09/02", "20231-09-02"):
+                with self.subTest(bad_locator=bad_locator):
+                    archive = [budget_record(source_locator=bad_locator, fiscal_year=2023, source_url="")]
+                    rc, _ = self._run(archive, tmp_path)
+                    self.assertNotEqual(rc, 0, f"source_locator={bad_locator!r} はNGになるべき")
+
+    def test_source_locator_year_not_in_constant_table_fails(self):
+        with tempfile.TemporaryDirectory() as td:
+            tmp_path = pathlib.Path(td)
+            # 形式は正しく、source_locator年度とfiscal_yearも一致しているが、
+            # 年度別定数表(SOURCE_URL)にその年度が定義されていない。
+            archive = [budget_record(source_locator="1999-01-01", fiscal_year=1999, source_url="")]
+
+            rc, _ = self._run(archive, tmp_path)
+            self.assertNotEqual(rc, 0)
 
     def test_non_budget_records_are_completely_unchanged(self):
         with tempfile.TemporaryDirectory() as td:
@@ -148,7 +179,7 @@ class FinalizeBudgetSourceUrlsTest(unittest.TestCase):
     def test_idempotent_second_run_changes_nothing(self):
         with tempfile.TemporaryDirectory() as td:
             tmp_path = pathlib.Path(td)
-            archive = [budget_record(fiscal_year=2024, source_url="")]
+            archive = [budget_record(source_locator="2024-01-01", fiscal_year=2024, source_url="")]
 
             rc1, archive_path = self._run(archive, tmp_path)
             self.assertEqual(rc1, 0)
@@ -162,7 +193,7 @@ class FinalizeBudgetSourceUrlsTest(unittest.TestCase):
     def test_already_correct_url_is_not_rewritten_and_check_passes(self):
         with tempfile.TemporaryDirectory() as td:
             tmp_path = pathlib.Path(td)
-            archive = [budget_record(fiscal_year=2026, source_url=SOURCE_URL[2026])]
+            archive = [budget_record(source_locator="2026-01-01", fiscal_year=2026, source_url=SOURCE_URL[2026])]
 
             rc, archive_path = self._run(archive, tmp_path, extra_args=["--check"])
             self.assertEqual(rc, 0)
@@ -186,6 +217,9 @@ class FinalizeBudgetSourceUrlsTest(unittest.TestCase):
             self.assertNotEqual(rc, 0)
 
     def test_unknown_fiscal_year_fails(self):
+        # source_locator年度とfiscal_yearは一致しているが、SOURCE_URLに
+        # その年度が定義されていないケース（test_source_locator_year_not_in_constant_table_failsと重複するが、
+        # fiscal_year側から見た表現としても固定しておく）。
         with tempfile.TemporaryDirectory() as td:
             tmp_path = pathlib.Path(td)
             archive = [budget_record(fiscal_year=1999, source_locator="1999-01-01")]
@@ -214,12 +248,21 @@ class RealDataFinalizeSourceUrlCheckTest(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
-    def test_all_625_budget_records_have_matching_source_url(self) -> None:
+    def test_all_625_budget_records_source_locator_year_matches_fiscal_year(self) -> None:
         archive = json.loads((ROOT / "activity_archive.json").read_text(encoding="utf-8"))
         budget = [r for r in archive if r.get("source_type") == "予算提案"]
         self.assertEqual(len(budget), 625)
         for r in budget:
-            self.assertEqual(r["source_url"], SOURCE_URL[r["fiscal_year"]], r.get("source_locator"))
+            year = mod.source_locator_year(r["source_locator"])
+            self.assertEqual(year, r["fiscal_year"], r.get("source_locator"))
+
+    def test_all_625_budget_records_have_source_url_matching_source_locator_year(self) -> None:
+        archive = json.loads((ROOT / "activity_archive.json").read_text(encoding="utf-8"))
+        budget = [r for r in archive if r.get("source_type") == "予算提案"]
+        self.assertEqual(len(budget), 625)
+        for r in budget:
+            year = mod.source_locator_year(r["source_locator"])
+            self.assertEqual(r["source_url"], SOURCE_URL[year], r.get("source_locator"))
 
 
 if __name__ == "__main__":

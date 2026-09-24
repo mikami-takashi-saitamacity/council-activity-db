@@ -9,12 +9,18 @@
 という確定仕様をここで実装する。年度別URLの値は scripts/budget_source_urls.py
 の SOURCE_URL を単一の正本として使う（このスクリプトへ複製しない）。
 
+年度キーは source_locator（形式 YYYY-MM-II）の先頭4桁から導出する。fiscal_year
+を直接キーにはしない。fiscal_year は「source_locator由来の年度と一致するはず」の
+独立項目として突き合わせ、不一致・不正形式・未定義年度はすべてNGで停止する
+（自動修正しない。誤ったfiscal_yearに対応するURLを誤って「正しい」と判定する
+事故を防ぐため）。
+
 対象は source_type == "予算提案" の625件のみ。議事録342件、および予算提案の
 source_url 以外のフィールドには一切触れない。レコード順序も変更しない。
 
 reflect_budget_step10.py は、このスクリプトと責務が重複しないよう、意図的に
-source_url を対象外としている（同スクリプトのdocstring参照）。このスクリプトは
-その分担を引き継ぎ、fiscal_year を唯一のキーとして source_url を恒久的に
+source_url を対象外としている（同スクリプトのdocstring参照）。このスクリプトが
+その分担を引き継ぎ、source_locatorの年度を唯一のキーとして source_url を恒久的に
 検証・機械設定する。
 """
 from __future__ import annotations
@@ -22,6 +28,7 @@ from __future__ import annotations
 import argparse
 import json
 import pathlib
+import re
 import sys
 
 # importlibでこのファイルを直接loadするテストからも sibling module を解決できるよう、
@@ -34,9 +41,25 @@ ARCHIVE_PATH = ROOT / "activity_archive.json"
 
 BUDGET_SOURCE_TYPE = "予算提案"
 
+# source_locatorの正本形式（budget_step10_spec.md §3.2）: YYYY-MM-II
+SOURCE_LOCATOR_PATTERN = re.compile(r"^(\d{4})-\d{2}-\d{2}$")
+
 
 class FinalizeSourceUrlError(Exception):
     pass
+
+
+def source_locator_year(loc) -> int:
+    """source_locator（YYYY-MM-II）の先頭4桁から年度を取り出す。
+
+    形式が不正な場合は FinalizeSourceUrlError を送出する（推測・部分一致はしない）。
+    """
+    if not isinstance(loc, str) or not loc:
+        raise FinalizeSourceUrlError(f"source_locator が空/不正です: {loc!r}")
+    m = SOURCE_LOCATOR_PATTERN.match(loc)
+    if not m:
+        raise FinalizeSourceUrlError(f"source_locator の形式が YYYY-MM-II ではありません: {loc!r}")
+    return int(m.group(1))
 
 
 def load(path: pathlib.Path):
@@ -49,10 +72,13 @@ def load(path: pathlib.Path):
 
 
 def finalize(archive: list[dict]) -> tuple[int, int, dict[int, int]]:
-    """budgetレコードの source_url を年度別定数表の値へ揃える。
+    """budgetレコードの source_url を、source_locator由来の年度別定数表の値へ揃える。
 
     戻り値は (変更件数, 対象件数, 年度別対象件数)。同じ値であれば書き換えない
     （何度実行しても結果が変わらない、冪等な実装）。
+
+    source_locatorの年度とfiscal_yearが食い違うレコードが1件でもあれば、
+    どちらが正しいかをこのスクリプトは判定せず、直ちにNGで停止する。
     """
     changed = 0
     total_budget = 0
@@ -63,15 +89,27 @@ def finalize(archive: list[dict]) -> tuple[int, int, dict[int, int]]:
             continue
         total_budget += 1
 
+        loc = r.get("source_locator")
+        try:
+            year = source_locator_year(loc)
+        except FinalizeSourceUrlError as e:
+            raise FinalizeSourceUrlError(f"activity_archive.json {i}件目: {e}") from e
+
         fy = r.get("fiscal_year")
-        expected = SOURCE_URL.get(fy)
-        if expected is None:
+        if year != fy:
             raise FinalizeSourceUrlError(
-                f"activity_archive.json {i}件目 (source_locator={r.get('source_locator')!r}): "
-                f"fiscal_year={fy!r} に対応する SOURCE_URL が定義されていない"
+                f"activity_archive.json {i}件目 (source_locator={loc!r}): "
+                f"source_locator由来の年度({year})とfiscal_year({fy!r})が一致しません"
             )
 
-        per_fy[fy] = per_fy.get(fy, 0) + 1
+        expected = SOURCE_URL.get(year)
+        if expected is None:
+            raise FinalizeSourceUrlError(
+                f"activity_archive.json {i}件目 (source_locator={loc!r}): "
+                f"年度={year} に対応する SOURCE_URL が定義されていない"
+            )
+
+        per_fy[year] = per_fy.get(year, 0) + 1
         if r.get("source_url") != expected:
             r["source_url"] = expected
             changed += 1
