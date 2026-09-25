@@ -25,23 +25,23 @@ class ComputeStatsTest(unittest.TestCase):
 
     def test_total_matches_current_db(self) -> None:
         stats = build_stats.compute_stats(self.data, self.schema)
-        self.assertEqual(stats["total"], 967)
+        self.assertEqual(stats["total"], 966)
 
     def test_by_source_type_matches_current_db(self) -> None:
         stats = build_stats.compute_stats(self.data, self.schema)
-        self.assertEqual(stats["by_source_type"], {"議事録": 342, "予算提案": 625})
+        self.assertEqual(stats["by_source_type"], {"議事録": 341, "予算提案": 625})
 
     def test_by_result_level_matches_current_db(self) -> None:
         stats = build_stats.compute_stats(self.data, self.schema)
         self.assertEqual(
             stats["by_result_level"],
             {
-                "実施済": 152,
+                "実施済": 151,
                 "改善・対応予定": 423,
                 "検討を引き出した": 100,
-                "研究段階": 109,
+                "研究段階": 108,
                 "提案のみ": 157,
-                "適正確認": 26,
+                "適正確認": 27,
             },
         )
 
@@ -241,7 +241,7 @@ class CheckModeTest(unittest.TestCase):
         self._run()
         readme_path = self.tmp_root / "README.md"
         text = readme_path.read_text(encoding="utf-8")
-        text = text.replace("収録件数：967件", "収録件数：改ざん件")
+        text = text.replace("収録件数：966件", "収録件数：改ざん件")
         readme_path.write_text(text, encoding="utf-8")
         result = self._run("--check")
         self.assertNotEqual(result.returncode, 0)

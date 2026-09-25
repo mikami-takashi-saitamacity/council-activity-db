@@ -192,15 +192,15 @@
   },
   "notes": {
     "encoding": "UTF-8",
-    "total_records": "967件（2026-09-24時点。定例会ごとに追加）",
+    "total_records": "966件（定例会ごとに追加）",
     "date_range": "2007年6月〜2026年2月",
-    "coverage": "本会議一般質問・常任委員会・予算委員会・決算委員会・会派予算提案。討論・請願は対象外",
+    "coverage": "本会議一般質問・常任委員会・予算委員会・決算委員会・会派予算提案。討論も一部収録。収録範囲は精査中",
     "update_frequency": "定例会（年4回）終了後に随時追加",
     "self_assessment": "result_levelの判定は議員本人が行っており、第三者による独立した検証はありません",
     "ai_usage": "Claude（Anthropic）によるJSON構造化・ChatGPT（OpenAI）による議事録抽出処理を活用",
-    "source_url_coverage": "出典URL（source_url）は967件中688件で整備済み。内訳は議事録342件中63件、予算提案625件中625件（全件）",
-    "follow_up_coverage": "その後の状況（follow_up）は967件中110件に記載",
-    "id_coverage": "恒久的な識別子（id）は967件中625件に付与済み。内訳は予算提案625件中625件（全件）、議事録342件中0件（v1.3.0で正式ID化予定）",
-    "source_status": "967件すべてがofficial。provisionalは0件"
+    "source_url_coverage": "出典URL（source_url）は966件中688件で整備済み。内訳は議事録341件中63件、予算提案625件中625件（全件）",
+    "follow_up_coverage": "その後の状況（follow_up）は966件中110件に記載",
+    "id_coverage": "恒久的な識別子（id）は966件中625件に付与済み。内訳は予算提案625件中625件（全件）、議事録341件中0件（v1.3.0で正式ID化予定）",
+    "source_status": "966件すべてがofficial。provisionalは0件"
   }
 }
