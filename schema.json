@@ -198,7 +198,7 @@
     "update_frequency": "定例会（年4回）終了後に随時追加",
     "self_assessment": "result_levelの判定は議員本人が行っており、第三者による独立した検証はありません",
     "ai_usage": "Claude（Anthropic）によるJSON構造化・ChatGPT（OpenAI）による議事録抽出処理を活用",
-    "source_url_coverage": "出典URL（source_url）は966件中689件で整備済み。内訳は議事録341件中64件、予算提案625件中625件（全件）",
+    "source_url_coverage": "出典URL（source_url）は966件中688件で整備済み。内訳は議事録341件中63件、予算提案625件中625件（全件）",
     "follow_up_coverage": "その後の状況（follow_up）は966件中110件に記載",
     "id_coverage": "恒久的な識別子（id）は966件中625件に付与済み。内訳は予算提案625件中625件（全件）、議事録341件中0件（v1.3.0で正式ID化予定）",
     "source_status": "966件すべてがofficial。provisionalは0件"
