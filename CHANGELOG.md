@@ -2,6 +2,15 @@
 
 データの版ごとの変更を記録します。件数の増減に加え、対応状況(result_level)の判定を変更した場合は、その件数もここに記載します(判定は議員本人によるため、変更の履歴を公開しておくことが検証可能性の担保になります)。
 
+## [1.3.2] - 2026-09-30
+
+- 収録件数の増減なし(1,343件のまま)。result_levelの変更は0件
+- 議事録4件の`source_url`を訂正(いずれも三神がブラウザで確認済み)。`minute_id`のみ変更し、`council_id`・`schedule_id`は変更なし
+  - `mikami-000869`:`council_id=775&schedule_id=2`、`minute_id` 275 → 314(旧URLは討論のブロックを指していた)
+  - `mikami-000927`:`council_id=690&schedule_id=4`、`minute_id` 318 → 345(旧URLは討論のブロックを指していた)
+  - `mikami-001306`:`council_id=210&schedule_id=1`、`minute_id` 163 → 256(旧URLは別の論点のブロックを指していた)
+  - `mikami-001058`:`council_id=507&schedule_id=7`、`minute_id` 99 → 128(旧URLは審査経過の報告のブロックを指していた)
+
 ## [1.3.1] - 2026-09-29
 
 - 収録件数の増減なし(1,343件のまま)。result_levelの変更は0件
