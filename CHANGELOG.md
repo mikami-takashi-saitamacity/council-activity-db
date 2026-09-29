@@ -2,6 +2,13 @@
 
 データの版ごとの変更を記録します。件数の増減に加え、対応状況(result_level)の判定を変更した場合は、その件数もここに記載します(判定は議員本人によるため、変更の履歴を公開しておくことが検証可能性の担保になります)。
 
+## [1.3.1] - 2026-09-29
+
+- 収録件数の増減なし(1,343件のまま)。result_levelの変更は0件
+- `mikami-000651`〜`000659`(9件)の`source_url`を訂正。`council_id=1047&schedule_id=8&minute_id=206`(誤って別の日を指していた)から、`council_id=1047&schedule_id=6`の`minute_id=377`(000651・000652）／`383`（000653〜000655）／`391`（000656〜000658）／`399`（000659）へ修正
+- v1.3.0のtag(`350de94d`)以後にmainへ反映されていた README・CHANGELOG の文言訂正([#21](https://github.com/mikami-takashi-saitamacity/council-activity-db/pull/21)、[#22](https://github.com/mikami-takashi-saitamacity/council-activity-db/pull/22)、[#23](https://github.com/mikami-takashi-saitamacity/council-activity-db/pull/23))を、本版に含める
+- CITATION.cffの`version`がv1.3.0公開時に`1.2.0`のまま更新されていなかったため、本版で`1.3.1`に更新した
+
 ## [1.3.0] - 2026-09-28
 
 - 1,343件（議事録718件／会派予算提案625件）を正式公開
